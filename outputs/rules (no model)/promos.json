@@ -1,0 +1,3415 @@
+{
+  "meta": {
+    "title": "I Married a Broken Soldier. He was a Duke",
+    "model": "rules (no model)",
+    "episodes": "all",
+    "seconds": 0.062046051025390625,
+    "llm_calls": 0,
+    "cache_hits": 0,
+    "tokens": {
+      "input_tokens": 0,
+      "output_tokens": 0
+    },
+    "settings": {
+      "input": "..",
+      "title": "I Married a Broken Soldier. He was a Duke",
+      "provider": "rules",
+      "model": null,
+      "episodes": null,
+      "per_episode": 3,
+      "stitch": 5,
+      "judge": 15,
+      "top": 10,
+      "rpm": 8,
+      "out": null,
+      "no_cache": false
+    }
+  },
+  "promos": [
+    {
+      "rank": 1,
+      "id": "E03-1",
+      "source": "rules",
+      "score": 7.34,
+      "length_s": 30.2,
+      "segments": [
+        {
+          "episode": 3,
+          "start": "01:24.00",
+          "end": "01:54.20"
+        }
+      ],
+      "hook": "The Bearded Stranger effortlessly blocks the guard's strike and drives a devastating strike into him, dropping the armed guard instantly to the floor.",
+      "hook_type": "keyword",
+      "cliffhanger": "Because I want to.",
+      "why": "rules: hook keywords score 6.5, ending score 1.1",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 9.5,
+        "cliffhanger": 5.11,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 9.5,
+        "cliffhanger": 5.1,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.5
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": 2,
+      "id": "E22-1",
+      "source": "rules",
+      "score": 7.21,
+      "length_s": 39.0,
+      "segments": [
+        {
+          "episode": 22,
+          "start": "01:32.00",
+          "end": "02:11.00"
+        }
+      ],
+      "hook": "Low-angle push-in on Lady Juliana looking up at the enormous portrait of the late Duke and Duchess hanging above the gallery.",
+      "hook_type": "keyword",
+      "cliffhanger": "Who has been treating you?",
+      "why": "rules: hook keywords score 4.5, ending score 4.5",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 7.5,
+        "cliffhanger": 8.45,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 7.5,
+        "cliffhanger": 8.4,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": 3,
+      "id": "E24-1",
+      "source": "rules",
+      "score": 6.97,
+      "length_s": 39.7,
+      "segments": [
+        {
+          "episode": 24,
+          "start": "00:30.80",
+          "end": "01:10.50"
+        }
+      ],
+      "hook": "The noblewoman suddenly rears back her riding crop and strikes Juliana violently across the torso.",
+      "hook_type": "keyword",
+      "cliffhanger": "Do you want the same punishment?",
+      "why": "rules: hook keywords score 3.5, ending score 4.9",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.5,
+        "cliffhanger": 8.915,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.5,
+        "cliffhanger": 8.9,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": 4,
+      "id": "E38-1",
+      "source": "rules",
+      "score": 6.73,
+      "length_s": 28.5,
+      "segments": [
+        {
+          "episode": 38,
+          "start": "00:11.00",
+          "end": "00:39.50"
+        }
+      ],
+      "hook": "The Guard kneels down and slips a small loaf of rustic bread through the bottom gap between the iron bars, nudging it inside before withdrawing his gloved hand.",
+      "hook_type": "keyword",
+      "cliffhanger": "...are you safe?",
+      "why": "rules: hook keywords score 5.0, ending score 2.5",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 8.0,
+        "cliffhanger": 6.525,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 8.0,
+        "cliffhanger": 6.5,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": 5,
+      "id": "E03-3",
+      "source": "rules",
+      "score": 6.68,
+      "length_s": 28.2,
+      "segments": [
+        {
+          "episode": 3,
+          "start": "00:28.00",
+          "end": "00:56.20"
+        }
+      ],
+      "hook": "Close-up on Juliana, tears shimmering in her eyes as betrayal strikes deep.",
+      "hook_type": "keyword",
+      "cliffhanger": "Your father has chosen his family...",
+      "why": "rules: hook keywords score 4.5, ending score 1.5",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 7.5,
+        "cliffhanger": 5.51,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 7.5,
+        "cliffhanger": 5.5,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.5
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": 6,
+      "id": "E31-1",
+      "source": "rules",
+      "score": 6.62,
+      "length_s": 22.0,
+      "segments": [
+        {
+          "episode": 31,
+          "start": "02:18.00",
+          "end": "02:40.00"
+        }
+      ],
+      "hook": "Tears spill rapidly down Juliana's cheeks as she reaches forward in vain, restrained by her heavy iron chains.",
+      "hook_type": "keyword",
+      "cliffhanger": "Extreme macro close-up of Juliana's wide, trembling eye. The brilliant orange ember of the hot poker reflects clearly in the center of her pupil, holding on the",
+      "why": "rules: hook keywords score 5.0, ending score 2.2",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 8.0,
+        "cliffhanger": 6.2,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 8.0,
+        "cliffhanger": 6.2,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": 7,
+      "id": "E43-2",
+      "source": "rules",
+      "score": 6.6,
+      "length_s": 43.8,
+      "segments": [
+        {
+          "episode": 43,
+          "start": "00:16.20",
+          "end": "01:00.00"
+        }
+      ],
+      "hook": "Low-angle shot looking down along the polished stone floor as the guard's sword tip grounds firmly between Rupert and the guards.",
+      "hook_type": "keyword",
+      "cliffhanger": "Read the names.",
+      "why": "rules: hook keywords score 4.5, ending score 2.7",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 7.5,
+        "cliffhanger": 6.71,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 7.5,
+        "cliffhanger": 6.7,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": 8,
+      "id": "E27-1",
+      "source": "rules",
+      "score": 6.49,
+      "length_s": 25.9,
+      "segments": [
+        {
+          "episode": 27,
+          "start": "02:04.60",
+          "end": "02:30.50"
+        }
+      ],
+      "hook": "She admits she has been giving the Duchess poison in secret!",
+      "hook_type": "keyword",
+      "cliffhanger": "Extreme close-up of Juliana's wide, terrified eyes as she realizes the deadly trap closing around her, cutting abruptly to black.",
+      "why": "rules: hook keywords score 4.5, ending score 2.4",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 7.5,
+        "cliffhanger": 6.3950000000000005,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 7.5,
+        "cliffhanger": 6.4,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": 9,
+      "id": "E12-1",
+      "source": "rules",
+      "score": 6.47,
+      "length_s": 22.0,
+      "segments": [
+        {
+          "episode": 12,
+          "start": "01:05.20",
+          "end": "01:27.21"
+        }
+      ],
+      "hook": "Fail, or refuse, and your husband hangs from the gallows.",
+      "hook_type": "keyword",
+      "cliffhanger": "Tell me where the garden is.",
+      "why": "rules: hook keywords score 4.0, ending score 2.2",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 7.0,
+        "cliffhanger": 6.2005,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 7.0,
+        "cliffhanger": 6.2,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.25
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": 10,
+      "id": "E18-1",
+      "source": "rules",
+      "score": 6.47,
+      "length_s": 30.5,
+      "segments": [
+        {
+          "episode": 18,
+          "start": "01:49.50",
+          "end": "02:20.00"
+        }
+      ],
+      "hook": "Loud explosion of shattering window glass and splintering wood.",
+      "hook_type": "keyword",
+      "cliffhanger": "Everything we had is gone.",
+      "why": "rules: hook keywords score 4.5, ending score 1.6",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 7.5,
+        "cliffhanger": 5.625,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 7.5,
+        "cliffhanger": 5.6,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.25
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E06-1",
+      "source": "rules",
+      "score": 6.4,
+      "length_s": 25.0,
+      "segments": [
+        {
+          "episode": 6,
+          "start": "01:21.00",
+          "end": "01:46.00"
+        }
+      ],
+      "hook": "He strikes flint and steel together over dry kindling, igniting bright sparks that catch into a flickering flame.",
+      "hook_type": "keyword",
+      "cliffhanger": "And yet...",
+      "why": "rules: hook keywords score 3.5, ending score 1.9",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.5,
+        "cliffhanger": 5.85,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.5,
+        "cliffhanger": 5.8,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.5
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E37-1",
+      "source": "rules",
+      "score": 6.26,
+      "length_s": 43.0,
+      "segments": [
+        {
+          "episode": 37,
+          "start": "01:53.50",
+          "end": "02:36.47"
+        }
+      ],
+      "hook": "Tight close-up of Juliana's iron-shackled hand reaching out and gripping the massive iron ring anchored into the dungeon pillar with crushing determination.",
+      "hook_type": "keyword",
+      "cliffhanger": "Tight close-up of Juliana's iron-shackled hand reaching out and gripping the massive iron ring anchored into the dungeon pillar with crushing determination.",
+      "why": "rules: hook keywords score 4.5, ending score 1.8",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 7.5,
+        "cliffhanger": 5.7515,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 7.5,
+        "cliffhanger": 5.8,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E14-1",
+      "source": "rules",
+      "score": 6.24,
+      "length_s": 44.1,
+      "segments": [
+        {
+          "episode": 14,
+          "start": "00:43.50",
+          "end": "01:27.63"
+        }
+      ],
+      "hook": "Warm interior wide shot in front of a roaring hearth fire. Juliana sits on a wooden chair while Alexander kneels on the floor before her, a washbasin of water b",
+      "hook_type": "keyword",
+      "cliffhanger": "Ominous, resonating low bass boom swelling into sudden silence as the screen cuts to black.",
+      "why": "rules: hook keywords score 3.0, ending score 2.7",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 6.6935,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 6.7,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.25
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E04-1",
+      "source": "rules",
+      "score": 6.23,
+      "length_s": 36.6,
+      "segments": [
+        {
+          "episode": 4,
+          "start": "01:54.80",
+          "end": "02:31.40"
+        }
+      ],
+      "hook": "You have thrown yourself away!",
+      "hook_type": "keyword",
+      "cliffhanger": "Juliana and the Mysterious Bearded Man walk hand-in-hand through the towering doors into the sunlight together, turning their backs on the ruined wedding as the",
+      "why": "rules: hook keywords score 3.0, ending score 1.9",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.930000000000001,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 5.9,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.5
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E28-1",
+      "source": "rules",
+      "score": 6.17,
+      "length_s": 27.9,
+      "segments": [
+        {
+          "episode": 28,
+          "start": "00:47.40",
+          "end": "01:15.30"
+        }
+      ],
+      "hook": "Wide shot as Juliana lunges across the room toward the bed, but the armed guard seizes her from behind and drags her back.",
+      "hook_type": "keyword",
+      "cliffhanger": "Where did a gutter rat like you find a silver locket?",
+      "why": "rules: hook keywords score 4.5, ending score 1.5",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 7.5,
+        "cliffhanger": 5.495,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 7.5,
+        "cliffhanger": 5.5,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E26-1",
+      "source": "rules",
+      "score": 6.16,
+      "length_s": 30.1,
+      "segments": [
+        {
+          "episode": 26,
+          "start": "01:30.80",
+          "end": "02:00.88"
+        }
+      ],
+      "hook": "The Duchess's mouth hangs open in pure disbelief as she stares fixedly at Juliana's hand.",
+      "hook_type": "keyword",
+      "cliffhanger": "Tight close-up of the Dowager Duchess's two weathered hands tightly clasping Juliana's hand, holding the signet ring between them as a dramatic orchestral cliff",
+      "why": "rules: hook keywords score 3.5, ending score 2.6",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.5,
+        "cliffhanger": 6.604,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.5,
+        "cliffhanger": 6.6,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E09-1",
+      "source": "rules",
+      "score": 6.15,
+      "length_s": 45.0,
+      "segments": [
+        {
+          "episode": 9,
+          "start": "00:43.00",
+          "end": "01:28.00"
+        }
+      ],
+      "hook": "Alexander hurries to the hearth and lifts a boiling iron kettle from the hearth chain, while the mother buries her face in her hands.",
+      "hook_type": "keyword",
+      "cliffhanger": "What is it?",
+      "why": "rules: hook keywords score 3.5, ending score 1.1",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.5,
+        "cliffhanger": 5.15,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.5,
+        "cliffhanger": 5.2,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.5
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E16-1",
+      "source": "rules",
+      "score": 6.11,
+      "length_s": 24.2,
+      "segments": [
+        {
+          "episode": 16,
+          "start": "00:59.00",
+          "end": "01:23.19"
+        }
+      ],
+      "hook": "Close-up on Alexander's hand hanging by his coat. Fresh blood trickles from his split knuckles, and he slowly curls his fingers into a tight fist.",
+      "hook_type": "keyword",
+      "cliffhanger": "No.",
+      "why": "rules: hook keywords score 3.0, ending score 2.3",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 6.3095,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 6.3,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.25
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E13-1",
+      "source": "rules",
+      "score": 6.08,
+      "length_s": 41.8,
+      "segments": [
+        {
+          "episode": 13,
+          "start": "00:14.20",
+          "end": "00:56.00"
+        }
+      ],
+      "hook": "They will tear your hands apart.",
+      "hook_type": "keyword",
+      "cliffhanger": "No...",
+      "why": "rules: hook keywords score 2.5, ending score 2.8",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.5,
+        "cliffhanger": 6.8100000000000005,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.5,
+        "cliffhanger": 6.8,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.25
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E28-2",
+      "source": "rules",
+      "score": 6.08,
+      "length_s": 34.1,
+      "segments": [
+        {
+          "episode": 28,
+          "start": "01:18.90",
+          "end": "01:53.00"
+        }
+      ],
+      "hook": "A witch has no need for family heirlooms in the gallows.",
+      "hook_type": "keyword",
+      "cliffhanger": "...because no respectable man would have her.",
+      "why": "rules: hook keywords score 4.0, ending score 1.8",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 7.0,
+        "cliffhanger": 5.805,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 7.0,
+        "cliffhanger": 5.8,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E25-1",
+      "source": "rules",
+      "score": 6.02,
+      "length_s": 30.8,
+      "segments": [
+        {
+          "episode": 25,
+          "start": "02:17.20",
+          "end": "02:48.00"
+        }
+      ],
+      "hook": "Worry? They struck you. They could have killed you.",
+      "hook_type": "keyword",
+      "cliffhanger": "Wide tracking shot from behind Alexander and Juliana as their silhouettes disappear into the shadowy, mist-veiled forest as emotional strings swell to a resolvi",
+      "why": "rules: hook keywords score 4.0, ending score 1.6",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 7.0,
+        "cliffhanger": 5.640000000000001,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 7.0,
+        "cliffhanger": 5.6,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E37-2",
+      "source": "rules",
+      "score": 6.0,
+      "length_s": 28.0,
+      "segments": [
+        {
+          "episode": 37,
+          "start": "01:32.00",
+          "end": "02:00.00"
+        }
+      ],
+      "hook": "Close-up on Juliana's bruised hand, locked in a heavy iron shackle chained to the wall, trembling as she hesitates inches away from a dirty earthen bowl filled ",
+      "hook_type": "keyword",
+      "cliffhanger": "Do you think she'll actually be executed?",
+      "why": "rules: hook keywords score 4.5, ending score 1.0",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 7.5,
+        "cliffhanger": 5.0,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 7.5,
+        "cliffhanger": 5.0,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E05-1",
+      "source": "rules",
+      "score": 5.99,
+      "length_s": 52.7,
+      "segments": [
+        {
+          "episode": 5,
+          "start": "00:57.80",
+          "end": "01:50.50"
+        }
+      ],
+      "hook": "A heavy wet slap as the leather-bound book crashes into the puddle-slicked stone pavement.",
+      "hook_type": "keyword",
+      "cliffhanger": "Rain gently pattering on cobblestones beneath a sweeping, melancholic orchestral swell that slowly fades to black.",
+      "why": "rules: hook keywords score 3.0, ending score 1.3",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.265,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 5.3,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.5
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E32-1",
+      "source": "rules",
+      "score": 5.98,
+      "length_s": 45.0,
+      "segments": [
+        {
+          "episode": 32,
+          "start": "01:49.40",
+          "end": "02:34.38"
+        }
+      ],
+      "hook": "Medium shot of Catherine standing motionless, holding the iron rod, struck to the core by the insult.",
+      "hook_type": "keyword",
+      "cliffhanger": "Extreme close-up of Juliana's wide, unblinking blue eye. The intense, fiery orange glow of the iron poker radiates inches from her cornea, holding on the heart-",
+      "why": "rules: hook keywords score 3.0, ending score 2.7",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 6.651000000000001,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 6.7,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E01-2",
+      "source": "rules",
+      "score": 5.97,
+      "length_s": 42.4,
+      "segments": [
+        {
+          "episode": 1,
+          "start": "00:39.00",
+          "end": "01:21.40"
+        }
+      ],
+      "hook": "Because he is marrying me.",
+      "hook_type": "keyword",
+      "cliffhanger": "Father...",
+      "why": "rules: hook keywords score 2.5, ending score 1.8",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.5,
+        "cliffhanger": 5.779999999999999,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.5,
+        "cliffhanger": 5.8,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.5
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E30-1",
+      "source": "rules",
+      "score": 5.94,
+      "length_s": 26.1,
+      "segments": [
+        {
+          "episode": 30,
+          "start": "02:05.10",
+          "end": "02:31.21"
+        }
+      ],
+      "hook": "She will hang. A perfect solution. The town will cheer as the witch's disgraced daughter faces the noose.",
+      "hook_type": "keyword",
+      "cliffhanger": "Juliana clutches a rough burlap rag to her trembling chest, her tear-stained face lifting upward in dread and fragile hope as the frame holds, cutting abruptly ",
+      "why": "rules: hook keywords score 4.0, ending score 1.4",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 7.0,
+        "cliffhanger": 5.405500000000001,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 7.0,
+        "cliffhanger": 5.4,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E15-1",
+      "source": "rules",
+      "score": 5.92,
+      "length_s": 39.5,
+      "segments": [
+        {
+          "episode": 15,
+          "start": "00:46.50",
+          "end": "01:26.00"
+        }
+      ],
+      "hook": "The Thug with Cap violently shoves Juliana back with both hands; she cries out as she loses her balance and crashes hard onto the wet stone path.",
+      "hook_type": "keyword",
+      "cliffhanger": "Tense, low dramatic cello swell holding into an abrupt cliffhanger cut.",
+      "why": "rules: hook keywords score 2.0, ending score 2.9",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 6.925,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 6.9,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.25
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E49-1",
+      "source": "rules",
+      "score": 5.9,
+      "length_s": 26.8,
+      "segments": [
+        {
+          "episode": 49,
+          "start": "01:58.00",
+          "end": "02:24.75"
+        }
+      ],
+      "hook": "Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.",
+      "hook_type": "keyword",
+      "cliffhanger": "We always have.",
+      "why": "rules: hook keywords score 3.0, ending score 2.4",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 6.4375,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 6.4,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E29-1",
+      "source": "rules",
+      "score": 5.87,
+      "length_s": 33.7,
+      "segments": [
+        {
+          "episode": 29,
+          "start": "01:23.00",
+          "end": "01:56.69"
+        }
+      ],
+      "hook": "The guards shove Juliana violently into the cell; she falls hard onto all fours across the cold, wet stone floor.",
+      "hook_type": "keyword",
+      "cliffhanger": "Low-angle shot looking up at Juliana standing dignified in the center of the damp dungeon cell, gazing upward toward the overhead grate where faint beams of moo",
+      "why": "rules: hook keywords score 3.5, ending score 1.8",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.5,
+        "cliffhanger": 5.7844999999999995,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.5,
+        "cliffhanger": 5.8,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E30-2",
+      "source": "rules",
+      "score": 5.86,
+      "length_s": 31.4,
+      "segments": [
+        {
+          "episode": 30,
+          "start": "00:33.40",
+          "end": "01:04.80"
+        }
+      ],
+      "hook": "Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in your cellar, you burn them!",
+      "hook_type": "keyword",
+      "cliffhanger": "The law?",
+      "why": "rules: hook keywords score 4.0, ending score 1.2",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 7.0,
+        "cliffhanger": 5.17,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 7.0,
+        "cliffhanger": 5.2,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E44-1",
+      "source": "rules",
+      "score": 5.84,
+      "length_s": 23.2,
+      "segments": [
+        {
+          "episode": 44,
+          "start": "00:46.40",
+          "end": "01:09.60"
+        }
+      ],
+      "hook": "I was supposed to be your Duchess!",
+      "hook_type": "keyword",
+      "cliffhanger": "Alexander walks away from Catherine toward Juliana, who waits solemnly by the cathedral entrance.",
+      "why": "rules: hook keywords score 3.0, ending score 2.3",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 6.26,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 6.3,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E11-1",
+      "source": "rules",
+      "score": 5.83,
+      "length_s": 47.9,
+      "segments": [
+        {
+          "episode": 11,
+          "start": "00:28.90",
+          "end": "01:16.80"
+        }
+      ],
+      "hook": "Of course you would defend him. You married a beggar!",
+      "hook_type": "keyword",
+      "cliffhanger": "Happy?",
+      "why": "rules: hook keywords score 3.0, ending score 1.5",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.505,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 5.5,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.25
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E45-1",
+      "source": "rules",
+      "score": 5.81,
+      "length_s": 21.7,
+      "segments": [
+        {
+          "episode": 45,
+          "start": "00:02.80",
+          "end": "00:24.50"
+        }
+      ],
+      "hook": "Medium close-up on Juliana looking down at her chained hands, tears welling in her eyes.",
+      "hook_type": "keyword",
+      "cliffhanger": "You're the Duke?",
+      "why": "rules: hook keywords score 3.0, ending score 2.2",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 6.1850000000000005,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 6.2,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E38-2",
+      "source": "rules",
+      "score": 5.8,
+      "length_s": 20.9,
+      "segments": [
+        {
+          "episode": 38,
+          "start": "01:07.00",
+          "end": "01:27.91"
+        }
+      ],
+      "hook": "Low-angle shot looking up past Juliana kneeling on the wet floor toward the barred iron skylight above her cell.",
+      "hook_type": "keyword",
+      "cliffhanger": "Alexander...",
+      "why": "rules: hook keywords score 3.0, ending score 2.1",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 6.1455,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 6.1,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E09-2",
+      "source": "rules",
+      "score": 5.78,
+      "length_s": 32.5,
+      "segments": [
+        {
+          "episode": 9,
+          "start": "00:05.50",
+          "end": "00:38.00"
+        }
+      ],
+      "hook": "Please! They told me there was a woman here who knows herbs. My boy is burning with fever!",
+      "hook_type": "keyword",
+      "cliffhanger": "I have to be.",
+      "why": "rules: hook keywords score 2.5, ending score 1.2",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.5,
+        "cliffhanger": 5.225,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.5,
+        "cliffhanger": 5.2,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.5
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E15-2",
+      "source": "rules",
+      "score": 5.78,
+      "length_s": 28.0,
+      "segments": [
+        {
+          "episode": 15,
+          "start": "00:03.50",
+          "end": "00:31.50"
+        }
+      ],
+      "hook": "The thug brutally smashes his club down into a wooden planter box, shattering the frame.",
+      "hook_type": "keyword",
+      "cliffhanger": "Months? You actually spend your days growing this filth?",
+      "why": "rules: hook keywords score 2.0, ending score 2.5",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 6.5,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 6.5,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.25
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E20-2",
+      "source": "rules",
+      "score": 5.76,
+      "length_s": 24.0,
+      "segments": [
+        {
+          "episode": 20,
+          "start": "00:15.20",
+          "end": "00:39.20"
+        }
+      ],
+      "hook": "'Practically' is a word for beggars. I do not marry a practical Duke.",
+      "hook_type": "keyword",
+      "cliffhanger": "How much longer can the frail thing survive?",
+      "why": "rules: hook keywords score 3.0, ending score 1.3",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.300000000000001,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 5.3,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.25
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E31-2",
+      "source": "rules",
+      "score": 5.74,
+      "length_s": 37.5,
+      "segments": [
+        {
+          "episode": 31,
+          "start": "00:43.00",
+          "end": "01:20.50"
+        }
+      ],
+      "hook": "Close-up of Catherine scowling, cutting back to a shot of Juliana's bare, chained feet locked in iron manacles against the cold stone floor.",
+      "hook_type": "keyword",
+      "cliffhanger": "You call that marriage?",
+      "why": "rules: hook keywords score 3.0, ending score 2.0",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.975,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 6.0,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E27-2",
+      "source": "rules",
+      "score": 5.73,
+      "length_s": 37.0,
+      "segments": [
+        {
+          "episode": 27,
+          "start": "00:09.40",
+          "end": "00:46.40"
+        }
+      ],
+      "hook": "Low angle on the Dowager Duchess, her eyes burning with intensity.",
+      "hook_type": "keyword",
+      "cliffhanger": "What is your husband's name?",
+      "why": "rules: hook keywords score 3.0, ending score 1.9",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.95,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 6.0,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E29-2",
+      "source": "rules",
+      "score": 5.72,
+      "length_s": 39.5,
+      "segments": [
+        {
+          "episode": 29,
+          "start": "00:56.60",
+          "end": "01:36.10"
+        }
+      ],
+      "hook": "You are doing this because I saved the Duchess!",
+      "hook_type": "keyword",
+      "cliffhanger": "Mother...",
+      "why": "rules: hook keywords score 3.0, ending score 1.9",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.925000000000001,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 5.9,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E28-3",
+      "source": "rules",
+      "score": 5.71,
+      "length_s": 41.6,
+      "segments": [
+        {
+          "episode": 28,
+          "start": "00:15.20",
+          "end": "00:56.80"
+        }
+      ],
+      "hook": "I did not poison her! Look at her eyes, the fever has broken!",
+      "hook_type": "keyword",
+      "cliffhanger": "The poison has clearly damaged her mind.",
+      "why": "rules: hook keywords score 3.5, ending score 1.3",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.5,
+        "cliffhanger": 5.32,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.5,
+        "cliffhanger": 5.3,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E40-1",
+      "source": "rules",
+      "score": 5.71,
+      "length_s": 35.6,
+      "segments": [
+        {
+          "episode": 40,
+          "start": "01:14.50",
+          "end": "01:50.08"
+        }
+      ],
+      "hook": "And its witch will be dead.",
+      "hook_type": "keyword",
+      "cliffhanger": "And you look better in silk than you ever did as an ignored cousin.",
+      "why": "rules: hook keywords score 3.0, ending score 1.9",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.879,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 5.9,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E42-1",
+      "source": "rules",
+      "score": 5.7,
+      "length_s": 28.2,
+      "segments": [
+        {
+          "episode": 42,
+          "start": "00:16.60",
+          "end": "00:44.80"
+        }
+      ],
+      "hook": "Guards! Arrest this imposter!",
+      "hook_type": "keyword",
+      "cliffhanger": "Alexander...",
+      "why": "rules: hook keywords score 5.0, ending score 1.0",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 8.0,
+        "cliffhanger": 5.01,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 8.0,
+        "cliffhanger": 5.0,
+        "standalone": 5.0,
+        "penalty": -0.5,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [
+        "many_characters (5 speakers)"
+      ],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E23-1",
+      "source": "rules",
+      "score": 5.69,
+      "length_s": 50.0,
+      "segments": [
+        {
+          "episode": 23,
+          "start": "01:21.50",
+          "end": "02:11.50"
+        }
+      ],
+      "hook": "Poison?",
+      "hook_type": "keyword",
+      "cliffhanger": "Close-up on the brass door lever as it slowly rotates downward, and the heavy door cracks open inward into the room\u2014cutting to an intense, heart-stopping cliffh",
+      "why": "rules: hook keywords score 2.5, ending score 2.4",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.5,
+        "cliffhanger": 6.4,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.5,
+        "cliffhanger": 6.4,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E45-2",
+      "source": "rules",
+      "score": 5.68,
+      "length_s": 41.9,
+      "segments": [
+        {
+          "episode": 45,
+          "start": "00:09.90",
+          "end": "00:51.80"
+        }
+      ],
+      "hook": "Heavy iron clanking as the shackles fall away.",
+      "hook_type": "keyword",
+      "cliffhanger": "Alexander...",
+      "why": "rules: hook keywords score 3.0, ending score 1.8",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.805,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 5.8,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E32-2",
+      "source": "rules",
+      "score": 5.67,
+      "length_s": 33.5,
+      "segments": [
+        {
+          "episode": 32,
+          "start": "00:19.00",
+          "end": "00:52.50"
+        }
+      ],
+      "hook": "Medium close-up of Juliana, sitting upright despite her heavy iron shackles.",
+      "hook_type": "keyword",
+      "cliffhanger": "A woman who survived. You cannot destroy me.",
+      "why": "rules: hook keywords score 3.0, ending score 1.8",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.775,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 5.8,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E33-1",
+      "source": "rules",
+      "score": 5.67,
+      "length_s": 33.5,
+      "segments": [
+        {
+          "episode": 33,
+          "start": "02:20.50",
+          "end": "02:54.04"
+        }
+      ],
+      "hook": "Close-up of the maid grabbing both sides of her head, screaming out in utter grief and guilt.",
+      "hook_type": "keyword",
+      "cliffhanger": "Close-up of the maid grabbing both sides of her head, screaming out in utter grief and guilt.",
+      "why": "rules: hook keywords score 3.0, ending score 1.8",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.776999999999999,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 5.8,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E34-1",
+      "source": "rules",
+      "score": 5.67,
+      "length_s": 42.5,
+      "segments": [
+        {
+          "episode": 34,
+          "start": "00:00.00",
+          "end": "00:42.50"
+        }
+      ],
+      "hook": "Lady Juliana Ashcroft, you are accused of witchcraft, unlawful healing, and poisoning.",
+      "hook_type": "keyword",
+      "cliffhanger": "Prudence. You served beside the accused?",
+      "why": "rules: hook keywords score 3.0, ending score 1.8",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.775,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 5.8,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E46-2",
+      "source": "rules",
+      "score": 5.66,
+      "length_s": 43.4,
+      "segments": [
+        {
+          "episode": 46,
+          "start": "01:40.50",
+          "end": "02:23.88"
+        }
+      ],
+      "hook": "A Duke's marriage is judged by the Crown's peerage court, not by a parish priest's seal.",
+      "hook_type": "keyword",
+      "cliffhanger": "Ten days is plenty of time.",
+      "why": "rules: hook keywords score 3.0, ending score 1.7",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.731,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 5.7,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E36-1",
+      "source": "rules",
+      "score": 5.64,
+      "length_s": 41.7,
+      "segments": [
+        {
+          "episode": 36,
+          "start": "00:44.80",
+          "end": "01:26.50"
+        }
+      ],
+      "hook": "Alexander's mother presses her trembling hands against her lips, tears brimming in her eyes.",
+      "hook_type": "keyword",
+      "cliffhanger": "What?",
+      "why": "rules: hook keywords score 2.0, ending score 2.8",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 6.8149999999999995,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 6.8,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E02-1",
+      "source": "rules",
+      "score": 5.61,
+      "length_s": 34.4,
+      "segments": [
+        {
+          "episode": 2,
+          "start": "00:02.80",
+          "end": "00:37.20"
+        }
+      ],
+      "hook": "Juliana gasps softly in heartbreak, her eyes wide and brimming with tears.",
+      "hook_type": "keyword",
+      "cliffhanger": "Surely you will not let him humiliate me like this?",
+      "why": "rules: hook keywords score 2.0, ending score 1.3",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 5.32,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 5.3,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.5
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E21-1",
+      "source": "rules",
+      "score": 5.6,
+      "length_s": 48.0,
+      "segments": [
+        {
+          "episode": 21,
+          "start": "00:51.20",
+          "end": "01:39.20"
+        }
+      ],
+      "hook": "Prudence wraps a cloth around the iron handle of the steaming kettle resting over the hearth fire and lifts it.",
+      "hook_type": "keyword",
+      "cliffhanger": "What do you mean? Is someone ill? The Dowager Duchess?",
+      "why": "rules: hook keywords score 3.5, ending score 1.0",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.5,
+        "cliffhanger": 5.0,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.5,
+        "cliffhanger": 5.0,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E31-3",
+      "source": "rules",
+      "score": 5.6,
+      "length_s": 44.9,
+      "segments": [
+        {
+          "episode": 31,
+          "start": "01:17.60",
+          "end": "02:02.50"
+        }
+      ],
+      "hook": "You call that marriage?",
+      "hook_type": "keyword",
+      "cliffhanger": "Then why are you so desperate to make me kneel?",
+      "why": "rules: hook keywords score 2.5, ending score 2.2",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.5,
+        "cliffhanger": 6.154999999999999,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.5,
+        "cliffhanger": 6.2,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E34-2",
+      "source": "rules",
+      "score": 5.55,
+      "length_s": 26.4,
+      "segments": [
+        {
+          "episode": 34,
+          "start": "02:43.60",
+          "end": "03:10.00"
+        }
+      ],
+      "hook": "Medium shot of Prudence breaking into shattered sobs, pressing her apron to her face to muffle her tears.",
+      "hook_type": "keyword",
+      "cliffhanger": "The Judge extends his raised hand high in judgment over Lady Juliana as the scene holds on her standing still and unbroken before fading to black.",
+      "why": "rules: hook keywords score 3.0, ending score 1.4",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.42,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 5.4,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E15-3",
+      "source": "rules",
+      "score": 5.53,
+      "length_s": 34.0,
+      "segments": [
+        {
+          "episode": 15,
+          "start": "00:22.50",
+          "end": "00:56.50"
+        }
+      ],
+      "hook": "Please! Those plants took months to grow!",
+      "hook_type": "keyword",
+      "cliffhanger": "My mother's plants...",
+      "why": "rules: hook keywords score 2.0, ending score 1.8",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 5.8,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 5.8,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.25
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E29-3",
+      "source": "rules",
+      "score": 5.51,
+      "length_s": 41.9,
+      "segments": [
+        {
+          "episode": 29,
+          "start": "00:11.70",
+          "end": "00:53.60"
+        }
+      ],
+      "hook": "Close-up of Juliana turning her head back toward Catherine, screaming through tears.",
+      "hook_type": "keyword",
+      "cliffhanger": "And when they find your corpse at the end of the rope...",
+      "why": "rules: hook keywords score 3.0, ending score 1.3",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.305,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 5.3,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E13-3",
+      "source": "rules",
+      "score": 5.48,
+      "length_s": 44.9,
+      "segments": [
+        {
+          "episode": 13,
+          "start": "01:14.00",
+          "end": "01:58.88"
+        }
+      ],
+      "hook": "Juliana drags her body across the frozen, cracked soil beneath the dense roof of briars.",
+      "hook_type": "keyword",
+      "cliffhanger": "Macro close-up holding on Juliana's bloodied fist firmly gripping the emerald ring against the frozen ground as the episode cuts to black.",
+      "why": "rules: hook keywords score 2.0, ending score 1.7",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 5.656000000000001,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 5.7,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.25
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E36-2",
+      "source": "rules",
+      "score": 5.48,
+      "length_s": 53.5,
+      "segments": [
+        {
+          "episode": 36,
+          "start": "02:19.00",
+          "end": "03:12.50"
+        }
+      ],
+      "hook": "Wide shot of the cabin as Alexander stands stiff as iron, stunned by the looming death sentence.",
+      "hook_type": "keyword",
+      "cliffhanger": "Because before that wedding begins...",
+      "why": "rules: hook keywords score 3.0, ending score 1.2",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.225,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 5.2,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E18-3",
+      "source": "rules",
+      "score": 5.47,
+      "length_s": 20.7,
+      "segments": [
+        {
+          "episode": 18,
+          "start": "00:02.10",
+          "end": "00:22.80"
+        }
+      ],
+      "hook": "Juliana coughs, her eyes widening in immediate alarm as the smell of burning wood fills her lungs.",
+      "hook_type": "keyword",
+      "cliffhanger": "Juliana! Get up!",
+      "why": "rules: hook keywords score 2.0, ending score 1.6",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 5.635,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 5.6,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.25
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E14-2",
+      "source": "rules",
+      "score": 5.46,
+      "length_s": 27.0,
+      "segments": [
+        {
+          "episode": 14,
+          "start": "00:13.50",
+          "end": "00:40.50"
+        }
+      ],
+      "hook": "Tight shot on the iron shackles locking Alexander's wrists together against the thorny backdrop.",
+      "hook_type": "keyword",
+      "cliffhanger": "You should never have had to bleed for me.",
+      "why": "rules: hook keywords score 3.0, ending score 0.4",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 4.45,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 4.5,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.25
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E24-2",
+      "source": "rules",
+      "score": 5.44,
+      "length_s": 23.3,
+      "segments": [
+        {
+          "episode": 24,
+          "start": "00:03.50",
+          "end": "00:26.80"
+        }
+      ],
+      "hook": "The noblewoman halts in the center of the chamber, tapping her riding crop against her gloved palm as her cold gaze sweeps across the two maids.",
+      "hook_type": "keyword",
+      "cliffhanger": "You thought? A new maid thinks she knows better than the physicians?",
+      "why": "rules: hook keywords score 2.0, ending score 2.3",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 6.265000000000001,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 6.3,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E35-1",
+      "source": "rules",
+      "score": 5.44,
+      "length_s": 55.5,
+      "segments": [
+        {
+          "episode": 35,
+          "start": "00:36.50",
+          "end": "01:32.00"
+        }
+      ],
+      "hook": "Close-up on his mother's tear-streaked face as her chin trembles and tears spill down her cheeks.",
+      "hook_type": "keyword",
+      "cliffhanger": "A traitor?",
+      "why": "rules: hook keywords score 3.0, ending score 1.1",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.125,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 5.1,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E30-3",
+      "source": "rules",
+      "score": 5.42,
+      "length_s": 43.8,
+      "segments": [
+        {
+          "episode": 30,
+          "start": "00:00.00",
+          "end": "00:43.80"
+        }
+      ],
+      "hook": "The Elder Nobleman walks with stern, unhurried authority, dressed in an immaculate black tailcoat and dark vest with a gold pocket watch chain.",
+      "hook_type": "keyword",
+      "cliffhanger": "What are you suggesting?",
+      "why": "rules: hook keywords score 2.0, ending score 2.2",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 6.21,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 6.2,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E45-3",
+      "source": "rules",
+      "score": 5.39,
+      "length_s": 28.8,
+      "segments": [
+        {
+          "episode": 45,
+          "start": "01:33.00",
+          "end": "02:01.75"
+        }
+      ],
+      "hook": "This ceremony was performed without a Crown marriage license, by a priest without authority to sanctify a ducal union.",
+      "hook_type": "keyword",
+      "cliffhanger": "Catherine raises her chin, a vindictive smirk spreading across her lips as she realizes her rival's claim has just been torn to pieces.",
+      "why": "rules: hook keywords score 2.5, ending score 1.5",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.5,
+        "cliffhanger": 5.5375,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.5,
+        "cliffhanger": 5.5,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E47-1",
+      "source": "rules",
+      "score": 5.39,
+      "length_s": 41.3,
+      "segments": [
+        {
+          "episode": 47,
+          "start": "01:03.50",
+          "end": "01:44.80"
+        }
+      ],
+      "hook": "London closed its doors! My family disowned me!",
+      "hook_type": "keyword",
+      "cliffhanger": "You expect me to scrub floors before these commoners?",
+      "why": "rules: hook keywords score 3.5, ending score 1.8",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.5,
+        "cliffhanger": 5.835,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.5,
+        "cliffhanger": 5.8,
+        "standalone": 5.0,
+        "penalty": -0.5,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [
+        "many_characters (5 speakers)"
+      ],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E42-2",
+      "source": "rules",
+      "score": 5.37,
+      "length_s": 51.3,
+      "segments": [
+        {
+          "episode": 42,
+          "start": "00:26.50",
+          "end": "01:17.80"
+        }
+      ],
+      "hook": "Close-up on the Royal Guard holding his upright blade with unwavering conviction.",
+      "hook_type": "keyword",
+      "cliffhanger": "And now, Rupert... we settle what you stole.",
+      "why": "rules: hook keywords score 3.0, ending score 2.3",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 6.335,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 6.3,
+        "standalone": 5.0,
+        "penalty": -0.5,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [
+        "many_characters (5 speakers)"
+      ],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E38-3",
+      "source": "rules",
+      "score": 5.36,
+      "length_s": 57.4,
+      "segments": [
+        {
+          "episode": 38,
+          "start": "00:30.50",
+          "end": "01:27.91"
+        }
+      ],
+      "hook": "Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a desperate, ravenous bite.",
+      "hook_type": "keyword",
+      "cliffhanger": "Alexander...",
+      "why": "rules: hook keywords score 2.0, ending score 2.0",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 6.0295000000000005,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 6.0,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E39-2",
+      "source": "rules",
+      "score": 5.34,
+      "length_s": 37.2,
+      "segments": [
+        {
+          "episode": 39,
+          "start": "01:01.20",
+          "end": "01:38.41"
+        }
+      ],
+      "hook": "Alexander lightly traces the jagged combat scar across his cheek, eyes burning with reclaimed power.",
+      "hook_type": "keyword",
+      "cliffhanger": "And I am bringing my wife home.",
+      "why": "rules: hook keywords score 2.0, ending score 2.0",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 5.9605,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 6.0,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E25-2",
+      "source": "rules",
+      "score": 5.33,
+      "length_s": 35.3,
+      "segments": [
+        {
+          "episode": 25,
+          "start": "01:19.50",
+          "end": "01:54.80"
+        }
+      ],
+      "hook": "Poison.",
+      "hook_type": "keyword",
+      "cliffhanger": "Will you be going there again?",
+      "why": "rules: hook keywords score 2.5, ending score 1.4",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.5,
+        "cliffhanger": 5.365,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.5,
+        "cliffhanger": 5.4,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E36-3",
+      "source": "rules",
+      "score": 5.27,
+      "length_s": 42.7,
+      "segments": [
+        {
+          "episode": 36,
+          "start": "01:45.80",
+          "end": "02:28.50"
+        }
+      ],
+      "hook": "Rupert and Catherine accused her of poisoning me!",
+      "hook_type": "keyword",
+      "cliffhanger": "What wedding?",
+      "why": "rules: hook keywords score 2.0, ending score 1.8",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 5.765,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 5.8,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E16-2",
+      "source": "rules",
+      "score": 5.26,
+      "length_s": 24.4,
+      "segments": [
+        {
+          "episode": 16,
+          "start": "00:21.80",
+          "end": "00:46.20"
+        }
+      ],
+      "hook": "Medium tracking shot as the Bald Thug charges in with a shout, only for Alexander to pivot and seize him by the neck, hurling him across the garden path.",
+      "hook_type": "keyword",
+      "cliffhanger": "No one!",
+      "why": "rules: hook keywords score 3.0, ending score 1.3",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.32,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 5.3,
+        "standalone": 5.0,
+        "penalty": -0.5,
+        "funnel_bonus": 0.25
+      },
+      "judge": {},
+      "flags": [
+        "many_characters (5 speakers)"
+      ],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E47-2",
+      "source": "rules",
+      "score": 5.21,
+      "length_s": 46.0,
+      "segments": [
+        {
+          "episode": 47,
+          "start": "01:28.00",
+          "end": "02:14.00"
+        }
+      ],
+      "hook": "Juliana walks to a side bench, picks up a rough servant's apron and a heavy iron ring of keys, and turns back to face Catherine.",
+      "hook_type": "keyword",
+      "cliffhanger": "I accept, Your Grace.",
+      "why": "rules: hook keywords score 2.0, ending score 1.6",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 5.6,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 5.6,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E25-3",
+      "source": "rules",
+      "score": 5.16,
+      "length_s": 38.7,
+      "segments": [
+        {
+          "episode": 25,
+          "start": "00:18.80",
+          "end": "00:57.50"
+        }
+      ],
+      "hook": "Alexander's gloved fingers pull back the torn fabric of her cloak and sleeve, revealing a raw, bloody welt slashing across her bare shoulder.",
+      "hook_type": "keyword",
+      "cliffhanger": "The Dowager Duchess.",
+      "why": "rules: hook keywords score 2.0, ending score 1.5",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 5.465,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 5.5,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E24-3",
+      "source": "rules",
+      "score": 5.14,
+      "length_s": 25.8,
+      "segments": [
+        {
+          "episode": 24,
+          "start": "01:06.20",
+          "end": "01:32.00"
+        }
+      ],
+      "hook": "The noblewoman whips around sharply, thrusting the tip of her riding crop directly into Prudence's face.",
+      "hook_type": "keyword",
+      "cliffhanger": "The noblewoman whips around sharply, thrusting the tip of her riding crop directly into Prudence's face.",
+      "why": "rules: hook keywords score 2.0, ending score 1.4",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 5.39,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 5.4,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E35-3",
+      "source": "rules",
+      "score": 5.13,
+      "length_s": 35.2,
+      "segments": [
+        {
+          "episode": 35,
+          "start": "00:09.00",
+          "end": "00:44.20"
+        }
+      ],
+      "hook": "She uses all her strength to shove the stone bolt upward, disengaging the hidden lock mechanism.",
+      "hook_type": "keyword",
+      "cliffhanger": "Mother?",
+      "why": "rules: hook keywords score 2.0, ending score 1.4",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 5.36,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 5.4,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E27-3",
+      "source": "rules",
+      "score": 5.11,
+      "length_s": 34.2,
+      "segments": [
+        {
+          "episode": 27,
+          "start": "00:48.80",
+          "end": "01:23.00"
+        }
+      ],
+      "hook": "The heavy mahogany double doors burst open, revealing the Blond Nobleman flanked by Lady Catherine and a royal guard in uniform.",
+      "hook_type": "keyword",
+      "cliffhanger": "No one.",
+      "why": "rules: hook keywords score 2.0, ending score 1.3",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 5.3100000000000005,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 5.3,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E33-2",
+      "source": "rules",
+      "score": 5.09,
+      "length_s": 43.0,
+      "segments": [
+        {
+          "episode": 33,
+          "start": "01:08.80",
+          "end": "01:51.80"
+        }
+      ],
+      "hook": "The maid gasps in sheer terror, her chest heaving as tears stream.",
+      "hook_type": "keyword",
+      "cliffhanger": "Praying... or chanting?",
+      "why": "rules: hook keywords score 2.0, ending score 1.2",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 5.25,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 5.2,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E22-2",
+      "source": "rules",
+      "score": 5.08,
+      "length_s": 43.2,
+      "segments": [
+        {
+          "episode": 22,
+          "start": "00:52.80",
+          "end": "01:36.00"
+        }
+      ],
+      "hook": "Close-up on Lady Juliana's hands gripping the iron handle of the wooden wash bucket firmly.",
+      "hook_type": "keyword",
+      "cliffhanger": "This house...",
+      "why": "rules: hook keywords score 2.0, ending score 1.2",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 5.24,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 5.2,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E01-1",
+      "source": "rules",
+      "score": 5.0,
+      "length_s": 35.4,
+      "segments": [
+        {
+          "episode": 1,
+          "start": "01:14.60",
+          "end": "01:50.00"
+        }
+      ],
+      "hook": "Long enough to know he was never going to marry you.",
+      "hook_type": "keyword",
+      "cliffhanger": "You are the daughter people tolerate because they have to.",
+      "why": "rules: hook keywords score 2.5, ending score 1.9",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.5,
+        "cliffhanger": 5.87,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.5,
+        "cliffhanger": 5.9,
+        "standalone": 5.0,
+        "penalty": -1.0,
+        "funnel_bonus": 0.5
+      },
+      "judge": {},
+      "flags": [
+        "cuts_mid_line (Ep 1 01:47.50)"
+      ],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E23-2",
+      "source": "rules",
+      "score": 4.87,
+      "length_s": 55.5,
+      "segments": [
+        {
+          "episode": 23,
+          "start": "00:06.50",
+          "end": "01:02.00"
+        }
+      ],
+      "hook": "Juliana cradles the Duchess's frail hands in hers, inspecting her fingers with furrowed brows.",
+      "hook_type": "keyword",
+      "cliffhanger": "What is it?",
+      "why": "rules: hook keywords score 2.0, ending score 0.6",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 4.625,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 4.6,
+        "standalone": 5.0,
+        "penalty": 0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E11-2",
+      "source": "rules",
+      "score": 4.79,
+      "length_s": 26.2,
+      "segments": [
+        {
+          "episode": 11,
+          "start": "01:26.50",
+          "end": "01:52.75"
+        }
+      ],
+      "hook": "Medium shot of the Constable turning to Alexander's heavy trench coat hanging on an iron wall hook by the fireplace.",
+      "hook_type": "keyword",
+      "cliffhanger": "Tight macro shot of the gold pocket watch dangling and swaying gently from the Constable's fingers on its long chain, with Gerald blurred in the background grin",
+      "why": "rules: hook keywords score 3.0, ending score 1.4",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.4125,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 5.4,
+        "standalone": 5.0,
+        "penalty": -1.0,
+        "funnel_bonus": 0.25
+      },
+      "judge": {},
+      "flags": [
+        "cuts_mid_line (Ep 11 01:26.00)"
+      ],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E46-1",
+      "source": "rules",
+      "score": 4.75,
+      "length_s": 34.0,
+      "segments": [
+        {
+          "episode": 46,
+          "start": "00:37.00",
+          "end": "01:11.00"
+        }
+      ],
+      "hook": "The church married a vagrant to a ruined lady. It never married the Duke of Ashburton to anyone.",
+      "hook_type": "keyword",
+      "cliffhanger": "Love doesn't make a Duchess, girl. Paper does.",
+      "why": "rules: hook keywords score 4.5, ending score 0.3",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 7.5,
+        "cliffhanger": 4.3,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 7.5,
+        "cliffhanger": 4.3,
+        "standalone": 5.0,
+        "penalty": -1.0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [
+        "soft_ending (no open question/threat/sting in last 6s)"
+      ],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E13-2",
+      "source": "rules",
+      "score": 4.64,
+      "length_s": 37.2,
+      "segments": [
+        {
+          "episode": 13,
+          "start": "00:45.80",
+          "end": "01:23.00"
+        }
+      ],
+      "hook": "Medium shot of Alexander lunging forward with chained hands raised high, roaring in fury as the Constable grabs him.",
+      "hook_type": "keyword",
+      "cliffhanger": "Stop!",
+      "why": "rules: hook keywords score 3.0, ending score 1.0",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 4.96,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 5.0,
+        "standalone": 5.0,
+        "penalty": -1.0,
+        "funnel_bonus": 0.25
+      },
+      "judge": {},
+      "flags": [
+        "soft_ending (no open question/threat/sting in last 6s)"
+      ],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E43-1",
+      "source": "rules",
+      "score": 4.55,
+      "length_s": 34.0,
+      "segments": [
+        {
+          "episode": 43,
+          "start": "01:21.00",
+          "end": "01:54.96"
+        }
+      ],
+      "hook": "Duke Alexander Ashburn was declared dead.",
+      "hook_type": "keyword",
+      "cliffhanger": "Going somewhere, Lord Sterling?",
+      "why": "rules: hook keywords score 3.0, ending score 4.3",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 8.298,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 8.3,
+        "standalone": 5.0,
+        "penalty": -2.0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [
+        "hook_late (hook at +5.0s)",
+        "many_characters (5 speakers)"
+      ],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E03-2",
+      "source": "rules",
+      "score": 4.54,
+      "length_s": 38.4,
+      "segments": [
+        {
+          "episode": 3,
+          "start": "01:00.00",
+          "end": "01:38.40"
+        }
+      ],
+      "hook": "The guards forcefully grab Juliana by both shoulders and drag her backwards.",
+      "hook_type": "keyword",
+      "cliffhanger": "You cannot interfere in a family matter!",
+      "why": "rules: hook keywords score 5.0, ending score 2.0",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 8.0,
+        "cliffhanger": 5.9799999999999995,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 8.0,
+        "cliffhanger": 6.0,
+        "standalone": 5.0,
+        "penalty": -2.5,
+        "funnel_bonus": 0.5
+      },
+      "judge": {},
+      "flags": [
+        "soft_ending (no open question/threat/sting in last 6s)",
+        "many_characters (5 speakers)",
+        "cuts_mid_line (Ep 3 01:36.50)"
+      ],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E32-3",
+      "source": "rules",
+      "score": 4.54,
+      "length_s": 26.0,
+      "segments": [
+        {
+          "episode": 32,
+          "start": "01:26.50",
+          "end": "01:52.50"
+        }
+      ],
+      "hook": "Low-angle shot focusing on Juliana's bare, chained feet locked in iron on the stone floor.",
+      "hook_type": "keyword",
+      "cliffhanger": "Nothing. Until you have nothing left beneath it.",
+      "why": "rules: hook keywords score 3.0, ending score 1.4",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.4,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 5.4,
+        "standalone": 5.0,
+        "penalty": -1.0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [
+        "cuts_mid_line (Ep 32 01:49.50)"
+      ],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E41-1",
+      "source": "rules",
+      "score": 4.53,
+      "length_s": 40.8,
+      "segments": [
+        {
+          "episode": 41,
+          "start": "00:20.00",
+          "end": "01:00.80"
+        }
+      ],
+      "hook": "Extreme close-up of Juliana's scarred, dirtied wrists bound tight in heavy iron shackles.",
+      "hook_type": "keyword",
+      "cliffhanger": "You needed an entire chapel to feel powerful over one chained woman?",
+      "why": "rules: hook keywords score 3.0, ending score 1.4",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.36,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 5.4,
+        "standalone": 5.0,
+        "penalty": -1.0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [
+        "slow_open (no line or action in first 3s)"
+      ],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E21-2",
+      "source": "rules",
+      "score": 4.52,
+      "length_s": 42.8,
+      "segments": [
+        {
+          "episode": 21,
+          "start": "00:11.20",
+          "end": "00:54.00"
+        }
+      ],
+      "hook": "My little brother Toby... his chest is burning! He cannot breathe!",
+      "hook_type": "keyword",
+      "cliffhanger": "Yes! Right away, I will get it!",
+      "why": "rules: hook keywords score 3.5, ending score 0.8",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.5,
+        "cliffhanger": 4.76,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.5,
+        "cliffhanger": 4.8,
+        "standalone": 5.0,
+        "penalty": -1.0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [
+        "soft_ending (no open question/threat/sting in last 6s)"
+      ],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E39-1",
+      "source": "rules",
+      "score": 4.52,
+      "length_s": 42.4,
+      "segments": [
+        {
+          "episode": 39,
+          "start": "00:32.40",
+          "end": "01:14.80"
+        }
+      ],
+      "hook": "The driver leaps off the cart, striking the sentry across the chest, seizing his neck, and tackling him violently against the wooden carriage wheel.",
+      "hook_type": "keyword",
+      "cliffhanger": "Extreme close-up of Alexander's hand adjusting the ornate golden lion crest pinned at his cravat.",
+      "why": "rules: hook keywords score 3.5, ending score 0.8",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.5,
+        "cliffhanger": 4.78,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.5,
+        "cliffhanger": 4.8,
+        "standalone": 5.0,
+        "penalty": -1.0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [
+        "soft_ending (no open question/threat/sting in last 6s)"
+      ],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E12-2",
+      "source": "rules",
+      "score": 4.42,
+      "length_s": 26.4,
+      "segments": [
+        {
+          "episode": 12,
+          "start": "00:04.60",
+          "end": "00:31.00"
+        }
+      ],
+      "hook": "No! That watch was not in his coat!",
+      "hook_type": "keyword",
+      "cliffhanger": "...still defending your broken scrap of a man?",
+      "why": "rules: hook keywords score 2.0, ending score 2.9",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 6.92,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 6.9,
+        "standalone": 5.0,
+        "penalty": -1.5,
+        "funnel_bonus": 0.25
+      },
+      "judge": {},
+      "flags": [
+        "many_characters (5 speakers)",
+        "cuts_mid_line (Ep 12 00:30.00)"
+      ],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E26-2",
+      "source": "rules",
+      "score": 4.21,
+      "length_s": 35.8,
+      "segments": [
+        {
+          "episode": 26,
+          "start": "00:00.00",
+          "end": "00:35.80"
+        }
+      ],
+      "hook": "Juliana glances nervously back toward the door, ensuring no guards are near, before turning her full attention back to the ailing Duchess.",
+      "hook_type": "keyword",
+      "cliffhanger": "You... you are no common servant. You took Catherine's whip for me the other day.",
+      "why": "rules: hook keywords score 3.5, ending score -0.1",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.5,
+        "cliffhanger": 3.8899999999999997,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.5,
+        "cliffhanger": 3.9,
+        "standalone": 5.0,
+        "penalty": -1.0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [
+        "soft_ending (no open question/threat/sting in last 6s)"
+      ],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E26-3",
+      "source": "rules",
+      "score": 4.03,
+      "length_s": 39.2,
+      "segments": [
+        {
+          "episode": 26,
+          "start": "00:55.80",
+          "end": "01:35.00"
+        }
+      ],
+      "hook": "Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?",
+      "hook_type": "keyword",
+      "cliffhanger": "The Duchess's mouth hangs open in pure disbelief as she stares fixedly at Juliana's hand.",
+      "why": "rules: hook keywords score 3.0, ending score -0.1",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 3.94,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 3.9,
+        "standalone": 5.0,
+        "penalty": -1.0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [
+        "soft_ending (no open question/threat/sting in last 6s)"
+      ],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E20-1",
+      "source": "rules",
+      "score": 3.99,
+      "length_s": 38.3,
+      "segments": [
+        {
+          "episode": 20,
+          "start": "00:56.50",
+          "end": "01:34.80"
+        }
+      ],
+      "hook": "Medium close-up tilting down on JULIANA kneeling in the straw beside a rustic wooden crate, sorting sprigs of dried lavender and sage into a woven basket. Her h",
+      "hook_type": "keyword",
+      "cliffhanger": "Let them pray to their weeds.",
+      "why": "rules: hook keywords score 3.0, ending score 2.0",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 5.985,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 6.0,
+        "standalone": 5.0,
+        "penalty": -2.0,
+        "funnel_bonus": 0.25
+      },
+      "judge": {},
+      "flags": [
+        "slow_open (no line or action in first 3s)",
+        "soft_ending (no open question/threat/sting in last 6s)"
+      ],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E18-2",
+      "source": "rules",
+      "score": 3.88,
+      "length_s": 39.0,
+      "segments": [
+        {
+          "episode": 18,
+          "start": "01:10.50",
+          "end": "01:49.50"
+        }
+      ],
+      "hook": "Wide shot of the room as a massive burning crossbeam collapses into the floorboards with a fiery explosion.",
+      "hook_type": "keyword",
+      "cliffhanger": "Hold on to me.",
+      "why": "rules: hook keywords score 4.5, ending score -0.1",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 7.5,
+        "cliffhanger": 3.95,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 7.5,
+        "cliffhanger": 4.0,
+        "standalone": 5.0,
+        "penalty": -2.0,
+        "funnel_bonus": 0.25
+      },
+      "judge": {},
+      "flags": [
+        "slow_open (no line or action in first 3s)",
+        "soft_ending (no open question/threat/sting in last 6s)"
+      ],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E35-2",
+      "source": "rules",
+      "score": 3.75,
+      "length_s": 32.0,
+      "segments": [
+        {
+          "episode": 35,
+          "start": "02:05.50",
+          "end": "02:37.50"
+        }
+      ],
+      "hook": "Alexander abruptly pushes away from the window, storming back toward the table with burning rage.",
+      "hook_type": "keyword",
+      "cliffhanger": "Alexander abruptly pushes away from the window, storming back toward the table with burning rage.",
+      "why": "rules: hook keywords score 2.0, ending score 1.7",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 5.7,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 5.7,
+        "standalone": 5.0,
+        "penalty": -1.5,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [
+        "hook_late (hook at +8.5s)"
+      ],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E34-3",
+      "source": "rules",
+      "score": 3.62,
+      "length_s": 35.1,
+      "segments": [
+        {
+          "episode": 34,
+          "start": "00:31.70",
+          "end": "01:06.80"
+        }
+      ],
+      "hook": "The Judge furiously raises his wooden gavel and strikes the sound block with sharp force.",
+      "hook_type": "keyword",
+      "cliffhanger": "Did she draw strange markings?",
+      "why": "rules: hook keywords score 2.0, ending score 1.4",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 5.3549999999999995,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 5.4,
+        "standalone": 5.0,
+        "penalty": -1.5,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [
+        "hook_late (hook at +3.6s)"
+      ],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E49-2",
+      "source": "rules",
+      "score": 3.62,
+      "length_s": 40.0,
+      "segments": [
+        {
+          "episode": 49,
+          "start": "00:19.80",
+          "end": "00:59.80"
+        }
+      ],
+      "hook": "Catherine sets down the brass candleholder, the flame flickering across their faces.",
+      "hook_type": "keyword",
+      "cliffhanger": "Catherine sets down the brass candleholder, the flame flickering across their faces.",
+      "why": "rules: hook keywords score 2.0, ending score -0.1",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 5.0,
+        "cliffhanger": 3.9,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 5.0,
+        "cliffhanger": 3.9,
+        "standalone": 5.0,
+        "penalty": -1.0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [
+        "soft_ending (no open question/threat/sting in last 6s)"
+      ],
+      "adjustments": []
+    },
+    {
+      "rank": null,
+      "id": "E46-3",
+      "source": "rules",
+      "score": 3.34,
+      "length_s": 34.3,
+      "segments": [
+        {
+          "episode": 46,
+          "start": "00:58.20",
+          "end": "01:32.50"
+        }
+      ],
+      "hook": "Close-up of Juliana lifting her chin, tearful yet burning with righteous fury.",
+      "hook_type": "keyword",
+      "cliffhanger": "God did not marry you. A frightened parishioner did, without leave, without license, without the Crown's blessing!",
+      "why": "rules: hook keywords score 3.0, ending score 0.8",
+      "context_needed": "unknown (rules cannot judge)",
+      "model_scores": {
+        "hook": 6.0,
+        "cliffhanger": 4.8149999999999995,
+        "standalone": 5
+      },
+      "score_parts": {
+        "hook": 6.0,
+        "cliffhanger": 4.8,
+        "standalone": 5.0,
+        "penalty": -2.0,
+        "funnel_bonus": 0.0
+      },
+      "judge": {},
+      "flags": [
+        "soft_ending (no open question/threat/sting in last 6s)",
+        "cuts_mid_line (Ep 46 01:32.20)"
+      ],
+      "adjustments": []
+    }
+  ]
+}

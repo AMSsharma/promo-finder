@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:01.80",
+      "end": "01:36.09",
+      "hook_time": "00:01.80",
+      "hook": "Catherine abruptly halts the wedding and commands 'Wait,' followed by the cruel declaration: 'I want everyone to see what happens to a woman who dares defy this family.'",
+      "hook_type": "humiliation",
+      "cliffhanger": "The cathedral entrance explodes, silhouetted armed figures emerge from the smoke, and Juliana's face shifts to awe and hope just as the clip cuts.",
+      "why": "Combines a high-stakes public humiliation with a sudden, violent rescue that completely shifts the power dynamic, leaving the viewer desperate to see the 'broken soldier' reveal.",
+      "context_needed": "None. The visual contrast between the lavish wedding and the chained prisoner, followed by the explosion, clearly establishes the stakes and the impending rescue.",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 10,
+        "standalone": 9
+      }
+    },
+    {
+      "start": "00:15.50",
+      "end": "01:36.09",
+      "hook_time": "00:15.50",
+      "hook": "The heavy cathedral doors creak open to reveal Juliana in a prison dress, marched in by armed constables while the congregation sneers.",
+      "hook_type": "humiliation",
+      "cliffhanger": "The cathedral entrance explodes, silhouetted armed figures emerge from the smoke, and Juliana's face shifts to awe and hope just as the clip cuts.",
+      "why": "Starts directly with the visual shock of a bride being replaced by a chained prisoner, building tension through the crowd's mockery before the explosive rescue.",
+      "context_needed": "None. The visual of a woman in chains at a wedding is immediately understandable as a public shaming or execution.",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 10,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "00:57.80",
+      "end": "01:36.09",
+      "hook_time": "00:57.80",
+      "hook": "Juliana, bruised and chained, looks up defiantly and delivers the shocking line: 'You needed an entire chapel to feel powerful over one chained woman?'",
+      "hook_type": "shocking line",
+      "cliffhanger": "The cathedral entrance explodes, silhouetted armed figures emerge from the smoke, and Juliana's face shifts to awe and hope just as the clip cuts.",
+      "why": "Focuses on the protagonist's unbroken spirit and verbal defiance before the physical rescue, creating a strong emotional payoff when the explosion hits.",
+      "context_needed": "None. The dialogue clearly establishes the conflict between the defiant prisoner and the arrogant bride.",
+      "scores": {
+        "hook": 7,
+        "cliffhanger": 10,
+        "standalone": 8
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:01.80",
+      "end": "00:15.30",
+      "kind": "hook",
+      "desc": "Catherine halts the wedding and declares, 'Before I become Duchess of Ashburgh... I want everyone to see what happens to a woman who dares defy this family.' She commands, 'Bring her in.'"
+    },
+    {
+      "start": "00:15.50",
+      "end": "00:28.40",
+      "kind": "setup",
+      "desc": "Juliana is marched in chains through the cathedral. Catherine watches with gloating satisfaction and taunts, 'There she is.' The congregation sneers and whispers mockingly."
+    },
+    {
+      "start": "00:57.80",
+      "end": "01:03.50",
+      "kind": "setup",
+      "desc": "Juliana stands defiantly in the aisle and retorts, 'You needed an entire chapel to feel powerful over one chained woman?' Catherine murmurs coldly, 'Still arrogant. Still standing.'"
+    },
+    {
+      "start": "01:21.00",
+      "end": "01:36.09",
+      "kind": "cliffhanger",
+      "desc": "A massive explosion shatters the cathedral entrance. Silhouetted armed figures emerge from the smoke and rubble. Juliana turns to look at them, her expression shifting to awe and hope."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:01.80\",\n      \"end\": \"01:36.09\",\n      \"hook_time\": \"00:01.80\",\n      \"hook\": \"Catherine abruptly halts the wedding and commands 'Wait,' followed by the cruel declaration: 'I want everyone to see what happens to a woman who dares defy this family.'\",\n      \"hook_type\": \"humiliation\",\n      \"cliffhanger\": \"The cathedral entrance explodes, silhouetted armed figures emerge from the smoke, and Juliana's face shifts to awe and hope just as the clip cuts.\",\n      \"why\": \"Combines a high-stakes public humiliation with a sudden, violent rescue that completely shifts the power dynamic, leaving the viewer desperate to see the 'broken soldier' reveal.\",\n      \"context_needed\": \"None. The visual contrast between the lavish wedding and the chained prisoner, followed by the explosion, clearly establishes the stakes and the impending rescue.\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 10,\n        \"standalone\": 9\n      }\n    },\n    {\n      \"start\": \"00:15.50\",\n      \"end\": \"01:36.09\",\n      \"hook_time\": \"00:15.50\",\n      \"hook\": \"The heavy cathedral doors creak open to reveal Juliana in a prison dress, marched in by armed constables while the congregation sneers.\",\n      \"hook_type\": \"humiliation\",\n      \"cliffhanger\": \"The cathedral entrance explodes, silhouetted armed figures emerge from the smoke, and Juliana's face shifts to awe and hope just as the clip cuts.\",\n      \"why\": \"Starts directly with the visual shock of a bride being replaced by a chained prisoner, building tension through the crowd's mockery before the explosive rescue.\",\n      \"context_needed\": \"None. The visual of a woman in chains at a wedding is immediately understandable as a public shaming or execution.\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 10,\n        \"standalone\": 8\n      }\n    },\n    {\n      \"start\": \"00:57.80\",\n      \"end\": \"01:36.09\",\n      \"hook_time\": \"00:57.80\",\n      \"hook\": \"Juliana, bruised and chained, looks up defiantly and delivers the shocking line: 'You needed an entire chapel to feel powerful over one chained woman?'\",\n      \"hook_type\": \"shocking line\",\n      \"cliffhanger\": \"The cathedral entrance explodes, silhouetted armed figures emerge from the smoke, and Juliana's face shifts to awe and hope just as the clip cuts.\",\n      \"why\": \"Focuses on the protagonist's unbroken spirit and verbal defiance before the physical rescue, creating a strong emotional payoff when the explosion hits.\",\n      \"context_needed\": \"None. The dialogue clearly establishes the conflict between the defiant prisoner and the arrogant bride.\",\n      \"scores\": {\n        \"hook\": 7,\n        \"cliffhanger\": 10,\n        \"standalone\": 8\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:01.80\",\n      \"end\": \"00:15.30\",\n      \"kind\": \"hook\",\n      \"desc\": \"Catherine halts the wedding and declares, 'Before I become Duchess of Ashburgh... I want everyone to see what happens to a woman who dares defy this family.' She commands, 'Bring her in.'\"\n    },\n    {\n      \"start\": \"00:15.50\",\n      \"end\": \"00:28.40\",\n      \"kind\": \"setup\",\n      \"desc\": \"Juliana is marched in chains through the cathedral. Catherine watches with gloating satisfaction and taunts, 'There she is.' The congregation sneers and whispers mockingly.\"\n    },\n    {\n      \"start\": \"00:57.80\",\n      \"end\": \"01:03.50\",\n      \"kind\": \"setup\",\n      \"desc\": \"Juliana stands defiantly in the aisle and retorts, 'You needed an entire chapel to feel powerful over one chained woman?' Catherine murmurs coldly, 'Still arrogant. Still standing.'\"\n    },\n    {\n      \"start\": \"01:21.00\",\n      \"end\": \"01:36.09\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"A massive explosion shatters the cathedral entrance. Silhouetted armed figures emerge from the smoke and rubble. Juliana turns to look at them, her expression shifting to awe and hope.\"\n    }\n  ]\n}",
+  "_model": "groq:qwen/qwen3.8-27b"
+}

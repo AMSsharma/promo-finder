@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:29.80",
+      "end": "00:52.80",
+      "hook_time": "00:32.40",
+      "hook": "Cart driver lunges off the bench, striking the royal guard across the chest and tackling him.",
+      "hook_type": "violence",
+      "cliffhanger": "The guard lies unconscious and the road is clear, but the loyalists slip inside the cathedral\u2014what will happen next?",
+      "why": "Immediate violent action grabs attention and leaves the outcome of the infiltration unknown.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 8,
+        "standalone": 7
+      }
+    },
+    {
+      "start": "00:50.00",
+      "end": "01:14.80",
+      "hook_time": "00:55.80",
+      "hook": "Alexander lifts metal shears and snips his overgrown hair, shedding his disguise.",
+      "hook_type": "reveal",
+      "cliffhanger": "Now fully groomed and in ducal attire, he steps into the snow toward the chapel\u2014will he succeed in rescuing Juliana?",
+      "why": "A striking visual transformation signals a hero\u2019s return, creating intrigue.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 8,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "01:06.60",
+      "end": "01:30.20",
+      "hook_time": "01:08.50",
+      "hook": "Alexander emerges in immaculate ducal regalia, his coat fluttering as he strides into the winter light.",
+      "hook_type": "reveal",
+      "cliffhanger": "He commands the soldiers to secure the chapel, but the battle inside remains unseen.",
+      "why": "Heroic entrance showcases his reclaimed status and sets up a high\u2011stakes confrontation.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 7,
+        "cliffhanger": 7,
+        "standalone": 7
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:32.40",
+      "end": "00:36.50",
+      "kind": "hook",
+      "desc": "Cart driver lunges, striking the royal guard and tackling him \u2013 sudden violent surprise."
+    },
+    {
+      "start": "00:36.50",
+      "end": "00:42.20",
+      "kind": "cliffhanger",
+      "desc": "Loyalist applies a sleeper hold; guard goes limp as the cathedral doors open for the infiltrators."
+    },
+    {
+      "start": "00:55.80",
+      "end": "01:01.20",
+      "kind": "reveal",
+      "desc": "Alexander uses shears to cut his hair, shedding his disguise and revealing his true identity."
+    },
+    {
+      "start": "01:08.50",
+      "end": "01:14.80",
+      "kind": "setup",
+      "desc": "Alexander steps out in full ducal regalia, adjusting his lion\u2011crest cravat, ready to lead the assault."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:29.80\",\n      \"end\": \"00:52.80\",\n      \"hook_time\": \"00:32.40\",\n      \"hook\": \"Cart driver lunges off the bench, striking the royal guard across the chest and tackling him.\",\n      \"hook_type\": \"violence\",\n      \"cliffhanger\": \"The guard lies unconscious and the road is clear, but the loyalists slip inside the cathedral\u2014what will happen next?\",\n      \"why\": \"Immediate violent action grabs attention and leaves the outcome of the infiltration unknown.\",\n      \"context_needed\": \"none\",\n      \"scores\": { \"hook\": 9, \"cliffhanger\": 8, \"standalone\": 7 }\n    },\n    {\n      \"start\": \"00:50.00\",\n      \"end\": \"01:14.80\",\n      \"hook_time\": \"00:55.80\",\n      \"hook\": \"Alexander lifts metal shears and snips his overgrown hair, shedding his disguise.\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"Now fully groomed and in ducal attire, he steps into the snow toward the chapel\u2014will he succeed in rescuing Juliana?\",\n      \"why\": \"A striking visual transformation signals a hero\u2019s return, creating intrigue.\",\n      \"context_needed\": \"none\",\n      \"scores\": { \"hook\": 8, \"cliffhanger\": 8, \"standalone\": 8 }\n    },\n    {\n      \"start\": \"01:06.60\",\n      \"end\": \"01:30.20\",\n      \"hook_time\": \"01:08.50\",\n      \"hook\": \"Alexander emerges in immaculate ducal regalia, his coat fluttering as he strides into the winter light.\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"He commands the soldiers to secure the chapel, but the battle inside remains unseen.\",\n      \"why\": \"Heroic entrance showcases his reclaimed status and sets up a high\u2011stakes confrontation.\",\n      \"context_needed\": \"none\",\n      \"scores\": { \"hook\": 7, \"cliffhanger\": 7, \"standalone\": 7 }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:32.40\",\n      \"end\": \"00:36.50\",\n      \"kind\": \"hook\",\n      \"desc\": \"Cart driver lunges, striking the royal guard and tackling him \u2013 sudden violent surprise.\"\n    },\n    {\n      \"start\": \"00:36.50\",\n      \"end\": \"00:42.20\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Loyalist applies a sleeper hold; guard goes limp as the cathedral doors open for the infiltrators.\"\n    },\n    {\n      \"start\": \"00:55.80\",\n      \"end\": \"01:01.20\",\n      \"kind\": \"reveal\",\n      \"desc\": \"Alexander uses shears to cut his hair, shedding his disguise and revealing his true identity.\"\n    },\n    {\n      \"start\": \"01:08.50\",\n      \"end\": \"01:14.80\",\n      \"kind\": \"setup\",\n      \"desc\": \"Alexander steps out in full ducal regalia, adjusting his lion\u2011crest cravat, ready to lead the assault.\"\n    }\n  ]\n}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

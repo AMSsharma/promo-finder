@@ -1,0 +1,10 @@
+{
+  "what_happens": "Lady Juliana, disguised as a maid, and her ally Prudence sneak into a manor\u2019s servants' area, confronting the stern housekeeper who questions their presence.",
+  "confusing": "The sudden jump from the courtyard to the housekeeper\u2019s hallway is abrupt; it\u2019s unclear how they got from the stone archway to the service door.",
+  "first_3s_stop": 4,
+  "need_to_know_next": 8,
+  "understandable": 7,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"Lady Juliana, disguised as a maid, and her ally Prudence sneak into a manor\u2019s servants' area, confronting the stern housekeeper who questions their presence.\",\"confusing\":\"The sudden jump from the courtyard to the housekeeper\u2019s hallway is abrupt; it\u2019s unclear how they got from the stone archway to the service door.\",\"first_3s_stop\":4,\"need_to_know_next\":8,\"understandable\":7,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

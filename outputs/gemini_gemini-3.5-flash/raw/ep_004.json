@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "01:47.80",
+      "end": "02:14.80",
+      "hook_time": "01:50.00",
+      "hook": "THE PRIEST: \"By the authority entrusted to me, I now pronounce you... husband and wife!\"",
+      "hook_type": "shocking line",
+      "cliffhanger": "Lady Ashcroft points venomously at Juliana screaming, \"You are disowned!\"",
+      "why": "Combines the rapid wedding pronouncement with the dramatic climax of her family publicly disowning her, creating maximum intrigue for her next move.",
+      "context_needed": "Juliana was dumped at the altar by her fianc\u00e9 Gerald for her sister.",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "00:52.80",
+      "end": "01:53.00",
+      "hook_time": "00:53.60",
+      "hook": "JULIANA: \"If this is pity, take back your ring. I will not become anyone's charity.\"",
+      "hook_type": "threat",
+      "cliffhanger": "The priest raises his hands over the couple, saying \"By the authority entrusted to me, I now pronounce you...\" cutting right before the pronouncement finishes.",
+      "why": "Delivers an intense romantic vow and pride-driven negotiation cut right at the split-second before they are officially wed.",
+      "context_needed": "Juliana was publicly betrayed and humiliated by her fianc\u00e9 and family moments earlier.",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "00:03.20",
+      "end": "00:48.80",
+      "hook_time": "00:03.40",
+      "hook": "GERALD: \"Look at him. A penniless nobody for a discarded bride.\"",
+      "hook_type": "humiliation",
+      "cliffhanger": "The scarred warrior softly tells Juliana, \"I know they have made you stand alone,\" right before she decides whether to accept his ring.",
+      "why": "Establishes clear villain cruelty versus a mysterious protector standing up for an abandoned bride.",
+      "context_needed": "Gerald abandoned Juliana at the altar to marry her sister Clarissa.",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 7,
+        "standalone": 8
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:03.20",
+      "end": "00:14.20",
+      "kind": "hook",
+      "desc": "Gerald and Clarissa taunt Juliana and her mystery suitor, calling them worthless."
+    },
+    {
+      "start": "00:52.80",
+      "end": "01:05.80",
+      "kind": "setup",
+      "desc": "Juliana refuses pity, prompting the scarred warrior to declare his proposal is a solemn vow."
+    },
+    {
+      "start": "01:45.00",
+      "end": "01:54.80",
+      "kind": "cliffhanger",
+      "desc": "The mysterious warrior delivers his vows and the priest pronounces them husband and wife."
+    },
+    {
+      "start": "02:07.40",
+      "end": "02:14.80",
+      "kind": "cliffhanger",
+      "desc": "Lady Ashcroft screams at Juliana and disowns her in front of the chapel."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"01:47.80\",\n      \"end\": \"02:14.80\",\n      \"hook_time\": \"01:50.00\",\n      \"hook\": \"THE PRIEST: \\\"By the authority entrusted to me, I now pronounce you... husband and wife!\\\"\",\n      \"hook_type\": \"shocking line\",\n      \"cliffhanger\": \"Lady Ashcroft points venomously at Juliana screaming, \\\"You are disowned!\\\"\",\n      \"why\": \"Combines the rapid wedding pronouncement with the dramatic climax of her family publicly disowning her, creating maximum intrigue for her next move.\",\n      \"context_needed\": \"Juliana was dumped at the altar by her fianc\u00e9 Gerald for her sister.\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 9,\n        \"standalone\": 8\n      }\n    },\n    {\n      \"start\": \"00:52.80\",\n      \"end\": \"01:53.00\",\n      \"hook_time\": \"00:53.60\",\n      \"hook\": \"JULIANA: \\\"If this is pity, take back your ring. I will not become anyone's charity.\\\"\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"The priest raises his hands over the couple, saying \\\"By the authority entrusted to me, I now pronounce you...\\\" cutting right before the pronouncement finishes.\",\n      \"why\": \"Delivers an intense romantic vow and pride-driven negotiation cut right at the split-second before they are officially wed.\",\n      \"context_needed\": \"Juliana was publicly betrayed and humiliated by her fianc\u00e9 and family moments earlier.\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 9,\n        \"standalone\": 8\n      }\n    },\n    {\n      \"start\": \"00:03.20\",\n      \"end\": \"00:48.80\",\n      \"hook_time\": \"00:03.40\",\n      \"hook\": \"GERALD: \\\"Look at him. A penniless nobody for a discarded bride.\\\"\",\n      \"hook_type\": \"humiliation\",\n      \"cliffhanger\": \"The scarred warrior softly tells Juliana, \\\"I know they have made you stand alone,\\\" right before she decides whether to accept his ring.\",\n      \"why\": \"Establishes clear villain cruelty versus a mysterious protector standing up for an abandoned bride.\",\n      \"context_needed\": \"Gerald abandoned Juliana at the altar to marry her sister Clarissa.\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 7,\n        \"standalone\": 8\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:03.20\",\n      \"end\": \"00:14.20\",\n      \"kind\": \"hook\",\n      \"desc\": \"Gerald and Clarissa taunt Juliana and her mystery suitor, calling them worthless.\"\n    },\n    {\n      \"start\": \"00:52.80\",\n      \"end\": \"01:05.80\",\n      \"kind\": \"setup\",\n      \"desc\": \"Juliana refuses pity, prompting the scarred warrior to declare his proposal is a solemn vow.\"\n    },\n    {\n      \"start\": \"01:45.00\",\n      \"end\": \"01:54.80\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"The mysterious warrior delivers his vows and the priest pronounces them husband and wife.\"\n    },\n    {\n      \"start\": \"02:07.40\",\n      \"end\": \"02:14.80\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Lady Ashcroft screams at Juliana and disowns her in front of the chapel.\"\n    }\n  ]\n}",
+  "_model": "gemini:gemini-3.5-flash"
+}

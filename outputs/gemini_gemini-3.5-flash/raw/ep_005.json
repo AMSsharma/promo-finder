@@ -1,0 +1,56 @@
+{
+  "candidates": [
+    {
+      "start": "00:42.50",
+      "end": "01:41.50",
+      "hook_time": "00:42.50",
+      "hook": "Lady Ashcroft coldly demands Juliana hand over her late mother's ledger: 'Enough sentiment. And the ledger... that belongs to this family.'",
+      "hook_type": "threat",
+      "cliffhanger": "Juliana's new husband confronts Gerald's insults with a low, deadly threat: 'Choose your next words carefully.'",
+      "why": "Combines intense stepmother cruelty (flinging an heirloom in the dirt) with a swoon-worthy rescue and intense confrontation cliffhanger.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 9
+      }
+    },
+    {
+      "start": "00:06.60",
+      "end": "00:58.20",
+      "hook_time": "00:06.80",
+      "hook": "Lord Ashcroft disowns Juliana on the cathedral steps: 'You will not leave this church carrying the Ashcroft name.'",
+      "hook_type": "shocking line",
+      "cliffhanger": "Lady Ashcroft violently wrenches Juliana's mother's heirloom book away and flings it into the wet courtyard mud as Juliana screams.",
+      "why": "Delivers a double emotional punch of public disinheritance followed immediately by severe physical humiliation.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 9,
+        "standalone": 10
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:06.80",
+      "end": "00:28.90",
+      "kind": "hook",
+      "desc": "Lord Ashcroft formally disowns Juliana, revoking her dowry, inheritance, and family name."
+    },
+    {
+      "start": "00:49.00",
+      "end": "00:58.20",
+      "kind": "cliffhanger",
+      "desc": "Lady Ashcroft snatches Juliana's late mother's ledger and flings it disdainfully into the wet mud."
+    },
+    {
+      "start": "01:31.00",
+      "end": "01:41.50",
+      "kind": "cliffhanger",
+      "desc": "Gerald mocks Juliana as a beggar's wife, prompting her rugged new husband to issue a lethal threat."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:42.50\",\n      \"end\": \"01:41.50\",\n      \"hook_time\": \"00:42.50\",\n      \"hook\": \"Lady Ashcroft coldly demands Juliana hand over her late mother's ledger: 'Enough sentiment. And the ledger... that belongs to this family.'\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"Juliana's new husband confronts Gerald's insults with a low, deadly threat: 'Choose your next words carefully.'\",\n      \"why\": \"Combines intense stepmother cruelty (flinging an heirloom in the dirt) with a swoon-worthy rescue and intense confrontation cliffhanger.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 9,\n        \"standalone\": 9\n      }\n    },\n    {\n      \"start\": \"00:06.60\",\n      \"end\": \"00:58.20\",\n      \"hook_time\": \"00:06.80\",\n      \"hook\": \"Lord Ashcroft disowns Juliana on the cathedral steps: 'You will not leave this church carrying the Ashcroft name.'\",\n      \"hook_type\": \"shocking line\",\n      \"cliffhanger\": \"Lady Ashcroft violently wrenches Juliana's mother's heirloom book away and flings it into the wet courtyard mud as Juliana screams.\",\n      \"why\": \"Delivers a double emotional punch of public disinheritance followed immediately by severe physical humiliation.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 9,\n        \"standalone\": 10\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:06.80\",\n      \"end\": \"00:28.90\",\n      \"kind\": \"hook\",\n      \"desc\": \"Lord Ashcroft formally disowns Juliana, revoking her dowry, inheritance, and family name.\"\n    },\n    {\n      \"start\": \"00:49.00\",\n      \"end\": \"00:58.20\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Lady Ashcroft snatches Juliana's late mother's ledger and flings it disdainfully into the wet mud.\"\n    },\n    {\n      \"start\": \"01:31.00\",\n      \"end\": \"01:41.50\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Gerald mocks Juliana as a beggar's wife, prompting her rugged new husband to issue a lethal threat.\"\n    }\n  ]\n}",
+  "_model": "gemini:gemini-3.5-flash"
+}

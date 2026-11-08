@@ -1,0 +1,10 @@
+{
+  "what_happens": "Lady Juliana discovers a poisoning, scrambles to make a charcoal antidote, and a mysterious figure approaches the door, leaving the cure unfinished.",
+  "confusing": "Nothing major, though the rapid camera cuts and overlapping timestamps make it a bit hard to follow the exact sequence.",
+  "first_3s_stop": 4,
+  "need_to_know_next": 8,
+  "understandable": 7,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"Lady Juliana discovers a poisoning, scrambles to make a charcoal antidote, and a mysterious figure approaches the door, leaving the cure unfinished.\",\"confusing\":\"Nothing major, though the rapid camera cuts and overlapping timestamps make it a bit hard to follow the exact sequence.\",\"first_3s_stop\":4,\"need_to_know_next\":8,\"understandable\":7,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

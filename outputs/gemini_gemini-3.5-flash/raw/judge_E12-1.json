@@ -1,0 +1,10 @@
+{
+  "what_happens": "Clarissa forces Juliana to retrieve a cursed ring under threat of death, while Gerald and Alexander watch and intervene emotionally",
+  "confusing": "The rapid shift between characters and overlapping timestamps makes it hard to follow who is speaking or acting at moments",
+  "first_3s_stop": 6,
+  "need_to_know_next": 8,
+  "understandable": 7,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"Clarissa forces Juliana to retrieve a cursed ring under threat of death, while Gerald and Alexander watch and intervene emotionally\",\"confusing\":\"The rapid shift between characters and overlapping timestamps makes it hard to follow who is speaking or acting at moments\",\"first_3s_stop\":6,\"need_to_know_next\":8,\"understandable\":7,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

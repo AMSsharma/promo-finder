@@ -1,0 +1,10 @@
+{
+  "what_happens": "Juliana retrieves a blood\u2011stained ring from thorns, forces a constable to give it back, freeing her husband Alexander who rushes to her and sees her wounds",
+  "confusing": "nothing",
+  "first_3s_stop": 4,
+  "need_to_know_next": 7,
+  "understandable": 8,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"Juliana retrieves a blood\u2011stained ring from thorns, forces a constable to give it back, freeing her husband Alexander who rushes to her and sees her wounds\",\"confusing\":\"nothing\",\"first_3s_stop\":4,\"need_to_know_next\":7,\"understandable\":8,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

@@ -1,0 +1,56 @@
+{
+  "candidates": [
+    {
+      "start": "01:36.00",
+      "end": "02:11.00",
+      "hook_time": "01:36.00",
+      "hook": "Prudence grabs Juliana's arm in a panic, hissing, 'Do not stare. Keep walking.'",
+      "hook_type": "threat",
+      "cliffhanger": "Lady Juliana realizes the Duchess is poisoned and demands 'Who has been treating you?' as the Duchess violently convulses and chokes for air.",
+      "why": "High-stakes medical drama and an explosive poison reveal ending on an immediate life-or-death cliffhanger make this an irresistible ad.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 10,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "00:07.00",
+      "end": "00:46.00",
+      "hook_time": "00:07.00",
+      "hook": "Prudence yanks Juliana into hiding, warning: 'Keep your head down. If anyone recognizes you, everything is over.'",
+      "hook_type": "threat",
+      "cliffhanger": "The imposing Housekeeper steps out to block their path in the corridor and sharply demands, 'Prudence. Who is this?'",
+      "why": "Instantly establishes Juliana's noble sacrifice and perilous disguise before cutting right as she is caught at the door.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 9
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:07.00",
+      "end": "00:21.20",
+      "kind": "hook",
+      "desc": "Prudence warns Juliana that being recognized means ruin, but Juliana firmly declares the Duchess is dying."
+    },
+    {
+      "start": "01:04.20",
+      "end": "01:13.00",
+      "kind": "threat",
+      "desc": "The Housekeeper steps inches from Juliana's face and menacingly asks if she can keep her eyes and ears where they belong."
+    },
+    {
+      "start": "02:03.00",
+      "end": "02:11.00",
+      "kind": "cliffhanger",
+      "desc": "Juliana realizes the Duchess is poisoned and asks who treated her as the Duchess spasms and chokes for air."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"01:36.00\",\n      \"end\": \"02:11.00\",\n      \"hook_time\": \"01:36.00\",\n      \"hook\": \"Prudence grabs Juliana's arm in a panic, hissing, 'Do not stare. Keep walking.'\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"Lady Juliana realizes the Duchess is poisoned and demands 'Who has been treating you?' as the Duchess violently convulses and chokes for air.\",\n      \"why\": \"High-stakes medical drama and an explosive poison reveal ending on an immediate life-or-death cliffhanger make this an irresistible ad.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 10,\n        \"standalone\": 8\n      }\n    },\n    {\n      \"start\": \"00:07.00\",\n      \"end\": \"00:46.00\",\n      \"hook_time\": \"00:07.00\",\n      \"hook\": \"Prudence yanks Juliana into hiding, warning: 'Keep your head down. If anyone recognizes you, everything is over.'\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"The imposing Housekeeper steps out to block their path in the corridor and sharply demands, 'Prudence. Who is this?'\",\n      \"why\": \"Instantly establishes Juliana's noble sacrifice and perilous disguise before cutting right as she is caught at the door.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 9,\n        \"standalone\": 9\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:07.00\",\n      \"end\": \"00:21.20\",\n      \"kind\": \"hook\",\n      \"desc\": \"Prudence warns Juliana that being recognized means ruin, but Juliana firmly declares the Duchess is dying.\"\n    },\n    {\n      \"start\": \"01:04.20\",\n      \"end\": \"01:13.00\",\n      \"kind\": \"threat\",\n      \"desc\": \"The Housekeeper steps inches from Juliana's face and menacingly asks if she can keep her eyes and ears where they belong.\"\n    },\n    {\n      \"start\": \"02:03.00\",\n      \"end\": \"02:11.00\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Juliana realizes the Duchess is poisoned and asks who treated her as the Duchess spasms and chokes for air.\"\n    }\n  ]\n}",
+  "_model": "gemini:gemini-3.7-flash"
+}

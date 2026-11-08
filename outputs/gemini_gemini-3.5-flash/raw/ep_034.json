@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "02:22.40",
+      "end": "03:04.20",
+      "hook_time": "02:22.40",
+      "hook": "Lady Juliana, if you wish to save yourself, renounce these practices.",
+      "hook_type": "threat",
+      "cliffhanger": "The Judge stands and begins to pronounce the final sentence: 'Lady Juliana Ashcroft...'",
+      "why": "It presents a life-or-death ultimatum and cuts exactly as the verdict is being delivered, forcing the viewer to click to hear the sentence.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 10,
+        "standalone": 9
+      }
+    },
+    {
+      "start": "00:35.40",
+      "end": "01:21.00",
+      "hook_time": "00:35.80",
+      "hook": "The Judge slams the gavel with a sharp crack and bellows 'Silence!'",
+      "hook_type": "violence",
+      "cliffhanger": "Prudence, the maid, gives the final crushing testimony: 'Yes.'",
+      "why": "The emotional betrayal of the maid is a high-stakes hook that keeps viewers engaged through the interrogation.",
+      "context_needed": "A new viewer needs to understand Prudence was Juliana's ally/maid.",
+      "scores": {
+        "hook": 10,
+        "cliffhanger": 8,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "01:25.20",
+      "end": "02:06.40",
+      "hook_time": "01:25.20",
+      "hook": "Lady Juliana slams her cuffed hands against the dock and shouts, 'It was not a ritual!'",
+      "hook_type": "shocking line",
+      "cliffhanger": "The Judge traps her with a leading question: 'You admit you administered them?'",
+      "why": "It showcases the protagonist's fire and the 'poisoning' vs 'healing' conflict clearly.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 7,
+        "standalone": 10
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:01.20",
+      "end": "00:12.60",
+      "kind": "hook",
+      "desc": "The Judge formally accuses Lady Juliana of witchcraft and poisoning over a shot of the charred book."
+    },
+    {
+      "start": "00:43.20",
+      "end": "00:54.20",
+      "kind": "setup",
+      "desc": "Prudence the maid tearfully betrays Juliana on the witness stand."
+    },
+    {
+      "start": "01:50.10",
+      "end": "02:03.20",
+      "kind": "hook",
+      "desc": "The Lord turns the crowd against her: 'The people call it poisoning!' followed by Juliana's defiant defense."
+    },
+    {
+      "start": "03:01.00",
+      "end": "03:10.00",
+      "kind": "cliffhanger",
+      "desc": "The Judge rises and raises his hand to deliver the final judgment as the court falls silent."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"02:22.40\",\n      \"end\": \"03:04.20\",\n      \"hook_time\": \"02:22.40\",\n      \"hook\": \"Lady Juliana, if you wish to save yourself, renounce these practices.\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"The Judge stands and begins to pronounce the final sentence: 'Lady Juliana Ashcroft...'\",\n      \"why\": \"It presents a life-or-death ultimatum and cuts exactly as the verdict is being delivered, forcing the viewer to click to hear the sentence.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 10,\n        \"standalone\": 9\n      }\n    },\n    {\n      \"start\": \"00:35.40\",\n      \"end\": \"01:21.00\",\n      \"hook_time\": \"00:35.80\",\n      \"hook\": \"The Judge slams the gavel with a sharp crack and bellows 'Silence!'\",\n      \"hook_type\": \"violence\",\n      \"cliffhanger\": \"Prudence, the maid, gives the final crushing testimony: 'Yes.'\",\n      \"why\": \"The emotional betrayal of the maid is a high-stakes hook that keeps viewers engaged through the interrogation.\",\n      \"context_needed\": \"A new viewer needs to understand Prudence was Juliana's ally/maid.\",\n      \"scores\": {\n        \"hook\": 10,\n        \"cliffhanger\": 8,\n        \"standalone\": 8\n      }\n    },\n    {\n      \"start\": \"01:25.20\",\n      \"end\": \"02:06.40\",\n      \"hook_time\": \"01:25.20\",\n      \"hook\": \"Lady Juliana slams her cuffed hands against the dock and shouts, 'It was not a ritual!'\",\n      \"hook_type\": \"shocking line\",\n      \"cliffhanger\": \"The Judge traps her with a leading question: 'You admit you administered them?'\",\n      \"why\": \"It showcases the protagonist's fire and the 'poisoning' vs 'healing' conflict clearly.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 7,\n        \"standalone\": 10\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:01.20\",\n      \"end\": \"00:12.60\",\n      \"kind\": \"hook\",\n      \"desc\": \"The Judge formally accuses Lady Juliana of witchcraft and poisoning over a shot of the charred book.\"\n    },\n    {\n      \"start\": \"00:43.20\",\n      \"end\": \"00:54.20\",\n      \"kind\": \"setup\",\n      \"desc\": \"Prudence the maid tearfully betrays Juliana on the witness stand.\"\n    },\n    {\n      \"start\": \"01:50.10\",\n      \"end\": \"02:03.20\",\n      \"kind\": \"hook\",\n      \"desc\": \"The Lord turns the crowd against her: 'The people call it poisoning!' followed by Juliana's defiant defense.\"\n    },\n    {\n      \"start\": \"03:01.00\",\n      \"end\": \"03:10.00\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"The Judge rises and raises his hand to deliver the final judgment as the court falls silent.\"\n    }\n  ]\n}",
+  "_model": "gemini:gemini-3-flash-preview"
+}

@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:00.00",
+      "end": "00:44.80",
+      "hook_time": "00:00.00",
+      "hook": "Gerald callously rejects Juliana at the altar: \"I cannot marry you, Juliana. You are far too plain...\"",
+      "hook_type": "humiliation",
+      "cliffhanger": "Juliana's father coldly refuses to defend her, ordering her to accept Gerald's decision: \"Do not disgrace us further.\"",
+      "why": "Establishes immediate high stakes with a brutal public rejection at the altar, compounding the drama when her own father abandons her.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 8,
+        "standalone": 9
+      }
+    },
+    {
+      "start": "00:47.60",
+      "end": "01:26.70",
+      "hook_time": "00:47.60",
+      "hook": "Clarissa spitefully taunts Juliana in front of the congregation: \"You look like a kitchen maid who wandered into the wrong wedding.\"",
+      "hook_type": "humiliation",
+      "cliffhanger": "Juliana drops her tearful act and firmly warns Gerald, \"Do not mistake my heartbreak for your victory, Gerald\", cutting just before her counter-attack lands.",
+      "why": "Hooks with cruel sisterly taunts, then delivers a strong pivot where the victim stands up for herself, cutting right before the climax of her payback line.",
+      "context_needed": "Juliana was just dumped by her groom for her sister Clarissa.",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "01:03.50",
+      "end": "01:42.80",
+      "hook_time": "01:03.60",
+      "hook": "A cold matriarch scolds Juliana in the center aisle: \"Oh, don't look so wounded... You should be grateful you're at least allowed to attend the wedding.\"",
+      "hook_type": "humiliation",
+      "cliffhanger": "Juliana delivers her impassioned speech and says \"I may leave this chapel without a husband...\", cutting mid-declaration before her final line.",
+      "why": "Captures Juliana's entire emotional turnaround from humiliated bride to commanding the chapel room, cutting on an incomplete sentence for maximum intrigue.",
+      "context_needed": "Juliana has been dumped at the altar by Gerald for her sister.",
+      "scores": {
+        "hook": 7,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:00.00",
+      "end": "00:12.00",
+      "kind": "hook",
+      "desc": "Gerald calls off the wedding at the altar, telling Juliana she is too plain and beneath him."
+    },
+    {
+      "start": "00:30.60",
+      "end": "00:44.80",
+      "kind": "cliffhanger",
+      "desc": "Juliana begs her father to defend her, but he coldly commands her to accept the humiliation."
+    },
+    {
+      "start": "01:12.80",
+      "end": "01:26.70",
+      "kind": "setup",
+      "desc": "Juliana turns defiant and publicly calls out Gerald for abandoning her for beauty and wealth."
+    },
+    {
+      "start": "01:38.20",
+      "end": "01:47.40",
+      "kind": "cliffhanger",
+      "desc": "Juliana holds her head high, declaring she will leave the chapel without shame."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:00.00\",\n      \"end\": \"00:44.80\",\n      \"hook_time\": \"00:00.00\",\n      \"hook\": \"Gerald callously rejects Juliana at the altar: \\\"I cannot marry you, Juliana. You are far too plain...\\\"\",\n      \"hook_type\": \"humiliation\",\n      \"cliffhanger\": \"Juliana's father coldly refuses to defend her, ordering her to accept Gerald's decision: \\\"Do not disgrace us further.\\\"\",\n      \"why\": \"Establishes immediate high stakes with a brutal public rejection at the altar, compounding the drama when her own father abandons her.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 8,\n        \"standalone\": 9\n      }\n    },\n    {\n      \"start\": \"00:47.60\",\n      \"end\": \"01:26.70\",\n      \"hook_time\": \"00:47.60\",\n      \"hook\": \"Clarissa spitefully taunts Juliana in front of the congregation: \\\"You look like a kitchen maid who wandered into the wrong wedding.\\\"\",\n      \"hook_type\": \"humiliation\",\n      \"cliffhanger\": \"Juliana drops her tearful act and firmly warns Gerald, \\\"Do not mistake my heartbreak for your victory, Gerald\\\", cutting just before her counter-attack lands.\",\n      \"why\": \"Hooks with cruel sisterly taunts, then delivers a strong pivot where the victim stands up for herself, cutting right before the climax of her payback line.\",\n      \"context_needed\": \"Juliana was just dumped by her groom for her sister Clarissa.\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 9,\n        \"standalone\": 8\n      }\n    },\n    {\n      \"start\": \"01:03.50\",\n      \"end\": \"01:42.80\",\n      \"hook_time\": \"01:03.60\",\n      \"hook\": \"A cold matriarch scolds Juliana in the center aisle: \\\"Oh, don't look so wounded... You should be grateful you're at least allowed to attend the wedding.\\\"\",\n      \"hook_type\": \"humiliation\",\n      \"cliffhanger\": \"Juliana delivers her impassioned speech and says \\\"I may leave this chapel without a husband...\\\", cutting mid-declaration before her final line.\",\n      \"why\": \"Captures Juliana's entire emotional turnaround from humiliated bride to commanding the chapel room, cutting on an incomplete sentence for maximum intrigue.\",\n      \"context_needed\": \"Juliana has been dumped at the altar by Gerald for her sister.\",\n      \"scores\": {\n        \"hook\": 7,\n        \"cliffhanger\": 9,\n        \"standalone\": 8\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:00.00\",\n      \"end\": \"00:12.00\",\n      \"kind\": \"hook\",\n      \"desc\": \"Gerald calls off the wedding at the altar, telling Juliana she is too plain and beneath him.\"\n    },\n    {\n      \"start\": \"00:30.60\",\n      \"end\": \"00:44.80\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Juliana begs her father to defend her, but he coldly commands her to accept the humiliation.\"\n    },\n    {\n      \"start\": \"01:12.80\",\n      \"end\": \"01:26.70\",\n      \"kind\": \"setup\",\n      \"desc\": \"Juliana turns defiant and publicly calls out Gerald for abandoning her for beauty and wealth.\"\n    },\n    {\n      \"start\": \"01:38.20\",\n      \"end\": \"01:47.40\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Juliana holds her head high, declaring she will leave the chapel without shame.\"\n    }\n  ]\n}",
+  "_model": "gemini:gemini-3.5-flash"
+}

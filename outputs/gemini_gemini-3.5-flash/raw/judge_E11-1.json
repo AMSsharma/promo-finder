@@ -1,0 +1,10 @@
+{
+  "what_happens": "A tense showdown erupts in a cottage as Gerald taunts Juliana and Alexander, but a constable intervenes, discovers a gold pocket watch in Alexander's coat, and Juliana reacts in horror.",
+  "confusing": "The rapid introduction of multiple characters (Gerald, Juliana, Alexander, Constable) and overlapping dialogue makes it hard to follow who is who and their relationships.",
+  "first_3s_stop": 6,
+  "need_to_know_next": 8,
+  "understandable": 5,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"A tense showdown erupts in a cottage as Gerald taunts Juliana and Alexander, but a constable intervenes, discovers a gold pocket watch in Alexander's coat, and Juliana reacts in horror.\",\"confusing\":\"The rapid introduction of multiple characters (Gerald, Juliana, Alexander, Constable) and overlapping dialogue makes it hard to follow who is who and their relationships.\",\"first_3s_stop\":6,\"need_to_know_next\":8,\"understandable\":5,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

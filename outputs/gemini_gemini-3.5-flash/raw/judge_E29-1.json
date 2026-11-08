@@ -1,0 +1,10 @@
+{
+  "what_happens": "Catherine taunts Julian while holding a mysterious herbal book, and Juliana fights back against guards, insisting the book is medicine",
+  "confusing": "The relationship between Catherine and Juliana, why guards are present, and the significance of the book are unclear",
+  "first_3s_stop": 5,
+  "need_to_know_next": 8,
+  "understandable": 5,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"Catherine taunts Julian while holding a mysterious herbal book, and Juliana fights back against guards, insisting the book is medicine\",\"confusing\":\"The relationship between Catherine and Juliana, why guards are present, and the significance of the book are unclear\",\"first_3s_stop\":5,\"need_to_know_next\":8,\"understandable\":5,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

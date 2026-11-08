@@ -1,0 +1,10 @@
+{
+  "what_happens": "A cruel noblewoman repeatedly whips and humiliates Juliana and her companion Prudence with a riding crop in a dark, oppressive setting.",
+  "confusing": "nothing",
+  "first_3s_stop": 8,
+  "need_to_know_next": 3,
+  "understandable": 7,
+  "verdict": "skip",
+  "_raw": "{\"what_happens\":\"A cruel noblewoman repeatedly whips and humiliates Juliana and her companion Prudence with a riding crop in a dark, oppressive setting.\",\"confusing\":\"nothing\",\"first_3s_stop\":8,\"need_to_know_next\":3,\"understandable\":7,\"verdict\":\"skip\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

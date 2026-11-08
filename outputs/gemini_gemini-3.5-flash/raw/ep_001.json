@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:36.50",
+      "end": "01:18.80",
+      "hook_time": "00:39.10",
+      "hook": "Clarissa smugly reveals 'Because he is marrying me' while holding Gerald's hand at the altar.",
+      "hook_type": "reveal",
+      "cliffhanger": "Clarissa delivers the brutal blow: 'Long enough to know he was never going to marry you.'",
+      "why": "Establishes immediate high-stakes altar betrayal with clear villains and cuts on a cruel, lingering line.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 9,
+        "standalone": 10
+      }
+    },
+    {
+      "start": "01:30.90",
+      "end": "02:13.80",
+      "hook_time": "01:30.90",
+      "hook": "Matriarch harshly cuts Juliana off with 'Enough! You have embarrassed this family long enough.'",
+      "hook_type": "humiliation",
+      "cliffhanger": "Gerald arrogantly declares he cannot marry a woman of 'low value' like Juliana just as her hand clenches in fury.",
+      "why": "Highlights the extreme family betrayal and emotional cruelty, driving high engagement from viewers eager for revenge.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 8,
+        "standalone": 9
+      }
+    },
+    {
+      "start": "00:57.00",
+      "end": "01:35.50",
+      "hook_time": "01:00.10",
+      "hook": "Juliana screams 'You let me believe I was walking toward my husband!' and Gerald coldly replies 'I changed my mind.'",
+      "hook_type": "shocking line",
+      "cliffhanger": "Juliana begs her silent father for help, only for the Matriarch to yell 'Enough! You have embarrassed this family long enough.'",
+      "why": "Combines the shock of the groom's cold abandonment with the heartbreak of her father's silence.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 8,
+        "standalone": 9
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:39.00",
+      "end": "00:43.90",
+      "kind": "hook",
+      "desc": "Clarissa gloats 'Because he is marrying me' as Juliana gasps in devastation."
+    },
+    {
+      "start": "00:57.00",
+      "end": "01:03.00",
+      "kind": "setup",
+      "desc": "Juliana cries out in her mother's gown, and Gerald coldly responds 'I changed my mind.'"
+    },
+    {
+      "start": "01:20.10",
+      "end": "01:30.80",
+      "kind": "setup",
+      "desc": "Juliana drops to her knees begging her father, who refuses to look at her."
+    },
+    {
+      "start": "01:57.00",
+      "end": "02:13.80",
+      "kind": "cliffhanger",
+      "desc": "Gerald calls Juliana low value and plain before turning his back on her."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:36.50\",\n      \"end\": \"01:18.80\",\n      \"hook_time\": \"00:39.10\",\n      \"hook\": \"Clarissa smugly reveals 'Because he is marrying me' while holding Gerald's hand at the altar.\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"Clarissa delivers the brutal blow: 'Long enough to know he was never going to marry you.'\",\n      \"why\": \"Establishes immediate high-stakes altar betrayal with clear villains and cuts on a cruel, lingering line.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 9,\n        \"standalone\": 10\n      }\n    },\n    {\n      \"start\": \"01:30.90\",\n      \"end\": \"02:13.80\",\n      \"hook_time\": \"01:30.90\",\n      \"hook\": \"Matriarch harshly cuts Juliana off with 'Enough! You have embarrassed this family long enough.'\",\n      \"hook_type\": \"humiliation\",\n      \"cliffhanger\": \"Gerald arrogantly declares he cannot marry a woman of 'low value' like Juliana just as her hand clenches in fury.\",\n      \"why\": \"Highlights the extreme family betrayal and emotional cruelty, driving high engagement from viewers eager for revenge.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 8,\n        \"standalone\": 9\n      }\n    },\n    {\n      \"start\": \"00:57.00\",\n      \"end\": \"01:35.50\",\n      \"hook_time\": \"01:00.10\",\n      \"hook\": \"Juliana screams 'You let me believe I was walking toward my husband!' and Gerald coldly replies 'I changed my mind.'\",\n      \"hook_type\": \"shocking line\",\n      \"cliffhanger\": \"Juliana begs her silent father for help, only for the Matriarch to yell 'Enough! You have embarrassed this family long enough.'\",\n      \"why\": \"Combines the shock of the groom's cold abandonment with the heartbreak of her father's silence.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 8,\n        \"standalone\": 9\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:39.00\",\n      \"end\": \"00:43.90\",\n      \"kind\": \"hook\",\n      \"desc\": \"Clarissa gloats 'Because he is marrying me' as Juliana gasps in devastation.\"\n    },\n    {\n      \"start\": \"00:57.00\",\n      \"end\": \"01:03.00\",\n      \"kind\": \"setup\",\n      \"desc\": \"Juliana cries out in her mother's gown, and Gerald coldly responds 'I changed my mind.'\"\n    },\n    {\n      \"start\": \"01:20.10\",\n      \"end\": \"01:30.80\",\n      \"kind\": \"setup\",\n      \"desc\": \"Juliana drops to her knees begging her father, who refuses to look at her.\"\n    },\n    {\n      \"start\": \"01:57.00\",\n      \"end\": \"02:13.80\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Gerald calls Juliana low value and plain before turning his back on her.\"\n    }\n  ]\n}",
+  "_model": "gemini:gemini-3.5-flash"
+}

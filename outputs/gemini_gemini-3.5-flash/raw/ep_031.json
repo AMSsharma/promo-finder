@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:04.20",
+      "end": "00:24.50",
+      "hook_time": "00:06.90",
+      "hook": "Catherine says \u201cLook at you.\u201d while holding a red\u2011hot poker.",
+      "hook_type": "humiliation",
+      "cliffhanger": "Catherine leans in, about to whisper \u201cBecause this is what you were always meant to be,\u201d leaving the threat of the scorching iron hanging.",
+      "why": "Immediate visual danger and a defiant heroine hook viewers fast.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 8,
+        "standalone": 7
+      }
+    },
+    {
+      "start": "01:31.20",
+      "end": "02:04.00",
+      "hook_time": "01:31.20",
+      "hook": "Catherine laughs \u201cLove? Look where your precious love brought you.\u201d",
+      "hook_type": "humiliation",
+      "cliffhanger": "Juliana is about to retort \u201cIf you were truly powerful\u2026\u201d but the clip cuts before her line, leaving the power showdown unresolved.",
+      "why": "Emotional stakes of love vs cruelty explode quickly, pulling viewers in.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "02:13.20",
+      "end": "02:35.20",
+      "hook_time": "02:13.20",
+      "hook": "Catherine presses the glowing poker into the open pages of Juliana\u2019s mother\u2019s botanical book.",
+      "hook_type": "violence",
+      "cliffhanger": "The hot iron hovers inches from Juliana\u2019s face, ember reflected in her eye, before the cut\u2014pure terror left hanging.",
+      "why": "Visceral danger and a nail\u2011biting visual make viewers desperate to see what happens next.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 10,
+        "standalone": 8
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:04.20",
+      "end": "00:07.00",
+      "kind": "hook",
+      "desc": "Catherine enters the cell brandishing a red\u2011hot poker and says \u201cLook at you.\u201d"
+    },
+    {
+      "start": "01:20.80",
+      "end": "01:23.20",
+      "kind": "setup",
+      "desc": "Juliana declares \u201cI call it love.\u201d establishing her defiant love."
+    },
+    {
+      "start": "02:13.20",
+      "end": "02:15.00",
+      "kind": "hook",
+      "desc": "Catherine scorches the botanical book with the glowing iron."
+    },
+    {
+      "start": "02:35.20",
+      "end": "02:38.00",
+      "kind": "cliffhanger",
+      "desc": "The hot poker hovers inches from Juliana\u2019s face, ember reflected in her eye."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:04.20\",\n      \"end\": \"00:24.50\",\n      \"hook_time\": \"00:06.90\",\n      \"hook\": \"Catherine says \u201cLook at you.\u201d while holding a red\u2011hot poker.\",\n      \"hook_type\": \"humiliation\",\n      \"cliffhanger\": \"Catherine leans in, about to whisper \u201cBecause this is what you were always meant to be,\u201d leaving the threat of the scorching iron hanging.\",\n      \"why\": \"Immediate visual danger and a defiant heroine hook viewers fast.\",\n      \"context_needed\": \"none\",\n      \"scores\": { \"hook\": 9, \"cliffhanger\": 8, \"standalone\": 7 }\n    },\n    {\n      \"start\": \"01:31.20\",\n      \"end\": \"02:04.00\",\n      \"hook_time\": \"01:31.20\",\n      \"hook\": \"Catherine laughs \u201cLove? Look where your precious love brought you.\u201d\",\n      \"hook_type\": \"humiliation\",\n      \"cliffhanger\": \"Juliana is about to retort \u201cIf you were truly powerful\u2026\u201d but the clip cuts before her line, leaving the power showdown unresolved.\",\n      \"why\": \"Emotional stakes of love vs cruelty explode quickly, pulling viewers in.\",\n      \"context_needed\": \"none\",\n      \"scores\": { \"hook\": 8, \"cliffhanger\": 9, \"standalone\": 8 }\n    },\n    {\n      \"start\": \"02:13.20\",\n      \"end\": \"02:35.20\",\n      \"hook_time\": \"02:13.20\",\n      \"hook\": \"Catherine presses the glowing poker into the open pages of Juliana\u2019s mother\u2019s botanical book.\",\n      \"hook_type\": \"violence\",\n      \"cliffhanger\": \"The hot iron hovers inches from Juliana\u2019s face, ember reflected in her eye, before the cut\u2014pure terror left hanging.\",\n      \"why\": \"Visceral danger and a nail\u2011biting visual make viewers desperate to see what happens next.\",\n      \"context_needed\": \"none\",\n      \"scores\": { \"hook\": 9, \"cliffhanger\": 10, \"standalone\": 8 }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:04.20\",\n      \"end\": \"00:07.00\",\n      \"kind\": \"hook\",\n      \"desc\": \"Catherine enters the cell brandishing a red\u2011hot poker and says \u201cLook at you.\u201d\"\n    },\n    {\n      \"start\": \"01:20.80\",\n      \"end\": \"01:23.20\",\n      \"kind\": \"setup\",\n      \"desc\": \"Juliana declares \u201cI call it love.\u201d establishing her defiant love.\"\n    },\n    {\n      \"start\": \"02:13.20\",\n      \"end\": \"02:15.00\",\n      \"kind\": \"hook\",\n      \"desc\": \"Catherine scorches the botanical book with the glowing iron.\"\n    },\n    {\n      \"start\": \"02:35.20\",\n      \"end\": \"02:38.00\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"The hot poker hovers inches from Juliana\u2019s face, ember reflected in her eye.\"\n    }\n  ]\n}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

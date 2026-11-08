@@ -1,0 +1,71 @@
+{
+  "candidates": [
+    {
+      "start": "01:10.50",
+      "end": "01:43.80",
+      "hook_time": "01:10.60",
+      "hook": "Seamus cries out in despair: \"You are a viscount's daughter! Sleeping on straw, sorting weeds!\"",
+      "hook_type": "shocking line",
+      "cliffhanger": "Catherine smiles greedily and plots: \"Once the old Duchess is gone... Ashbury will finally belong to us.\"",
+      "why": "It contrasts Juliana's noble sacrifice as a fallen viscount's daughter with Catherine's callous plot to eliminate the Duchess and take the estate.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 8,
+        "standalone": 9
+      }
+    },
+    {
+      "start": "00:20.00",
+      "end": "00:42.50",
+      "hook_time": "00:21.30",
+      "hook": "Rupert declares: \"Once my cousin Alexander's death is formally sealed by the Crown... the title is mine.\"",
+      "hook_type": "reveal",
+      "cliffhanger": "Rupert reveals he is secretly murdering the Dowager Duchess: \"Not through the winter. I've ensured her quiet comfort.\"",
+      "why": "Instantly establishes the usurpation plot and delivers a chilling reveal that the Dowager is actively being poisoned.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "01:28.20",
+      "end": "01:54.75",
+      "hook_time": "01:29.90",
+      "hook": "Catherine sneers: \"Let the peasants rot in their barns. Let them pray to their weeds.\"",
+      "hook_type": "shocking line",
+      "cliffhanger": "Catherine glides to the window and vows: \"This house will only bow to me.\"",
+      "why": "A short, punchy villain showcase that establishes pure contempt for the sick villagers and an impending takeover of the estate.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 7,
+        "standalone": 8
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:20.00",
+      "end": "00:34.40",
+      "kind": "hook",
+      "desc": "Rupert declares he will take the title once Alexander is declared dead and gloats over the Dowager's failing health."
+    },
+    {
+      "start": "01:10.50",
+      "end": "01:28.00",
+      "kind": "setup",
+      "desc": "Seamus laments Juliana living like a peasant while Juliana defiantly refuses to abandon the sick villagers."
+    },
+    {
+      "start": "01:39.20",
+      "end": "01:54.75",
+      "kind": "cliffhanger",
+      "desc": "Catherine plots the Dowager's death and proclaims that Ashbury Manor will only bow to her."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"01:10.50\",\n      \"end\": \"01:43.80\",\n      \"hook_time\": \"01:10.60\",\n      \"hook\": \"Seamus cries out in despair: \\\"You are a viscount's daughter! Sleeping on straw, sorting weeds!\\\"\",\n      \"hook_type\": \"shocking line\",\n      \"cliffhanger\": \"Catherine smiles greedily and plots: \\\"Once the old Duchess is gone... Ashbury will finally belong to us.\\\"\",\n      \"why\": \"It contrasts Juliana's noble sacrifice as a fallen viscount's daughter with Catherine's callous plot to eliminate the Duchess and take the estate.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 8,\n        \"standalone\": 9\n      }\n    },\n    {\n      \"start\": \"00:20.00\",\n      \"end\": \"00:42.50\",\n      \"hook_time\": \"00:21.30\",\n      \"hook\": \"Rupert declares: \\\"Once my cousin Alexander's death is formally sealed by the Crown... the title is mine.\\\"\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"Rupert reveals he is secretly murdering the Dowager Duchess: \\\"Not through the winter. I've ensured her quiet comfort.\\\"\",\n      \"why\": \"Instantly establishes the usurpation plot and delivers a chilling reveal that the Dowager is actively being poisoned.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 9,\n        \"standalone\": 8\n      }\n    },\n    {\n      \"start\": \"01:28.20\",\n      \"end\": \"01:54.75\",\n      \"hook_time\": \"01:29.90\",\n      \"hook\": \"Catherine sneers: \\\"Let the peasants rot in their barns. Let them pray to their weeds.\\\"\",\n      \"hook_type\": \"shocking line\",\n      \"cliffhanger\": \"Catherine glides to the window and vows: \\\"This house will only bow to me.\\\"\",\n      \"why\": \"A short, punchy villain showcase that establishes pure contempt for the sick villagers and an impending takeover of the estate.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 7,\n        \"standalone\": 8\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:20.00\",\n      \"end\": \"00:34.40\",\n      \"kind\": \"hook\",\n      \"desc\": \"Rupert declares he will take the title once Alexander is declared dead and gloats over the Dowager's failing health.\"\n    },\n    {\n      \"start\": \"01:10.50\",\n      \"end\": \"01:28.00\",\n      \"kind\": \"setup\",\n      \"desc\": \"Seamus laments Juliana living like a peasant while Juliana defiantly refuses to abandon the sick villagers.\"\n    },\n    {\n      \"start\": \"01:39.20\",\n      \"end\": \"01:54.75\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Catherine plots the Dowager's death and proclaims that Ashbury Manor will only bow to her.\"\n    }\n  ]\n}",
+  "_model": "gemini:gemini-3.7-flash"
+}

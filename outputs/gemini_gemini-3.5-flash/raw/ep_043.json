@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:02.40",
+      "end": "00:24.00",
+      "hook_time": "00:03.90",
+      "hook": "Blond Nobleman shouts \u201cThis man is an imposter! Arrest him!\u201d",
+      "hook_type": "shocking line",
+      "cliffhanger": "Cuts just before Alexander declares \u201cThen let the Crown decide.\u201d \u2013 the audience wonders what evidence he will reveal.",
+      "why": "Immediate accusation, guard defiance and a looming reveal create high tension in a compact 21\u2011second arc.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 8,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "00:24.10",
+      "end": "00:47.80",
+      "hook_time": "00:26.10",
+      "hook": "Alexander coldly says \u201cThen let the Crown decide.\u201d",
+      "hook_type": "shocking line",
+      "cliffhanger": "Ends right before the Crown Official announces \u201cThe report identifies the leak as deliberate.\u201d \u2013 viewers are left hanging on the damning accusation.",
+      "why": "Shows the power shift and the first glimpse of the incriminating dossier, then stops at the moment the betrayal is about to be exposed.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "01:33.20",
+      "end": "01:54.96",
+      "hook_time": "01:49.80",
+      "hook": "Police Constable blocks Lord Sterling with \u201cGoing somewhere, Lord Sterling?\u201d",
+      "hook_type": "threat",
+      "cliffhanger": "Cuts after the constable\u2019s line, before Lord Sterling\u2019s terrified close\u2011up \u2013 the audience wonders if he will escape or be captured.",
+      "why": "A high\u2011stakes chase moment that instantly raises danger and ends on a perfect suspense beat.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 9,
+        "standalone": 7
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:03.90",
+      "end": "00:07.40",
+      "kind": "hook",
+      "desc": "Blond Nobleman shouts \u201cThis man is an imposter! Arrest him!\u201d"
+    },
+    {
+      "start": "00:14.20",
+      "end": "00:15.80",
+      "kind": "setup",
+      "desc": "Guard Captain raises sword and declares \u201cWe will not.\u201d"
+    },
+    {
+      "start": "01:00.60",
+      "end": "01:02.50",
+      "kind": "cliffhanger",
+      "desc": "Crown Official reads the damning name \u201cLord Henry Sterling.\u201d"
+    },
+    {
+      "start": "01:49.80",
+      "end": "01:52.80",
+      "kind": "cliffhanger",
+      "desc": "Police Constable confronts fleeing Lord Sterling: \u201cGoing somewhere, Lord Sterling?\u201d"
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:02.40\",\n      \"end\": \"00:24.00\",\n      \"hook_time\": \"00:03.90\",\n      \"hook\": \"Blond Nobleman shouts \u201cThis man is an imposter! Arrest him!\u201d\",\n      \"hook_type\": \"shocking line\",\n      \"cliffhanger\": \"Cuts just before Alexander declares \u201cThen let the Crown decide.\u201d \u2013 the audience wonders what evidence he will reveal.\",\n      \"why\": \"Immediate accusation, guard defiance and a looming reveal create high tension in a compact 21\u2011second arc.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 9, \"cliffhanger\": 8, \"standalone\": 8}\n    },\n    {\n      \"start\": \"00:24.10\",\n      \"end\": \"00:47.80\",\n      \"hook_time\": \"00:26.10\",\n      \"hook\": \"Alexander coldly says \u201cThen let the Crown decide.\u201d\",\n      \"hook_type\": \"shocking line\",\n      \"cliffhanger\": \"Ends right before the Crown Official announces \u201cThe report identifies the leak as deliberate.\u201d \u2013 viewers are left hanging on the damning accusation.\",\n      \"why\": \"Shows the power shift and the first glimpse of the incriminating dossier, then stops at the moment the betrayal is about to be exposed.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 8, \"cliffhanger\": 9, \"standalone\": 8}\n    },\n    {\n      \"start\": \"01:33.20\",\n      \"end\": \"01:54.96\",\n      \"hook_time\": \"01:49.80\",\n      \"hook\": \"Police Constable blocks Lord Sterling with \u201cGoing somewhere, Lord Sterling?\u201d\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"Cuts after the constable\u2019s line, before Lord Sterling\u2019s terrified close\u2011up \u2013 the audience wonders if he will escape or be captured.\",\n      \"why\": \"A high\u2011stakes chase moment that instantly raises danger and ends on a perfect suspense beat.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 9, \"cliffhanger\": 9, \"standalone\": 7}\n    }\n  ],\n  \"moments\": [\n    {\"start\": \"00:03.90\", \"end\": \"00:07.40\", \"kind\": \"hook\", \"desc\": \"Blond Nobleman shouts \u201cThis man is an imposter! Arrest him!\u201d\"},\n    {\"start\": \"00:14.20\", \"end\": \"00:15.80\", \"kind\": \"setup\", \"desc\": \"Guard Captain raises sword and declares \u201cWe will not.\u201d\"},\n    {\"start\": \"01:00.60\", \"end\": \"01:02.50\", \"kind\": \"cliffhanger\", \"desc\": \"Crown Official reads the damning name \u201cLord Henry Sterling.\u201d\"},\n    {\"start\": \"01:49.80\", \"end\": \"01:52.80\", \"kind\": \"cliffhanger\", \"desc\": \"Police Constable confronts fleeing Lord Sterling: \u201cGoing somewhere, Lord Sterling?\u201d\"}\n  ]\n}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

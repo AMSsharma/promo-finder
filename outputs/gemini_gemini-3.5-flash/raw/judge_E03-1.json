@@ -1,0 +1,10 @@
+{
+  "what_happens": "A mysterious bearded man intervenes in a violent cathedral scene, protects a woman, and dramatically proposes to her with a ring.",
+  "confusing": "The fast\u2011paced dialogue and many character names make it hard to follow who is who and why the stranger suddenly offers a ring.",
+  "first_3s_stop": 3,
+  "need_to_know_next": 7,
+  "understandable": 5,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"A mysterious bearded man intervenes in a violent cathedral scene, protects a woman, and dramatically proposes to her with a ring.\",\"confusing\":\"The fast\u2011paced dialogue and many character names make it hard to follow who is who and why the stranger suddenly offers a ring.\",\"first_3s_stop\":3,\"need_to_know_next\":7,\"understandable\":5,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

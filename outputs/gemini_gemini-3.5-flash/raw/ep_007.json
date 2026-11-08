@@ -1,0 +1,56 @@
+{
+  "candidates": [
+    {
+      "start": "00:32.80",
+      "end": "01:28.00",
+      "hook_time": "00:33.20",
+      "hook": "Aristocratic Woman laughs maliciously, insulting Juliana: \"Home? Look at your hands, Juliana. You look like a servant.\"",
+      "hook_type": "humiliation",
+      "cliffhanger": "Gerald trembles in terror looking up at the imposing scarred husband who towers over him silently.",
+      "why": "Opens with sharp emotional humiliation and builds up to a highly satisfying confrontation where the hero steps in to intimidate the bully.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 9,
+        "standalone": 9
+      }
+    },
+    {
+      "start": "01:01.50",
+      "end": "01:28.50",
+      "hook_time": "01:05.20",
+      "hook": "Gerald lunges forward, aggressively pointing in Juliana's face: \"I have enough influence to make a beggar disappear.\"",
+      "hook_type": "threat",
+      "cliffhanger": "Gerald's arrogant bravado completely vanishes into sheer panic as the massive, scarred husband steps up to tower over him.",
+      "why": "Delivers an immediate physical threat hook and fast-tracks straight to the high-stakes moment where the mysterious husband arrives.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:32.80",
+      "end": "00:44.80",
+      "kind": "setup",
+      "desc": "Aristocratic Woman mocks Juliana's mud-caked hands, but Juliana proudly defends working with her hands."
+    },
+    {
+      "start": "01:05.20",
+      "end": "01:09.50",
+      "kind": "hook",
+      "desc": "Gerald aggressively lunges into Juliana's face, threatening to make her husband disappear."
+    },
+    {
+      "start": "01:20.00",
+      "end": "01:28.50",
+      "kind": "cliffhanger",
+      "desc": "The towering scarred husband silently confronts Gerald, causing Gerald to freeze in terror."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:32.80\",\n      \"end\": \"01:28.00\",\n      \"hook_time\": \"00:33.20\",\n      \"hook\": \"Aristocratic Woman laughs maliciously, insulting Juliana: \\\"Home? Look at your hands, Juliana. You look like a servant.\\\"\",\n      \"hook_type\": \"humiliation\",\n      \"cliffhanger\": \"Gerald trembles in terror looking up at the imposing scarred husband who towers over him silently.\",\n      \"why\": \"Opens with sharp emotional humiliation and builds up to a highly satisfying confrontation where the hero steps in to intimidate the bully.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 9,\n        \"standalone\": 9\n      }\n    },\n    {\n      \"start\": \"01:01.50\",\n      \"end\": \"01:28.50\",\n      \"hook_time\": \"01:05.20\",\n      \"hook\": \"Gerald lunges forward, aggressively pointing in Juliana's face: \\\"I have enough influence to make a beggar disappear.\\\"\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"Gerald's arrogant bravado completely vanishes into sheer panic as the massive, scarred husband steps up to tower over him.\",\n      \"why\": \"Delivers an immediate physical threat hook and fast-tracks straight to the high-stakes moment where the mysterious husband arrives.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 9,\n        \"standalone\": 8\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:32.80\",\n      \"end\": \"00:44.80\",\n      \"kind\": \"setup\",\n      \"desc\": \"Aristocratic Woman mocks Juliana's mud-caked hands, but Juliana proudly defends working with her hands.\"\n    },\n    {\n      \"start\": \"01:05.20\",\n      \"end\": \"01:09.50\",\n      \"kind\": \"hook\",\n      \"desc\": \"Gerald aggressively lunges into Juliana's face, threatening to make her husband disappear.\"\n    },\n    {\n      \"start\": \"01:20.00\",\n      \"end\": \"01:28.50\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"The towering scarred husband silently confronts Gerald, causing Gerald to freeze in terror.\"\n    }\n  ]\n}",
+  "_model": "gemini:gemini-3.5-flash"
+}

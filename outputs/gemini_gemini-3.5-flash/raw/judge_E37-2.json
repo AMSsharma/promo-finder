@@ -1,0 +1,10 @@
+{
+  "what_happens": "A chained woman named Juliana struggles against her captivity, defiantly refusing to eat and proclaiming she won\u2019t be broken.",
+  "confusing": "nothing",
+  "first_3s_stop": 7,
+  "need_to_know_next": 5,
+  "understandable": 8,
+  "verdict": "skip",
+  "_raw": "{\"what_happens\":\"A chained woman named Juliana struggles against her captivity, defiantly refusing to eat and proclaiming she won\u2019t be broken.\",\"confusing\":\"nothing\",\"first_3s_stop\":7,\"need_to_know_next\":5,\"understandable\":8,\"verdict\":\"skip\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

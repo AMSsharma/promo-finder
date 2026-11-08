@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:03.20",
+      "end": "00:49.00",
+      "hook_time": "00:03.30",
+      "hook": "Police Constable: \u201cLord Henry Sterling, you are under arrest by order of the Crown.\u201d",
+      "hook_type": "threat",
+      "cliffhanger": "Catherine\u2019s desperate cry \u201cI was supposed to be your Duchess!\u201d cuts just before Alexander\u2019s cold reply \u201cYou were never my Duchess.\u201d",
+      "why": "Immediate authority threat grabs attention, then a heartbreaking plea leaves viewers hanging on his brutal rejection.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "00:38.80",
+      "end": "01:02.50",
+      "hook_time": "00:41.20",
+      "hook": "Alexander abruptly pulls his face back, refusing Catherine\u2019s touch.",
+      "hook_type": "rejection",
+      "cliffhanger": "Alexander\u2019s skeptical question \u201cDid you?\u201d leaves the audience wondering if her love was real.",
+      "why": "A visual snub creates instant drama, and the lingering doubt compels viewers to watch the resolution.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 8,
+        "standalone": 7
+      }
+    },
+    {
+      "start": "00:46.60",
+      "end": "01:10.40",
+      "hook_time": "00:46.60",
+      "hook": "Catherine (Desperate, Demanding): \u201cI was supposed to be your Duchess!\u201d",
+      "hook_type": "desperation",
+      "cliffhanger": "Catherine gasps \u201cHer?!\u201d as Alexander walks toward the chained Juliana, leaving the identity of his chosen bride unknown.",
+      "why": "A raw demand followed by a shocking reveal of a new bride creates a powerful emotional hook and a cliffhanger.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 7,
+        "cliffhanger": 9,
+        "standalone": 7
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:03.30",
+      "end": "00:04.50",
+      "kind": "hook",
+      "desc": "Police Constable declares the arrest \u2013 a clear threat that stops scrolling."
+    },
+    {
+      "start": "00:24.40",
+      "end": "00:27.80",
+      "kind": "setup",
+      "desc": "Catherine gathers her train and walks toward Alexander, setting up her plea."
+    },
+    {
+      "start": "00:49.20",
+      "end": "00:51.00",
+      "kind": "cliffhanger",
+      "desc": "Alexander\u2019s cold line \u201cYou were never my Duchess.\u201d can be used as a payoff in another edit."
+    },
+    {
+      "start": "01:07.80",
+      "end": "01:09.60",
+      "kind": "reveal",
+      "desc": "Alexander turns and walks toward the chained Juliana \u2013 a shocking new bride reveal."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:03.20\",\n      \"end\": \"00:49.00\",\n      \"hook_time\": \"00:03.30\",\n      \"hook\": \"Police Constable: \u201cLord Henry Sterling, you are under arrest by order of the Crown.\u201d\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"Catherine\u2019s desperate cry \u201cI was supposed to be your Duchess!\u201d cuts just before Alexander\u2019s cold reply \u201cYou were never my Duchess.\u201d\",\n      \"why\": \"Immediate authority threat grabs attention, then a heartbreaking plea leaves viewers hanging on his brutal rejection.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 9, \"cliffhanger\": 9, \"standalone\": 8}\n    },\n    {\n      \"start\": \"00:38.80\",\n      \"end\": \"01:02.50\",\n      \"hook_time\": \"00:41.20\",\n      \"hook\": \"Alexander abruptly pulls his face back, refusing Catherine\u2019s touch.\",\n      \"hook_type\": \"rejection\",\n      \"cliffhanger\": \"Alexander\u2019s skeptical question \u201cDid you?\u201d leaves the audience wondering if her love was real.\",\n      \"why\": \"A visual snub creates instant drama, and the lingering doubt compels viewers to watch the resolution.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 8, \"cliffhanger\": 8, \"standalone\": 7}\n    },\n    {\n      \"start\": \"00:46.60\",\n      \"end\": \"01:10.40\",\n      \"hook_time\": \"00:46.60\",\n      \"hook\": \"Catherine (Desperate, Demanding): \u201cI was supposed to be your Duchess!\u201d\",\n      \"hook_type\": \"desperation\",\n      \"cliffhanger\": \"Catherine gasps \u201cHer?!\u201d as Alexander walks toward the chained Juliana, leaving the identity of his chosen bride unknown.\",\n      \"why\": \"A raw demand followed by a shocking reveal of a new bride creates a powerful emotional hook and a cliffhanger.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 7, \"cliffhanger\": 9, \"standalone\": 7}\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:03.30\",\n      \"end\": \"00:04.50\",\n      \"kind\": \"hook\",\n      \"desc\": \"Police Constable declares the arrest \u2013 a clear threat that stops scrolling.\"\n    },\n    {\n      \"start\": \"00:24.40\",\n      \"end\": \"00:27.80\",\n      \"kind\": \"setup\",\n      \"desc\": \"Catherine gathers her train and walks toward Alexander, setting up her plea.\"\n    },\n    {\n      \"start\": \"00:49.20\",\n      \"end\": \"00:51.00\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Alexander\u2019s cold line \u201cYou were never my Duchess.\u201d can be used as a payoff in another edit.\"\n    },\n    {\n      \"start\": \"01:07.80\",\n      \"end\": \"01:09.60\",\n      \"kind\": \"reveal\",\n      \"desc\": \"Alexander turns and walks toward the chained Juliana \u2013 a shocking new bride reveal.\"\n    }\n  ]\n}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

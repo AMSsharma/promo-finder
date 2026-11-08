@@ -1,0 +1,10 @@
+{
+  "what_happens": "A scarred noble learns his mother is imprisoned and everyone thinks he's dead, prompting a vengeful resolve",
+  "confusing": "nothing",
+  "first_3s_stop": 4,
+  "need_to_know_next": 6,
+  "understandable": 5,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"A scarred noble learns his mother is imprisoned and everyone thinks he's dead, prompting a vengeful resolve\",\"confusing\":\"nothing\",\"first_3s_stop\":4,\"need_to_know_next\":6,\"understandable\":5,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

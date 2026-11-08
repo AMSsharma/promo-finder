@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:56.80",
+      "end": "01:23.40",
+      "hook_time": "00:56.80",
+      "hook": "Lady Ashbourne snarls, \"You dare show your face in Ashbourne courtyard?\"",
+      "hook_type": "humiliation",
+      "cliffhanger": "Juliana shouts \"Stop.\" and the clip cuts before Alexander reacts, leaving the fate of Catherine hanging.",
+      "why": "Immediate confrontation, clear villain, desperate plea, and a power shift that forces viewers to want the resolution.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 8,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "01:31.00",
+      "end": "02:01.80",
+      "hook_time": "01:31.00",
+      "hook": "Juliana says, \"If you seek shelter in this house, Catherine, you earn it.\"",
+      "hook_type": "humiliation",
+      "cliffhanger": "Catherine cries, \"You humiliate me,\" and the clip ends before Juliana's final offer, leaving her decision unknown.",
+      "why": "Emotional humiliation and a stark choice that hooks viewers into wondering whether she will accept servitude.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 7
+      }
+    },
+    {
+      "start": "01:38.80",
+      "end": "02:07.20",
+      "hook_time": "01:38.80",
+      "hook": "Juliana declares coldly, \"As a scullery maid.\"",
+      "hook_type": "humiliation",
+      "cliffhanger": "The clip stops on Juliana's calm offer, \"I offer you bread and honest labor...\" before Catherine accepts, leaving the outcome unresolved.",
+      "why": "A shocking demotion that instantly raises stakes and ends on a tantalizing decision point.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 8,
+        "standalone": 7
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:56.80",
+      "end": "00:59.80",
+      "kind": "hook",
+      "desc": "Lady Ashbourne confronts Catherine with a contemptuous accusation."
+    },
+    {
+      "start": "01:21.80",
+      "end": "01:23.40",
+      "kind": "setup",
+      "desc": "Juliana raises her hand and commands \"Stop.\" halting the guard."
+    },
+    {
+      "start": "01:31.00",
+      "end": "01:35.00",
+      "kind": "cliffhanger",
+      "desc": "Juliana picks up a servant's apron and iron keys, offering shelter conditional on servitude."
+    },
+    {
+      "start": "01:38.80",
+      "end": "01:41.00",
+      "kind": "hook",
+      "desc": "Juliana delivers the humiliating line \"As a scullery maid.\""
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:56.80\",\n      \"end\": \"01:23.40\",\n      \"hook_time\": \"00:56.80\",\n      \"hook\": \"Lady Ashbourne snarls, \\\"You dare show your face in Ashbourne courtyard?\\\"\",\n      \"hook_type\": \"humiliation\",\n      \"cliffhanger\": \"Juliana shouts \\\"Stop.\\\" and the clip cuts before Alexander reacts, leaving the fate of Catherine hanging.\",\n      \"why\": \"Immediate confrontation, clear villain, desperate plea, and a power shift that forces viewers to want the resolution.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 9, \"cliffhanger\": 8, \"standalone\": 8}\n    },\n    {\n      \"start\": \"01:31.00\",\n      \"end\": \"02:01.80\",\n      \"hook_time\": \"01:31.00\",\n      \"hook\": \"Juliana says, \\\"If you seek shelter in this house, Catherine, you earn it.\\\"\",\n      \"hook_type\": \"humiliation\",\n      \"cliffhanger\": \"Catherine cries, \\\"You humiliate me,\\\" and the clip ends before Juliana's final offer, leaving her decision unknown.\",\n      \"why\": \"Emotional humiliation and a stark choice that hooks viewers into wondering whether she will accept servitude.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 8, \"cliffhanger\": 9, \"standalone\": 7}\n    },\n    {\n      \"start\": \"01:38.80\",\n      \"end\": \"02:07.20\",\n      \"hook_time\": \"01:38.80\",\n      \"hook\": \"Juliana declares coldly, \\\"As a scullery maid.\\\"\",\n      \"hook_type\": \"humiliation\",\n      \"cliffhanger\": \"The clip stops on Juliana's calm offer, \\\"I offer you bread and honest labor...\\\" before Catherine accepts, leaving the outcome unresolved.\",\n      \"why\": \"A shocking demotion that instantly raises stakes and ends on a tantalizing decision point.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 8, \"cliffhanger\": 8, \"standalone\": 7}\n    }\n  ],\n  \"moments\": [\n    {\"start\": \"00:56.80\", \"end\": \"00:59.80\", \"kind\": \"hook\", \"desc\": \"Lady Ashbourne confronts Catherine with a contemptuous accusation.\"},\n    {\"start\": \"01:21.80\", \"end\": \"01:23.40\", \"kind\": \"setup\", \"desc\": \"Juliana raises her hand and commands \\\"Stop.\\\" halting the guard.\"},\n    {\"start\": \"01:31.00\", \"end\": \"01:35.00\", \"kind\": \"cliffhanger\", \"desc\": \"Juliana picks up a servant's apron and iron keys, offering shelter conditional on servitude.\"},\n    {\"start\": \"01:38.80\", \"end\": \"01:41.00\", \"kind\": \"hook\", \"desc\": \"Juliana delivers the humiliating line \\\"As a scullery maid.\\\"\"}\n  ]\n}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "01:27.00",
+      "end": "01:55.80",
+      "hook_time": "01:30.20",
+      "hook": "The Dowager Duchess gasps sharply, eyes widening in shock as she sees Juliana's distinctive signet ring.",
+      "hook_type": "reveal",
+      "cliffhanger": "The Duchess demands, \"Where... where... Where did you get this ring? Speak to me!\" leaving the mystery of Juliana's identity unresolved.",
+      "why": "A sudden gasp and a mysterious heirloom instantly intrigue viewers and promise a high\u2011stakes secret.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "00:10.50",
+      "end": "00:35.80",
+      "hook_time": "00:14.20",
+      "hook": "The frail Dowager Duchess whispers, \"Who are you? Speak to me. I have not seen your face before.\"",
+      "hook_type": "reveal",
+      "cliffhanger": "She then says, \"You... you are no common servant. You took Catherine's whip for me the other day,\" hinting at a hidden past that is left unanswered.",
+      "why": "A desperate plea from a dying noble followed by a cryptic accusation hooks viewers into wanting to know Juliana's true role.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 8,
+        "standalone": 7
+      }
+    },
+    {
+      "start": "00:28.50",
+      "end": "01:02.00",
+      "hook_time": "00:30.80",
+      "hook": "The Duchess, trembling, says, \"You... you are no common servant. You took Catherine's whip for me the other day.\"",
+      "hook_type": "reveal",
+      "cliffhanger": "She then accuses, \"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?\" cutting just before Juliana confirms the danger.",
+      "why": "A shocking accusation about betrayal and poison creates immediate tension and a need for answers.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:14.20",
+      "end": "00:20.20",
+      "kind": "hook",
+      "desc": "Duchess weakly asks \"Who are you? Speak to me.\""
+    },
+    {
+      "start": "00:20.50",
+      "end": "00:28.50",
+      "kind": "setup",
+      "desc": "Juliana carefully administers the antidote drops to the Duchess."
+    },
+    {
+      "start": "01:30.20",
+      "end": "01:35.00",
+      "kind": "cliffhanger",
+      "desc": "Duchess gasps, eyes widen at the signet ring on Juliana's hand, leaving the mystery hanging."
+    },
+    {
+      "start": "01:19.60",
+      "end": "01:25.80",
+      "kind": "hook",
+      "desc": "Duchess questions why a noble spirit works as a common maid; Juliana replies about being cast out."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"01:27.00\",\n      \"end\": \"01:55.80\",\n      \"hook_time\": \"01:30.20\",\n      \"hook\": \"The Dowager Duchess gasps sharply, eyes widening in shock as she sees Juliana's distinctive signet ring.\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"The Duchess demands, \\\"Where... where... Where did you get this ring? Speak to me!\\\" leaving the mystery of Juliana's identity unresolved.\",\n      \"why\": \"A sudden gasp and a mysterious heirloom instantly intrigue viewers and promise a high\u2011stakes secret.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 9, \"cliffhanger\": 9, \"standalone\": 8}\n    },\n    {\n      \"start\": \"00:10.50\",\n      \"end\": \"00:35.80\",\n      \"hook_time\": \"00:14.20\",\n      \"hook\": \"The frail Dowager Duchess whispers, \\\"Who are you? Speak to me. I have not seen your face before.\\\"\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"She then says, \\\"You... you are no common servant. You took Catherine's whip for me the other day,\\\" hinting at a hidden past that is left unanswered.\",\n      \"why\": \"A desperate plea from a dying noble followed by a cryptic accusation hooks viewers into wanting to know Juliana's true role.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 8, \"cliffhanger\": 8, \"standalone\": 7}\n    },\n    {\n      \"start\": \"00:28.50\",\n      \"end\": \"01:02.00\",\n      \"hook_time\": \"00:30.80\",\n      \"hook\": \"The Duchess, trembling, says, \\\"You... you are no common servant. You took Catherine's whip for me the other day.\\\"\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"She then accuses, \\\"Rupert and Catherine want me dead. They are poisoning me in my own bed, aren't they?\\\" cutting just before Juliana confirms the danger.\",\n      \"why\": \"A shocking accusation about betrayal and poison creates immediate tension and a need for answers.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 8, \"cliffhanger\": 9, \"standalone\": 8}\n    }\n  ],\n  \"moments\": [\n    {\"start\": \"00:14.20\", \"end\": \"00:20.20\", \"kind\": \"hook\", \"desc\": \"Duchess weakly asks \\\"Who are you? Speak to me.\\\"\"},\n    {\"start\": \"00:20.50\", \"end\": \"00:28.50\", \"kind\": \"setup\", \"desc\": \"Juliana carefully administers the antidote drops to the Duchess.\"},\n    {\"start\": \"01:30.20\", \"end\": \"01:35.00\", \"kind\": \"cliffhanger\", \"desc\": \"Duchess gasps, eyes widen at the signet ring on Juliana's hand, leaving the mystery hanging.\"},\n    {\"start\": \"01:19.60\", \"end\": \"01:25.80\", \"kind\": \"hook\", \"desc\": \"Duchess questions why a noble spirit works as a common maid; Juliana replies about being cast out.\"}\n  ]\n}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:44.50",
+      "end": "01:04.80",
+      "hook_time": "00:46.40",
+      "hook": "Loud, violent pounding on the wooden double doors bursts in.",
+      "hook_type": "violence",
+      "cliffhanger": "Lady Catherine demands \u201cShow me your hand,\u201d but we never see what Juliana will reveal.",
+      "why": "Combines a sudden, shocking intrusion with a tense accusation, ending on a question that forces viewers to watch the next episode.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 8,
+        "standalone": 7
+      }
+    },
+    {
+      "start": "00:13.20",
+      "end": "00:34.80",
+      "hook_time": "00:17.20",
+      "hook": "The Dowager Duchess gasps, \u201cThat is no ordinary band. It bears the Ashbourne crest.\u201d",
+      "hook_type": "reveal",
+      "cliffhanger": "Juliana\u2019s eyes widen in stunned revelation, cutting before she can answer the implication about her husband.",
+      "why": "A high\u2011stakes family secret is exposed, leaving the audience hanging on Juliana\u2019s next words.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 7,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "00:58.60",
+      "end": "01:20.50",
+      "hook_time": "01:06.60",
+      "hook": "Blond Nobleman coldly commands, \u201cGirl. Show me what you are holding.\u201d",
+      "hook_type": "threat",
+      "cliffhanger": "Lady Catherine\u2019s accusation, \u201cWho permitted you to give medicine to the Duchess?\u201d hangs unresolved.",
+      "why": "Shows the power struggle and accusation, ending on a question that begs resolution.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 8,
+        "standalone": 7
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:46.40",
+      "end": "00:48.30",
+      "kind": "hook",
+      "desc": "Loud pounding on the double doors signals a sudden intrusion."
+    },
+    {
+      "start": "00:17.20",
+      "end": "00:21.20",
+      "kind": "hook",
+      "desc": "Duchess reveals the ring bears the Ashbourne crest, a family secret."
+    },
+    {
+      "start": "02:04.80",
+      "end": "02:08.40",
+      "kind": "cliffhanger",
+      "desc": "Lady Catherine accuses Juliana of poisoning the Duchess, shouting the lie."
+    },
+    {
+      "start": "02:24.00",
+      "end": "02:27.50",
+      "kind": "cliffhanger",
+      "desc": "Guard seizes Juliana, dragging her away as she looks terrified."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:44.50\",\n      \"end\": \"01:04.80\",\n      \"hook_time\": \"00:46.40\",\n      \"hook\": \"Loud, violent pounding on the wooden double doors bursts in.\",\n      \"hook_type\": \"violence\",\n      \"cliffhanger\": \"Lady Catherine demands \u201cShow me your hand,\u201d but we never see what Juliana will reveal.\",\n      \"why\": \"Combines a sudden, shocking intrusion with a tense accusation, ending on a question that forces viewers to watch the next episode.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\":9,\"cliffhanger\":8,\"standalone\":7}\n    },\n    {\n      \"start\": \"00:13.20\",\n      \"end\": \"00:34.80\",\n      \"hook_time\": \"00:17.20\",\n      \"hook\": \"The Dowager Duchess gasps, \u201cThat is no ordinary band. It bears the Ashbourne crest.\u201d\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"Juliana\u2019s eyes widen in stunned revelation, cutting before she can answer the implication about her husband.\",\n      \"why\": \"A high\u2011stakes family secret is exposed, leaving the audience hanging on Juliana\u2019s next words.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\":8,\"cliffhanger\":7,\"standalone\":8}\n    },\n    {\n      \"start\": \"00:58.60\",\n      \"end\": \"01:20.50\",\n      \"hook_time\": \"01:06.60\",\n      \"hook\": \"Blond Nobleman coldly commands, \u201cGirl. Show me what you are holding.\u201d\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"Lady Catherine\u2019s accusation, \u201cWho permitted you to give medicine to the Duchess?\u201d hangs unresolved.\",\n      \"why\": \"Shows the power struggle and accusation, ending on a question that begs resolution.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\":8,\"cliffhanger\":8,\"standalone\":7}\n    }\n  ],\n  \"moments\": [\n    {\"start\":\"00:46.40\",\"end\":\"00:48.30\",\"kind\":\"hook\",\"desc\":\"Loud pounding on the double doors signals a sudden intrusion.\"},\n    {\"start\":\"00:17.20\",\"end\":\"00:21.20\",\"kind\":\"hook\",\"desc\":\"Duchess reveals the ring bears the Ashbourne crest, a family secret.\"},\n    {\"start\":\"02:04.80\",\"end\":\"02:08.40\",\"kind\":\"cliffhanger\",\"desc\":\"Lady Catherine accuses Juliana of poisoning the Duchess, shouting the lie.\"},\n    {\"start\":\"02:24.00\",\"end\":\"02:27.50\",\"kind\":\"cliffhanger\",\"desc\":\"Guard seizes Juliana, dragging her away as she looks terrified.\"}\n  ]\n}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

@@ -1,0 +1,176 @@
+{
+  "promos": [
+    {
+      "title": "The Altar Betrayal",
+      "segments": [
+        {
+          "episode": 1,
+          "start": "00:39.00",
+          "end": "00:43.90"
+        },
+        {
+          "episode": 2,
+          "start": "00:00.00",
+          "end": "00:12.00"
+        },
+        {
+          "episode": 2,
+          "start": "00:30.60",
+          "end": "00:44.80"
+        }
+      ],
+      "hook": "Clarissa gloats 'Because he is marrying me' as Juliana gasps in devastation.",
+      "hook_type": "Public Humiliation",
+      "cliffhanger": "Juliana begs her father to defend her, but he coldly commands her to accept the humiliation.",
+      "why": "Establishes the core premise: a bride is publicly discarded for her sister and abandoned by her own family.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 8,
+        "standalone": 9
+      }
+    },
+    {
+      "title": "The Warrior's Rescue",
+      "segments": [
+        {
+          "episode": 3,
+          "start": "00:58.20",
+          "end": "01:06.00"
+        },
+        {
+          "episode": 3,
+          "start": "01:08.10",
+          "end": "01:25.50"
+        },
+        {
+          "episode": 3,
+          "start": "01:56.00",
+          "end": "02:20.50"
+        }
+      ],
+      "hook": "Matriarch orders guards to drag Juliana away as she screams for help.",
+      "hook_type": "Threat/Rescue",
+      "cliffhanger": "Stranger pulls out a silver ring and kneels before Juliana, proposing marriage.",
+      "why": "Shows the transition from victim to rescued heroine with a shocking, immediate marriage proposal.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "title": "Disowned and Defiant",
+      "segments": [
+        {
+          "episode": 5,
+          "start": "00:06.80",
+          "end": "00:28.90"
+        },
+        {
+          "episode": 5,
+          "start": "01:31.00",
+          "end": "01:41.50"
+        }
+      ],
+      "hook": "Lord Ashcroft formally disowns Juliana, revoking her dowry, inheritance, and family name.",
+      "hook_type": "Betrayal",
+      "cliffhanger": "Gerald mocks Juliana as a beggar's wife, prompting her rugged new husband to issue a lethal threat.",
+      "why": "Highlights the total loss of status and the introduction of the protective, dangerous husband.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 8,
+        "standalone": 8
+      }
+    },
+    {
+      "title": "The Thorny Sacrifice",
+      "segments": [
+        {
+          "episode": 12,
+          "start": "01:03.20",
+          "end": "01:09.50"
+        },
+        {
+          "episode": 13,
+          "start": "00:45.80",
+          "end": "00:52.00"
+        },
+        {
+          "episode": 13,
+          "start": "01:43.00",
+          "end": "01:49.00"
+        }
+      ],
+      "hook": "Clarissa whispers into Juliana's ear that if she fails or refuses, Alexander will hang on the gallows.",
+      "hook_type": "Ultimatum",
+      "cliffhanger": "Juliana's bloody finger touches the half-buried emerald signet ring beneath the thorny branches.",
+      "why": "Demonstrates the extreme lengths the heroine will go to save her husband, ending on a crucial discovery.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "title": "The Duke's Return",
+      "segments": [
+        {
+          "episode": 19,
+          "start": "00:43.00",
+          "end": "00:49.20"
+        },
+        {
+          "episode": 19,
+          "start": "01:21.20",
+          "end": "01:29.50"
+        }
+      ],
+      "hook": "A mysterious agent bows in the fog, addressing Alexander as 'Your Grace' before Alexander reacts.",
+      "hook_type": "Reveal",
+      "cliffhanger": "Alexander delivers a cold promise of vengeance: 'Then Ashburg will remember who it belongs to.'",
+      "why": "Reveals the hidden identity of the 'broken soldier' and sets up the revenge arc against the villains.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 8,
+        "standalone": 7
+      }
+    },
+    {
+      "title": "Poisoned and Framed",
+      "segments": [
+        {
+          "episode": 23,
+          "start": "01:18.50",
+          "end": "01:28.00"
+        },
+        {
+          "episode": 27,
+          "start": "02:04.80",
+          "end": "02:08.40"
+        },
+        {
+          "episode": 27,
+          "start": "02:24.00",
+          "end": "02:27.50"
+        }
+      ],
+      "hook": "Lady Juliana reveals with icy conviction that the Duchess is being poisoned with arsenic.",
+      "hook_type": "Mystery/Reveal",
+      "cliffhanger": "Guard seizes Juliana, dragging her away as she looks terrified.",
+      "why": "Introduces the high-stakes conspiracy at the manor and the immediate danger to the heroine.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 8,
+        "standalone": 7
+      }
+    }
+  ],
+  "_raw": "{\n  \"promos\": [\n    {\n      \"title\": \"The Altar Betrayal\",\n      \"segments\": [\n        {\"episode\": 1, \"start\": \"00:39.00\", \"end\": \"00:43.90\"},\n        {\"episode\": 2, \"start\": \"00:00.00\", \"end\": \"00:12.00\"},\n        {\"episode\": 2, \"start\": \"00:30.60\", \"end\": \"00:44.80\"}\n      ],\n      \"hook\": \"Clarissa gloats 'Because he is marrying me' as Juliana gasps in devastation.\",\n      \"hook_type\": \"Public Humiliation\",\n      \"cliffhanger\": \"Juliana begs her father to defend her, but he coldly commands her to accept the humiliation.\",\n      \"why\": \"Establishes the core premise: a bride is publicly discarded for her sister and abandoned by her own family.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 9, \"cliffhanger\": 8, \"standalone\": 9}\n    },\n    {\n      \"title\": \"The Warrior's Rescue\",\n      \"segments\": [\n        {\"episode\": 3, \"start\": \"00:58.20\", \"end\": \"01:06.00\"},\n        {\"episode\": 3, \"start\": \"01:08.10\", \"end\": \"01:25.50\"},\n        {\"episode\": 3, \"start\": \"01:56.00\", \"end\": \"02:20.50\"}\n      ],\n      \"hook\": \"Matriarch orders guards to drag Juliana away as she screams for help.\",\n      \"hook_type\": \"Threat/Rescue\",\n      \"cliffhanger\": \"Stranger pulls out a silver ring and kneels before Juliana, proposing marriage.\",\n      \"why\": \"Shows the transition from victim to rescued heroine with a shocking, immediate marriage proposal.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 8, \"cliffhanger\": 9, \"standalone\": 8}\n    },\n    {\n      \"title\": \"Disowned and Defiant\",\n      \"segments\": [\n        {\"episode\": 5, \"start\": \"00:06.80\", \"end\": \"00:28.90\"},\n        {\"episode\": 5, \"start\": \"01:31.00\", \"end\": \"01:41.50\"}\n      ],\n      \"hook\": \"Lord Ashcroft formally disowns Juliana, revoking her dowry, inheritance, and family name.\",\n      \"hook_type\": \"Betrayal\",\n      \"cliffhanger\": \"Gerald mocks Juliana as a beggar's wife, prompting her rugged new husband to issue a lethal threat.\",\n      \"why\": \"Highlights the total loss of status and the introduction of the protective, dangerous husband.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 8, \"cliffhanger\": 8, \"standalone\": 8}\n    },\n    {\n      \"title\": \"The Thorny Sacrifice\",\n      \"segments\": [\n        {\"episode\": 12, \"start\": \"01:03.20\", \"end\": \"01:09.50\"},\n        {\"episode\": 13, \"start\": \"00:45.80\", \"end\": \"00:52.00\"},\n        {\"episode\": 13, \"start\": \"01:43.00\", \"end\": \"01:49.00\"}\n      ],\n      \"hook\": \"Clarissa whispers into Juliana's ear that if she fails or refuses, Alexander will hang on the gallows.\",\n      \"hook_type\": \"Ultimatum\",\n      \"cliffhanger\": \"Juliana's bloody finger touches the half-buried emerald signet ring beneath the thorny branches.\",\n      \"why\": \"Demonstrates the extreme lengths the heroine will go to save her husband, ending on a crucial discovery.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 9, \"cliffhanger\": 9, \"standalone\": 8}\n    },\n    {\n      \"title\": \"The Duke's Return\",\n      \"segments\": [\n        {\"episode\": 19, \"start\": \"00:43.00\", \"end\": \"00:49.20\"},\n        {\"episode\": 19, \"start\": \"01:21.20\", \"end\": \"01:29.50\"}\n      ],\n      \"hook\": \"A mysterious agent bows in the fog, addressing Alexander as 'Your Grace' before Alexander reacts.\",\n      \"hook_type\": \"Reveal\",\n      \"cliffhanger\": \"Alexander delivers a cold promise of vengeance: 'Then Ashburg will remember who it belongs to.'\",\n      \"why\": \"Reveals the hidden identity of the 'broken soldier' and sets up the revenge arc against the villains.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 9, \"cliffhanger\": 8, \"standalone\": 7}\n    },\n    {\n      \"title\": \"Poisoned and Framed\",\n      \"segments\": [\n        {\"episode\": 23, \"start\": \"01:18.50\", \"end\": \"01:28.00\"},\n        {\"episode\": 27, \"start\": \"02:04.80\", \"end\": \"02:08.40\"},\n        {\"episode\": 27, \"start\": \"02:24.00\", \"end\": \"02:27.50\"}\n      ],\n      \"hook\": \"Lady Juliana reveals with icy conviction that the Duchess is being poisoned with arsenic.\",\n      \"hook_type\": \"Mystery/Reveal\",\n      \"cliffhanger\": \"Guard seizes Juliana, dragging her away as she looks terrified.\",\n      \"why\": \"Introduces the high-stakes conspiracy at the manor and the immediate danger to the heroine.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 8, \"cliffhanger\": 8, \"standalone\": 7}\n    }\n  ]\n}",
+  "_model": "groq:qwen/qwen3.8-27b"
+}

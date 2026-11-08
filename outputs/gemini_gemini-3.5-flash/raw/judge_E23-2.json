@@ -1,0 +1,10 @@
+{
+  "what_happens": "Lady Juliana discovers a mysterious note in her mother\u2019s journal that suggests the Duchess\u2019s illness isn\u2019t just old age.",
+  "confusing": "The rapid jump between shots and the lack of context for who the characters are can be disorienting.",
+  "first_3s_stop": 7,
+  "need_to_know_next": 8,
+  "understandable": 6,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"Lady Juliana discovers a mysterious note in her mother\u2019s journal that suggests the Duchess\u2019s illness isn\u2019t just old age.\",\"confusing\":\"The rapid jump between shots and the lack of context for who the characters are can be disorienting.\",\"first_3s_stop\":7,\"need_to_know_next\":8,\"understandable\":6,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

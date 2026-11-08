@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "01:10.50",
+      "end": "01:35.00",
+      "hook_time": "01:10.50",
+      "hook": "Catherine ruthlessly yanks a silver locket off Juliana's neck, screaming 'No!' as it is torn away.",
+      "hook_type": "violence",
+      "cliffhanger": "Catherine opens the fallen herbarium and reads the inscription 'Juliana Ashcroft', revealing her noble identity just before the cut.",
+      "why": "Combines physical violence (torn heirloom) with a major identity reveal, creating high stakes and curiosity about who she really is.",
+      "context_needed": "Viewer doesn't know Juliana is a noblewoman or why the locket/book matter, but the emotional reaction makes the stakes clear.",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 9,
+        "standalone": 7
+      }
+    },
+    {
+      "start": "00:22.80",
+      "end": "00:47.40",
+      "hook_time": "00:26.70",
+      "hook": "The bedridden Duchess suddenly shouts 'Stop this!' and points accusingly at the man dragging the maid.",
+      "hook_type": "shocking line",
+      "cliffhanger": "The Duchess collapses while gasping 'Catherine knew! They have been\u2014', cutting off mid-sentence before revealing the full conspiracy.",
+      "why": "A powerful twist where the victim accuses the 'hero' and the villain, creating immediate confusion and urgency to find out the truth.",
+      "context_needed": "Viewer needs to know the Duchess was poisoned and Juliana is accused of it, which is established quickly in the clip.",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 10,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "01:37.40",
+      "end": "01:53.00",
+      "hook_time": "01:38.20",
+      "hook": "Catherine looks up from the book with a wicked grin and says 'Lady Juliana Ashcroft.'",
+      "hook_type": "reveal",
+      "cliffhanger": "Catherine whispers '...because no respectable man would have her,' leaving Juliana's reaction and the full extent of her humiliation unresolved.",
+      "why": "Focuses on the public humiliation and the villain's vindictive pleasure, appealing to viewers who enjoy 'face-slapping' or revenge setups.",
+      "context_needed": "Viewer needs to understand Juliana is being humiliated for her past, which is conveyed through Catherine's dialogue.",
+      "scores": {
+        "hook": 7,
+        "cliffhanger": 6,
+        "standalone": 7
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:26.70",
+      "end": "00:32.40",
+      "kind": "hook",
+      "desc": "Duchess shouts 'Stop this! She is innocent. She saved me!' while pointing at Rupert."
+    },
+    {
+      "start": "01:10.50",
+      "end": "01:12.00",
+      "kind": "hook",
+      "desc": "Catherine yanks the silver locket off Juliana's neck; Juliana screams 'No!'"
+    },
+    {
+      "start": "01:33.80",
+      "end": "01:35.00",
+      "kind": "reveal",
+      "desc": "Extreme close-up of the herbarium inscription: 'Juliana Ashcroft'."
+    },
+    {
+      "start": "02:14.60",
+      "end": "02:16.70",
+      "kind": "cliffhanger",
+      "desc": "Catherine threatens: '...before he sends you to the gallows.'"
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"01:10.50\",\n      \"end\": \"01:35.00\",\n      \"hook_time\": \"01:10.50\",\n      \"hook\": \"Catherine ruthlessly yanks a silver locket off Juliana's neck, screaming 'No!' as it is torn away.\",\n      \"hook_type\": \"violence\",\n      \"cliffhanger\": \"Catherine opens the fallen herbarium and reads the inscription 'Juliana Ashcroft', revealing her noble identity just before the cut.\",\n      \"why\": \"Combines physical violence (torn heirloom) with a major identity reveal, creating high stakes and curiosity about who she really is.\",\n      \"context_needed\": \"Viewer doesn't know Juliana is a noblewoman or why the locket/book matter, but the emotional reaction makes the stakes clear.\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 9,\n        \"standalone\": 7\n      }\n    },\n    {\n      \"start\": \"00:22.80\",\n      \"end\": \"00:47.40\",\n      \"hook_time\": \"00:26.70\",\n      \"hook\": \"The bedridden Duchess suddenly shouts 'Stop this!' and points accusingly at the man dragging the maid.\",\n      \"hook_type\": \"shocking line\",\n      \"cliffhanger\": \"The Duchess collapses while gasping 'Catherine knew! They have been\u2014', cutting off mid-sentence before revealing the full conspiracy.\",\n      \"why\": \"A powerful twist where the victim accuses the 'hero' and the villain, creating immediate confusion and urgency to find out the truth.\",\n      \"context_needed\": \"Viewer needs to know the Duchess was poisoned and Juliana is accused of it, which is established quickly in the clip.\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 10,\n        \"standalone\": 8\n      }\n    },\n    {\n      \"start\": \"01:37.40\",\n      \"end\": \"01:53.00\",\n      \"hook_time\": \"01:38.20\",\n      \"hook\": \"Catherine looks up from the book with a wicked grin and says 'Lady Juliana Ashcroft.'\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"Catherine whispers '...because no respectable man would have her,' leaving Juliana's reaction and the full extent of her humiliation unresolved.\",\n      \"why\": \"Focuses on the public humiliation and the villain's vindictive pleasure, appealing to viewers who enjoy 'face-slapping' or revenge setups.\",\n      \"context_needed\": \"Viewer needs to understand Juliana is being humiliated for her past, which is conveyed through Catherine's dialogue.\",\n      \"scores\": {\n        \"hook\": 7,\n        \"cliffhanger\": 6,\n        \"standalone\": 7\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:26.70\",\n      \"end\": \"00:32.40\",\n      \"kind\": \"hook\",\n      \"desc\": \"Duchess shouts 'Stop this! She is innocent. She saved me!' while pointing at Rupert.\"\n    },\n    {\n      \"start\": \"01:10.50\",\n      \"end\": \"01:12.00\",\n      \"kind\": \"hook\",\n      \"desc\": \"Catherine yanks the silver locket off Juliana's neck; Juliana screams 'No!'\"\n    },\n    {\n      \"start\": \"01:33.80\",\n      \"end\": \"01:35.00\",\n      \"kind\": \"reveal\",\n      \"desc\": \"Extreme close-up of the herbarium inscription: 'Juliana Ashcroft'.\"\n    },\n    {\n      \"start\": \"02:14.60\",\n      \"end\": \"02:16.70\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Catherine threatens: '...before he sends you to the gallows.'\"\n    }\n  ]\n}",
+  "_model": "groq:qwen/qwen3.8-27b"
+}

@@ -1,0 +1,10 @@
+{
+  "what_happens": "Lady Juliana is shunned by her family and a rival sister at a cathedral wedding, ending with a matriarch ordering her to leave.",
+  "confusing": "nothing",
+  "first_3s_stop": 4,
+  "need_to_know_next": 6,
+  "understandable": 5,
+  "verdict": "skip",
+  "_raw": "{\"what_happens\":\"Lady Juliana is shunned by her family and a rival sister at a cathedral wedding, ending with a matriarch ordering her to leave.\",\"confusing\":\"nothing\",\"first_3s_stop\":4,\"need_to_know_next\":6,\"understandable\":5,\"verdict\":\"skip\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

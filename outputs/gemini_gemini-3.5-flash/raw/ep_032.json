@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:18.80",
+      "end": "02:34.38",
+      "hook_time": "00:20.20",
+      "hook": "Juliana, chained and weeping, suddenly stops crying and looks up with cold conviction, saying 'Burn it.'",
+      "hook_type": "shocking line",
+      "cliffhanger": "Catherine plunges a red-hot branding iron toward Juliana's face, stopping mere millimeters from her eye.",
+      "why": "The shift from victim to unbreakable warrior is a powerful character arc, and the physical threat of the branding iron provides a visceral, high-stakes cliffhanger.",
+      "context_needed": "Viewers need to know Juliana is chained in a dungeon and Catherine is her antagonist, which is visually established by the chains and the dungeon setting.",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 10,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "01:11.20",
+      "end": "02:34.38",
+      "hook_time": "01:11.30",
+      "hook": "Catherine shrieks 'You were rejected!' in a fit of rage, attacking Juliana's self-worth.",
+      "hook_type": "humiliation",
+      "cliffhanger": "Catherine plunges a red-hot branding iron toward Juliana's face, stopping mere millimeters from her eye.",
+      "why": "The verbal attack on Juliana's past rejection serves as a strong emotional hook, leading into her defiant response and the subsequent physical threat.",
+      "context_needed": "Viewers need to understand that Juliana was previously rejected by a man (Gerald) and is now in a dangerous situation with Catherine.",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 10,
+        "standalone": 7
+      }
+    },
+    {
+      "start": "00:00.00",
+      "end": "00:20.50",
+      "hook_time": "00:00.00",
+      "hook": "A red-hot branding iron sizzles against a delicate parchment book, with Catherine mocking Juliana's grief.",
+      "hook_type": "violence",
+      "cliffhanger": "Juliana's despair solidifies into resolve as she looks up at Catherine with cold conviction.",
+      "why": "The visual of the burning book and Catherine's sadistic mockery creates immediate tension and establishes the power dynamic, ending on Juliana's shift to defiance.",
+      "context_needed": "Viewers need to know the book is significant to Juliana (her mother's) and that she is being tortured by Catherine.",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 7,
+        "standalone": 6
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:00.00",
+      "end": "00:03.00",
+      "kind": "hook",
+      "desc": "Close-up of a red-hot branding iron sizzling against a delicate parchment book."
+    },
+    {
+      "start": "00:20.20",
+      "end": "00:22.00",
+      "kind": "hook",
+      "desc": "Juliana, chained and weeping, looks up with cold conviction and says 'Burn it.'"
+    },
+    {
+      "start": "01:11.30",
+      "end": "01:13.20",
+      "kind": "hook",
+      "desc": "Catherine shrieks 'You were rejected!' in a fit of rage."
+    },
+    {
+      "start": "02:30.80",
+      "end": "02:34.38",
+      "kind": "cliffhanger",
+      "desc": "Catherine plunges a red-hot branding iron toward Juliana's face, stopping mere millimeters from her eye."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:18.80\",\n      \"end\": \"02:34.38\",\n      \"hook_time\": \"00:20.20\",\n      \"hook\": \"Juliana, chained and weeping, suddenly stops crying and looks up with cold conviction, saying 'Burn it.'\",\n      \"hook_type\": \"shocking line\",\n      \"cliffhanger\": \"Catherine plunges a red-hot branding iron toward Juliana's face, stopping mere millimeters from her eye.\",\n      \"why\": \"The shift from victim to unbreakable warrior is a powerful character arc, and the physical threat of the branding iron provides a visceral, high-stakes cliffhanger.\",\n      \"context_needed\": \"Viewers need to know Juliana is chained in a dungeon and Catherine is her antagonist, which is visually established by the chains and the dungeon setting.\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 10,\n        \"standalone\": 8\n      }\n    },\n    {\n      \"start\": \"01:11.20\",\n      \"end\": \"02:34.38\",\n      \"hook_time\": \"01:11.30\",\n      \"hook\": \"Catherine shrieks 'You were rejected!' in a fit of rage, attacking Juliana's self-worth.\",\n      \"hook_type\": \"humiliation\",\n      \"cliffhanger\": \"Catherine plunges a red-hot branding iron toward Juliana's face, stopping mere millimeters from her eye.\",\n      \"why\": \"The verbal attack on Juliana's past rejection serves as a strong emotional hook, leading into her defiant response and the subsequent physical threat.\",\n      \"context_needed\": \"Viewers need to understand that Juliana was previously rejected by a man (Gerald) and is now in a dangerous situation with Catherine.\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 10,\n        \"standalone\": 7\n      }\n    },\n    {\n      \"start\": \"00:00.00\",\n      \"end\": \"00:20.50\",\n      \"hook_time\": \"00:00.00\",\n      \"hook\": \"A red-hot branding iron sizzles against a delicate parchment book, with Catherine mocking Juliana's grief.\",\n      \"hook_type\": \"violence\",\n      \"cliffhanger\": \"Juliana's despair solidifies into resolve as she looks up at Catherine with cold conviction.\",\n      \"why\": \"The visual of the burning book and Catherine's sadistic mockery creates immediate tension and establishes the power dynamic, ending on Juliana's shift to defiance.\",\n      \"context_needed\": \"Viewers need to know the book is significant to Juliana (her mother's) and that she is being tortured by Catherine.\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 7,\n        \"standalone\": 6\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:00.00\",\n      \"end\": \"00:03.00\",\n      \"kind\": \"hook\",\n      \"desc\": \"Close-up of a red-hot branding iron sizzling against a delicate parchment book.\"\n    },\n    {\n      \"start\": \"00:20.20\",\n      \"end\": \"00:22.00\",\n      \"kind\": \"hook\",\n      \"desc\": \"Juliana, chained and weeping, looks up with cold conviction and says 'Burn it.'\"\n    },\n    {\n      \"start\": \"01:11.30\",\n      \"end\": \"01:13.20\",\n      \"kind\": \"hook\",\n      \"desc\": \"Catherine shrieks 'You were rejected!' in a fit of rage.\"\n    },\n    {\n      \"start\": \"02:30.80\",\n      \"end\": \"02:34.38\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Catherine plunges a red-hot branding iron toward Juliana's face, stopping mere millimeters from her eye.\"\n    }\n  ]\n}",
+  "_model": "groq:qwen/qwen3.8-27b"
+}

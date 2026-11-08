@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "01:31.60",
+      "end": "01:53.00",
+      "hook_time": "01:31.60",
+      "hook": "Father Thomas asks, \u201cYou want eyes inside the council chamber itself?\u201d",
+      "hook_type": "reveal",
+      "cliffhanger": "Father warns what will happen to him if the Duke discovers their conspiracy, leaving his fate uncertain.",
+      "why": "High\u2011stakes question and threat hook viewers instantly, then ends on a tense warning before any answer.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "00:33.50",
+      "end": "01:07.20",
+      "hook_time": "00:33.50",
+      "hook": "Father Thomas declares, \u201cA priest and a disgraced bride meeting before dawn in her bedchamber\u2026.\u201d",
+      "hook_type": "reveal",
+      "cliffhanger": "Catherine demands the council stay open for ten days, leaving Father\u2019s reaction unknown.",
+      "why": "A shocking line sets a scandalous tone, then cuts on a bold demand that begs a response.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 7,
+        "standalone": 6
+      }
+    },
+    {
+      "start": "01:44.20",
+      "end": "02:04.80",
+      "hook_time": "01:44.20",
+      "hook": "Father Thomas questions, \u201cIf I keep the hearing open\u2026 what happens to me when the Duke finds out a crowned priest conspired against him?\u201d",
+      "hook_type": "threat",
+      "cliffhanger": "Catherine promises to keep him safe, but the pact\u2019s consequences remain unseen.",
+      "why": "A direct threat to a powerful Duke creates immediate tension; ends on a seductive promise that leaves the outcome hanging.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 8,
+        "standalone": 7
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:33.50",
+      "end": "00:41.50",
+      "kind": "hook",
+      "desc": "Father Thomas reveals the scandalous meeting of a priest and disgraced bride."
+    },
+    {
+      "start": "01:12.60",
+      "end": "01:16.80",
+      "kind": "setup",
+      "desc": "Father Thomas asks Catherine to state her request plainly."
+    },
+    {
+      "start": "01:44.20",
+      "end": "01:52.80",
+      "kind": "cliffhanger",
+      "desc": "Father warns of the Duke\u2019s possible discovery of their treason."
+    },
+    {
+      "start": "02:15.00",
+      "end": "02:19.50",
+      "kind": "hook",
+      "desc": "Father Thomas extends his hand, sealing a secret pact with Catherine."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"01:31.60\",\n      \"end\": \"01:53.00\",\n      \"hook_time\": \"01:31.60\",\n      \"hook\": \"Father Thomas asks, \u201cYou want eyes inside the council chamber itself?\u201d\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"Father warns what will happen to him if the Duke discovers their conspiracy, leaving his fate uncertain.\",\n      \"why\": \"High\u2011stakes question and threat hook viewers instantly, then ends on a tense warning before any answer.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\":9,\"cliffhanger\":9,\"standalone\":8}\n    },\n    {\n      \"start\": \"00:33.50\",\n      \"end\": \"01:07.20\",\n      \"hook_time\": \"00:33.50\",\n      \"hook\": \"Father Thomas declares, \u201cA priest and a disgraced bride meeting before dawn in her bedchamber\u2026.\u201d\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"Catherine demands the council stay open for ten days, leaving Father\u2019s reaction unknown.\",\n      \"why\": \"A shocking line sets a scandalous tone, then cuts on a bold demand that begs a response.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\":8,\"cliffhanger\":7,\"standalone\":6}\n    },\n    {\n      \"start\": \"01:44.20\",\n      \"end\": \"02:04.80\",\n      \"hook_time\": \"01:44.20\",\n      \"hook\": \"Father Thomas questions, \u201cIf I keep the hearing open\u2026 what happens to me when the Duke finds out a crowned priest conspired against him?\u201d\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"Catherine promises to keep him safe, but the pact\u2019s consequences remain unseen.\",\n      \"why\": \"A direct threat to a powerful Duke creates immediate tension; ends on a seductive promise that leaves the outcome hanging.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\":8,\"cliffhanger\":8,\"standalone\":7}\n    }\n  ],\n  \"moments\": [\n    {\"start\":\"00:33.50\",\"end\":\"00:41.50\",\"kind\":\"hook\",\"desc\":\"Father Thomas reveals the scandalous meeting of a priest and disgraced bride.\"},\n    {\"start\":\"01:12.60\",\"end\":\"01:16.80\",\"kind\":\"setup\",\"desc\":\"Father Thomas asks Catherine to state her request plainly.\"},\n    {\"start\":\"01:44.20\",\"end\":\"01:52.80\",\"kind\":\"cliffhanger\",\"desc\":\"Father warns of the Duke\u2019s possible discovery of their treason.\"},\n    {\"start\":\"02:15.00\",\"end\":\"02:19.50\",\"kind\":\"hook\",\"desc\":\"Father Thomas extends his hand, sealing a secret pact with Catherine.\"}\n  ]\n}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:10.50",
+      "end": "00:33.80",
+      "hook_time": "00:12.80",
+      "hook": "Alexander says, \"You already know.\"",
+      "hook_type": "reveal",
+      "cliffhanger": "Ends on the nobleman's desperate denial, \"You cannot be him. Alexander died!\" leaving his true identity in doubt.",
+      "why": "A shocking identity reveal followed by a frantic denial creates instant tension and forces viewers to watch for the answer.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 7,
+        "standalone": 7
+      }
+    },
+    {
+      "start": "00:18.00",
+      "end": "01:04.00",
+      "hook_time": "00:22.00",
+      "hook": "Royal Guard defiantly declares, \"We will not.\"",
+      "hook_type": "threat",
+      "cliffhanger": "Cuts right after Alexander whispers, \"I have come home, Mother,\" before she proclaims his dukedom.",
+      "why": "The guard\u2019s defiance signals a power shift, and the emotional mother\u2011son moment teases a dramatic proclamation that viewers must see.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 7,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "00:44.80",
+      "end": "01:17.80",
+      "hook_time": "01:13.80",
+      "hook": "Alexander threatens, \"And now, Rupert... we settle what you stole.\"",
+      "hook_type": "threat",
+      "cliffhanger": "Ends on the ominous threat, before any fight or resolution is shown.",
+      "why": "A direct, vengeful threat to the antagonist promises an explosive showdown, compelling viewers to click for the payoff.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 8,
+        "standalone": 7
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:12.80",
+      "end": "00:14.60",
+      "kind": "hook",
+      "desc": "Alexander\u2019s cold reveal, \"You already know,\" after the nobleman's shocked question."
+    },
+    {
+      "start": "00:22.00",
+      "end": "00:23.40",
+      "kind": "setup",
+      "desc": "Royal Guard stands firm, saying, \"We will not,\" refusing to arrest Alexander."
+    },
+    {
+      "start": "01:04.20",
+      "end": "01:12.40",
+      "kind": "cliffhanger",
+      "desc": "Mother declares Alexander the rightful Duke, ending just before the full proclamation."
+    },
+    {
+      "start": "01:13.80",
+      "end": "01:17.50",
+      "kind": "cliffhanger",
+      "desc": "Alexander\u2019s final threat to Rupert, \"And now, Rupert... we settle what you stole,\" cut before the confrontation."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:10.50\",\n      \"end\": \"00:33.80\",\n      \"hook_time\": \"00:12.80\",\n      \"hook\": \"Alexander says, \\\"You already know.\\\"\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"Ends on the nobleman's desperate denial, \\\"You cannot be him. Alexander died!\\\" leaving his true identity in doubt.\",\n      \"why\": \"A shocking identity reveal followed by a frantic denial creates instant tension and forces viewers to watch for the answer.\",\n      \"context_needed\": \"none\",\n      \"scores\": { \"hook\": 8, \"cliffhanger\": 7, \"standalone\": 7 }\n    },\n    {\n      \"start\": \"00:18.00\",\n      \"end\": \"01:04.00\",\n      \"hook_time\": \"00:22.00\",\n      \"hook\": \"Royal Guard defiantly declares, \\\"We will not.\\\"\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"Cuts right after Alexander whispers, \\\"I have come home, Mother,\\\" before she proclaims his dukedom.\",\n      \"why\": \"The guard\u2019s defiance signals a power shift, and the emotional mother\u2011son moment teases a dramatic proclamation that viewers must see.\",\n      \"context_needed\": \"none\",\n      \"scores\": { \"hook\": 7, \"cliffhanger\": 9, \"standalone\": 8 }\n    },\n    {\n      \"start\": \"00:44.80\",\n      \"end\": \"01:17.80\",\n      \"hook_time\": \"01:13.80\",\n      \"hook\": \"Alexander threatens, \\\"And now, Rupert... we settle what you stole.\\\"\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"Ends on the ominous threat, before any fight or resolution is shown.\",\n      \"why\": \"A direct, vengeful threat to the antagonist promises an explosive showdown, compelling viewers to click for the payoff.\",\n      \"context_needed\": \"none\",\n      \"scores\": { \"hook\": 8, \"cliffhanger\": 8, \"standalone\": 7 }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:12.80\",\n      \"end\": \"00:14.60\",\n      \"kind\": \"hook\",\n      \"desc\": \"Alexander\u2019s cold reveal, \\\"You already know,\\\" after the nobleman's shocked question.\"\n    },\n    {\n      \"start\": \"00:22.00\",\n      \"end\": \"00:23.40\",\n      \"kind\": \"setup\",\n      \"desc\": \"Royal Guard stands firm, saying, \\\"We will not,\\\" refusing to arrest Alexander.\"\n    },\n    {\n      \"start\": \"01:04.20\",\n      \"end\": \"01:12.40\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Mother declares Alexander the rightful Duke, ending just before the full proclamation.\"\n    },\n    {\n      \"start\": \"01:13.80\",\n      \"end\": \"01:17.50\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Alexander\u2019s final threat to Rupert, \\\"And now, Rupert... we settle what you stole,\\\" cut before the confrontation.\"\n    }\n  ]\n}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

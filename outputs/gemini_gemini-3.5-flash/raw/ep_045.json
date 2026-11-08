@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:24.60",
+      "end": "00:58.20",
+      "hook_time": "00:24.60",
+      "hook": "Alexander declares \"Alexander Ashburton. The rightful Duke of Ashburton.\"",
+      "hook_type": "reveal",
+      "cliffhanger": "Cut just before Catherine's pleading \"I didn't know!\" leaving her response unknown.",
+      "why": "A bold identity reveal followed immediately by a heated confrontation hooks viewers and ends on unanswered tension.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 8,
+        "standalone": 7
+      }
+    },
+    {
+      "start": "01:26.50",
+      "end": "01:53.20",
+      "hook_time": "01:27.50",
+      "hook": "Cathedral doors slam open and the High Priest shouts \"No one will bow yet!\"",
+      "hook_type": "threat",
+      "cliffhanger": "Cut before Juliana gasps in terror, leaving her fate uncertain.",
+      "why": "The sudden, dramatic intrusion creates instant stakes and ends on a terrifying reaction.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "00:48.90",
+      "end": "01:14.40",
+      "hook_time": "00:54.00",
+      "hook": "Alexander accuses Catherine: \"You poisoned my mother. You tortured my wife.\"",
+      "hook_type": "threat",
+      "cliffhanger": "Cut just before Alexander raises Juliana's hand, leaving the proclamation unresolved.",
+      "why": "Intense accusation builds anger, then pauses at the moment of triumph, urging viewers to see the outcome.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 7,
+        "standalone": 7
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:24.60",
+      "end": "00:27.40",
+      "kind": "hook",
+      "desc": "Alexander declares his identity: \"Alexander Ashburton. The rightful Duke of Ashburton.\""
+    },
+    {
+      "start": "00:21.80",
+      "end": "00:24.20",
+      "kind": "setup",
+      "desc": "Alexander drapes a crimson ducal mantle over Juliana, symbolizing her new status."
+    },
+    {
+      "start": "01:33.20",
+      "end": "01:41.10",
+      "kind": "cliffhanger",
+      "desc": "High Priest reads proclamation: \"This ceremony was performed without a Crown marriage license...\" threatening the union."
+    },
+    {
+      "start": "01:57.50",
+      "end": "02:01.75",
+      "kind": "hook",
+      "desc": "Catherine's veil lifts to reveal a cold, vindictive smile as she realizes her rival's claim is shattered."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:24.60\",\n      \"end\": \"00:58.20\",\n      \"hook_time\": \"00:24.60\",\n      \"hook\": \"Alexander declares \\\"Alexander Ashburton. The rightful Duke of Ashburton.\\\"\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"Cut just before Catherine's pleading \\\"I didn't know!\\\" leaving her response unknown.\",\n      \"why\": \"A bold identity reveal followed immediately by a heated confrontation hooks viewers and ends on unanswered tension.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 9, \"cliffhanger\": 8, \"standalone\": 7}\n    },\n    {\n      \"start\": \"01:26.50\",\n      \"end\": \"01:53.20\",\n      \"hook_time\": \"01:27.50\",\n      \"hook\": \"Cathedral doors slam open and the High Priest shouts \\\"No one will bow yet!\\\"\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"Cut before Juliana gasps in terror, leaving her fate uncertain.\",\n      \"why\": \"The sudden, dramatic intrusion creates instant stakes and ends on a terrifying reaction.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 9, \"cliffhanger\": 9, \"standalone\": 8}\n    },\n    {\n      \"start\": \"00:48.90\",\n      \"end\": \"01:14.40\",\n      \"hook_time\": \"00:54.00\",\n      \"hook\": \"Alexander accuses Catherine: \\\"You poisoned my mother. You tortured my wife.\\\"\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"Cut just before Alexander raises Juliana's hand, leaving the proclamation unresolved.\",\n      \"why\": \"Intense accusation builds anger, then pauses at the moment of triumph, urging viewers to see the outcome.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 8, \"cliffhanger\": 7, \"standalone\": 7}\n    }\n  ],\n  \"moments\": [\n    {\"start\": \"00:24.60\", \"end\": \"00:27.40\", \"kind\": \"hook\", \"desc\": \"Alexander declares his identity: \\\"Alexander Ashburton. The rightful Duke of Ashburton.\\\"\"},\n    {\"start\": \"00:21.80\", \"end\": \"00:24.20\", \"kind\": \"setup\", \"desc\": \"Alexander drapes a crimson ducal mantle over Juliana, symbolizing her new status.\"},\n    {\"start\": \"01:33.20\", \"end\": \"01:41.10\", \"kind\": \"cliffhanger\", \"desc\": \"High Priest reads proclamation: \\\"This ceremony was performed without a Crown marriage license...\\\" threatening the union.\"},\n    {\"start\": \"01:57.50\", \"end\": \"02:01.75\", \"kind\": \"hook\", \"desc\": \"Catherine's veil lifts to reveal a cold, vindictive smile as she realizes her rival's claim is shattered.\"}\n  ]\n}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

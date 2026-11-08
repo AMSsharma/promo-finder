@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:00.00",
+      "end": "00:23.70",
+      "hook_time": "00:02.40",
+      "hook": "Catherine: \"Two words, and that healer's crown rolls right back into the gutter where it belongs.\"",
+      "hook_type": "threat",
+      "cliffhanger": "Catherine declares, \"Ten days is not a wall, Alexander. It's a door,\" leaving the audience wondering what door she will slam shut.",
+      "why": "A sharp, villainous line grabs attention and the \u201cdoor\u201d metaphor creates immediate suspense.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 8,
+        "standalone": 7
+      }
+    },
+    {
+      "start": "00:34.00",
+      "end": "01:01.00",
+      "hook_time": "00:34.20",
+      "hook": "Catherine: \"Everyone in that chapel saw me humiliated today.\"",
+      "hook_type": "humiliation",
+      "cliffhanger": "She commands Agnes, \"That is precisely your job tonight,\" but never shows what Agnes will actually do.",
+      "why": "The humiliation hook instantly stakes Catherine\u2019s revenge, and the unfinished command forces viewers to click for the payoff.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 7
+      }
+    },
+    {
+      "start": "00:46.80",
+      "end": "01:13.40",
+      "hook_time": "00:47.00",
+      "hook": "Catherine: \"I'm not leaving the county, Agnes. I'm going back into that house.\"",
+      "hook_type": "threat",
+      "cliffhanger": "She orders, \"And make sure no one sees him arrive,\" leaving the audience hanging on who \"him\" is and what will happen.",
+      "why": "Defiant refusal to flee signals high stakes; the secretive priest order creates a mystery that compels a click.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 8,
+        "standalone": 6
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:02.40",
+      "end": "00:04.50",
+      "kind": "hook",
+      "desc": "Catherine delivers a cutting threat about the healer's crown."
+    },
+    {
+      "start": "00:12.30",
+      "end": "00:20.00",
+      "kind": "setup",
+      "desc": "Catherine outlines the ten\u2011day window for the council, establishing the episode\u2019s ticking clock."
+    },
+    {
+      "start": "00:23.90",
+      "end": "00:26.50",
+      "kind": "cliffhanger",
+      "desc": "She adds, \"And doors can be closed from the other side,\" hinting at a hidden plan."
+    },
+    {
+      "start": "00:34.20",
+      "end": "00:37.30",
+      "kind": "hook",
+      "desc": "Catherine declares her public humiliation, fueling her revenge motive."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:00.00\",\n      \"end\": \"00:23.70\",\n      \"hook_time\": \"00:02.40\",\n      \"hook\": \"Catherine: \\\"Two words, and that healer's crown rolls right back into the gutter where it belongs.\\\"\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"Catherine declares, \\\"Ten days is not a wall, Alexander. It's a door,\\\" leaving the audience wondering what door she will slam shut.\",\n      \"why\": \"A sharp, villainous line grabs attention and the \u201cdoor\u201d metaphor creates immediate suspense.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 9, \"cliffhanger\": 8, \"standalone\": 7}\n    },\n    {\n      \"start\": \"00:34.00\",\n      \"end\": \"01:01.00\",\n      \"hook_time\": \"00:34.20\",\n      \"hook\": \"Catherine: \\\"Everyone in that chapel saw me humiliated today.\\\"\",\n      \"hook_type\": \"humiliation\",\n      \"cliffhanger\": \"She commands Agnes, \\\"That is precisely your job tonight,\\\" but never shows what Agnes will actually do.\",\n      \"why\": \"The humiliation hook instantly stakes Catherine\u2019s revenge, and the unfinished command forces viewers to click for the payoff.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 8, \"cliffhanger\": 9, \"standalone\": 7}\n    },\n    {\n      \"start\": \"00:46.80\",\n      \"end\": \"01:13.40\",\n      \"hook_time\": \"00:47.00\",\n      \"hook\": \"Catherine: \\\"I'm not leaving the county, Agnes. I'm going back into that house.\\\"\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"She orders, \\\"And make sure no one sees him arrive,\\\" leaving the audience hanging on who \\\"him\\\" is and what will happen.\",\n      \"why\": \"Defiant refusal to flee signals high stakes; the secretive priest order creates a mystery that compels a click.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 8, \"cliffhanger\": 8, \"standalone\": 6}\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:02.40\",\n      \"end\": \"00:04.50\",\n      \"kind\": \"hook\",\n      \"desc\": \"Catherine delivers a cutting threat about the healer's crown.\"\n    },\n    {\n      \"start\": \"00:12.30\",\n      \"end\": \"00:20.00\",\n      \"kind\": \"setup\",\n      \"desc\": \"Catherine outlines the ten\u2011day window for the council, establishing the episode\u2019s ticking clock.\"\n    },\n    {\n      \"start\": \"00:23.90\",\n      \"end\": \"00:26.50\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"She adds, \\\"And doors can be closed from the other side,\\\" hinting at a hidden plan.\"\n    },\n    {\n      \"start\": \"00:34.20\",\n      \"end\": \"00:37.30\",\n      \"kind\": \"hook\",\n      \"desc\": \"Catherine declares her public humiliation, fueling her revenge motive.\"\n    }\n  ]\n}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

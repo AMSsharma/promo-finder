@@ -1,0 +1,56 @@
+{
+  "candidates": [
+    {
+      "start": "00:43.50",
+      "end": "01:27.63",
+      "hook_time": "00:44.00",
+      "hook": "Alexander tenderly bandages Juliana's torn, bloody hands by the fire, raspy with grief: \"You could have lost your hands.\"",
+      "hook_type": "romance",
+      "cliffhanger": "Alexander vows that no one will ever hurt her again as his scarred knuckles clench into a fist of brewing vengeance beside a bucket of blood-soaked water.",
+      "why": "Taps directly into the ultra-viral hurt/comfort and protective warrior revenge tropes that drive high conversion on TikTok and Reels.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 9
+      }
+    },
+    {
+      "start": "00:00.00",
+      "end": "00:25.50",
+      "hook_time": "00:00.50",
+      "hook": "A blood-streaked, mud-caked hand uncurls amidst razor thorns revealing a signet ring as Juliana demands: \"Now release my husband.\"",
+      "hook_type": "rescue",
+      "cliffhanger": "Alexander breaks free from iron shackles, rushes to Juliana, and gasps in heartbreak over her shredded hands: \"What have they done to you?\"",
+      "why": "Opens with visceral visual trauma and immediate stakes, then cuts on an agonizing question before the emotional fallout is explained.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 8,
+        "standalone": 8
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:00.00",
+      "end": "00:13.50",
+      "kind": "hook",
+      "desc": "Juliana displays the retrieved signet ring with bloody hands and demands the constable release Alexander."
+    },
+    {
+      "start": "00:15.60",
+      "end": "00:29.50",
+      "kind": "setup",
+      "desc": "Alexander rushes to Juliana and weeps over her lacerated hands: \"What have they done to you?\""
+    },
+    {
+      "start": "01:16.00",
+      "end": "01:27.63",
+      "kind": "cliffhanger",
+      "desc": "Alexander vows no one will hurt her again as his fist clenches into an iron knot of vengeance over bloody water."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:43.50\",\n      \"end\": \"01:27.63\",\n      \"hook_time\": \"00:44.00\",\n      \"hook\": \"Alexander tenderly bandages Juliana's torn, bloody hands by the fire, raspy with grief: \\\"You could have lost your hands.\\\"\",\n      \"hook_type\": \"romance\",\n      \"cliffhanger\": \"Alexander vows that no one will ever hurt her again as his scarred knuckles clench into a fist of brewing vengeance beside a bucket of blood-soaked water.\",\n      \"why\": \"Taps directly into the ultra-viral hurt/comfort and protective warrior revenge tropes that drive high conversion on TikTok and Reels.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 9,\n        \"standalone\": 9\n      }\n    },\n    {\n      \"start\": \"00:00.00\",\n      \"end\": \"00:25.50\",\n      \"hook_time\": \"00:00.50\",\n      \"hook\": \"A blood-streaked, mud-caked hand uncurls amidst razor thorns revealing a signet ring as Juliana demands: \\\"Now release my husband.\\\"\",\n      \"hook_type\": \"rescue\",\n      \"cliffhanger\": \"Alexander breaks free from iron shackles, rushes to Juliana, and gasps in heartbreak over her shredded hands: \\\"What have they done to you?\\\"\",\n      \"why\": \"Opens with visceral visual trauma and immediate stakes, then cuts on an agonizing question before the emotional fallout is explained.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 8,\n        \"standalone\": 8\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:00.00\",\n      \"end\": \"00:13.50\",\n      \"kind\": \"hook\",\n      \"desc\": \"Juliana displays the retrieved signet ring with bloody hands and demands the constable release Alexander.\"\n    },\n    {\n      \"start\": \"00:15.60\",\n      \"end\": \"00:29.50\",\n      \"kind\": \"setup\",\n      \"desc\": \"Alexander rushes to Juliana and weeps over her lacerated hands: \\\"What have they done to you?\\\"\"\n    },\n    {\n      \"start\": \"01:16.00\",\n      \"end\": \"01:27.63\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Alexander vows no one will hurt her again as his fist clenches into an iron knot of vengeance over bloody water.\"\n    }\n  ]\n}",
+  "_model": "gemini:gemini-3.7-flash"
+}

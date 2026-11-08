@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:59.00",
+      "end": "01:19.00",
+      "hook_time": "01:04.40",
+      "hook": "Lord: \"One word from me, and the county gaol will take him before sunrise.\"",
+      "hook_type": "threat",
+      "cliffhanger": "Maid (desperate): \"What do you want me to say?!\" \u2013 cut before the Lord answers.",
+      "why": "A child\u2019s life is on the line; the viewer is forced to wonder what she\u2019ll be compelled to say.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "00:40.20",
+      "end": "01:04.40",
+      "hook_time": "00:44.80",
+      "hook": "Lord: \"Did she prepare things no physician had prescribed?\"",
+      "hook_type": "threat",
+      "cliffhanger": "Lord delivers the gaol threat (\u201cOne word from me\u2026\u201d) and the clip cuts before the maid can answer.",
+      "why": "Shows escalating intimidation and leaves the audience hanging on the maid\u2019s forced confession.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 8,
+        "standalone": 7
+      }
+    },
+    {
+      "start": "01:44.20",
+      "end": "02:06.50",
+      "hook_time": "01:48.00",
+      "hook": "Lord: \"Praying... or chanting?\"",
+      "hook_type": "threat",
+      "cliffhanger": "Lord pronounces \u201cThat is witchcraft.\u201d \u2013 cut before the maid\u2019s desperate plea.",
+      "why": "The accusation of witchcraft is the series\u2019 central conflict; the cut leaves the verdict hanging.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "01:04.40",
+      "end": "01:08.50",
+      "kind": "hook",
+      "desc": "Lord threatens: \"One word from me, and the county gaol will take him before sunrise.\""
+    },
+    {
+      "start": "00:44.80",
+      "end": "00:48.80",
+      "kind": "hook",
+      "desc": "Lord asks: \"Did she prepare things no physician had prescribed?\""
+    },
+    {
+      "start": "01:48.00",
+      "end": "01:51.50",
+      "kind": "hook",
+      "desc": "Lord taunts: \"Praying... or chanting?\""
+    },
+    {
+      "start": "01:19.00",
+      "end": "01:20.50",
+      "kind": "cliffhanger",
+      "desc": "Maid cries: \"What do you want me to say?!\" \u2013 cut before the Lord\u2019s answer."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:59.00\",\n      \"end\": \"01:19.00\",\n      \"hook_time\": \"01:04.40\",\n      \"hook\": \"Lord: \\\"One word from me, and the county gaol will take him before sunrise.\\\"\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"Maid (desperate): \\\"What do you want me to say?!\\\" \u2013 cut before the Lord answers.\",\n      \"why\": \"A child\u2019s life is on the line; the viewer is forced to wonder what she\u2019ll be compelled to say.\",\n      \"context_needed\": \"none\",\n      \"scores\": { \"hook\": 9, \"cliffhanger\": 9, \"standalone\": 8 }\n    },\n    {\n      \"start\": \"00:40.20\",\n      \"end\": \"01:04.40\",\n      \"hook_time\": \"00:44.80\",\n      \"hook\": \"Lord: \\\"Did she prepare things no physician had prescribed?\\\"\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"Lord delivers the gaol threat (\u201cOne word from me\u2026\u201d) and the clip cuts before the maid can answer.\",\n      \"why\": \"Shows escalating intimidation and leaves the audience hanging on the maid\u2019s forced confession.\",\n      \"context_needed\": \"none\",\n      \"scores\": { \"hook\": 8, \"cliffhanger\": 8, \"standalone\": 7 }\n    },\n    {\n      \"start\": \"01:44.20\",\n      \"end\": \"02:06.50\",\n      \"hook_time\": \"01:48.00\",\n      \"hook\": \"Lord: \\\"Praying... or chanting?\\\"\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"Lord pronounces \u201cThat is witchcraft.\u201d \u2013 cut before the maid\u2019s desperate plea.\",\n      \"why\": \"The accusation of witchcraft is the series\u2019 central conflict; the cut leaves the verdict hanging.\",\n      \"context_needed\": \"none\",\n      \"scores\": { \"hook\": 8, \"cliffhanger\": 9, \"standalone\": 8 }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"01:04.40\",\n      \"end\": \"01:08.50\",\n      \"kind\": \"hook\",\n      \"desc\": \"Lord threatens: \\\"One word from me, and the county gaol will take him before sunrise.\\\"\"\n    },\n    {\n      \"start\": \"00:44.80\",\n      \"end\": \"00:48.80\",\n      \"kind\": \"hook\",\n      \"desc\": \"Lord asks: \\\"Did she prepare things no physician had prescribed?\\\"\"\n    },\n    {\n      \"start\": \"01:48.00\",\n      \"end\": \"01:51.50\",\n      \"kind\": \"hook\",\n      \"desc\": \"Lord taunts: \\\"Praying... or chanting?\\\"\"\n    },\n    {\n      \"start\": \"01:19.00\",\n      \"end\": \"01:20.50\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Maid cries: \\\"What do you want me to say?!\\\" \u2013 cut before the Lord\u2019s answer.\"\n    }\n  ]\n}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

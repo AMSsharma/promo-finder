@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:16.80",
+      "end": "01:16.50",
+      "hook_time": "00:16.80",
+      "hook": "Catherine (Direct, Transactional): \u201cName your price.\u201d",
+      "hook_type": "threat",
+      "cliffhanger": "Agnes bursts into the doorway and sees Catherine and Father Thomas locked in an intimate embrace, gasping in horror as the scene cuts.",
+      "why": "A bold demand followed by a shocking discovery creates instant intrigue and a must\u2011see question.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "00:31.00",
+      "end": "01:18.60",
+      "hook_time": "00:31.00",
+      "hook": "Father Thomas (Steady, Cold): \u201cAbsolution is free. Discretion has a price.\u201d",
+      "hook_type": "shocking line",
+      "cliffhanger": "Agnes watches the illicit embrace, her terrified gasp freezes the moment before the cut to black.",
+      "why": "A chilling line of blackmail instantly raises stakes, then the horror reveal forces viewers to want the fallout.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 7
+      }
+    },
+    {
+      "start": "00:54.50",
+      "end": "01:18.60",
+      "hook_time": "00:54.50",
+      "hook": "Extreme close\u2011up of their lips almost grazing, candlelight catching their profiles.",
+      "hook_type": "romance",
+      "cliffhanger": "Agnes\u2019s shocked gasp as she discovers the secret affair, ending on her horrified retreat.",
+      "why": "Sensual tension followed by a sudden, terrifying interruption hooks both romance and drama fans.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 7,
+        "cliffhanger": 8,
+        "standalone": 7
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:16.80",
+      "end": "00:18.50",
+      "kind": "hook",
+      "desc": "Catherine demands \u201cName your price,\u201d a sharp power play that grabs attention."
+    },
+    {
+      "start": "00:31.00",
+      "end": "00:35.00",
+      "kind": "setup",
+      "desc": "Father Thomas declares \u201cAbsolution is free. Discretion has a price,\u201d establishing the blackmail premise."
+    },
+    {
+      "start": "00:54.80",
+      "end": "00:59.20",
+      "kind": "setup",
+      "desc": "Intimate whispering and a kiss\u2011like close\u2011up heighten the forbidden romance."
+    },
+    {
+      "start": "01:14.00",
+      "end": "01:18.60",
+      "kind": "cliffhanger",
+      "desc": "Agnes discovers the affair, gasps, and retreats\u2014leaving the secret exposed and unresolved."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:16.80\",\n      \"end\": \"01:16.50\",\n      \"hook_time\": \"00:16.80\",\n      \"hook\": \"Catherine (Direct, Transactional): \u201cName your price.\u201d\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"Agnes bursts into the doorway and sees Catherine and Father Thomas locked in an intimate embrace, gasping in horror as the scene cuts.\",\n      \"why\": \"A bold demand followed by a shocking discovery creates instant intrigue and a must\u2011see question.\",\n      \"context_needed\": \"none\",\n      \"scores\": { \"hook\": 9, \"cliffhanger\": 9, \"standalone\": 8 }\n    },\n    {\n      \"start\": \"00:31.00\",\n      \"end\": \"01:18.60\",\n      \"hook_time\": \"00:31.00\",\n      \"hook\": \"Father Thomas (Steady, Cold): \u201cAbsolution is free. Discretion has a price.\u201d\",\n      \"hook_type\": \"shocking line\",\n      \"cliffhanger\": \"Agnes watches the illicit embrace, her terrified gasp freezes the moment before the cut to black.\",\n      \"why\": \"A chilling line of blackmail instantly raises stakes, then the horror reveal forces viewers to want the fallout.\",\n      \"context_needed\": \"none\",\n      \"scores\": { \"hook\": 8, \"cliffhanger\": 9, \"standalone\": 7 }\n    },\n    {\n      \"start\": \"00:54.50\",\n      \"end\": \"01:18.60\",\n      \"hook_time\": \"00:54.50\",\n      \"hook\": \"Extreme close\u2011up of their lips almost grazing, candlelight catching their profiles.\",\n      \"hook_type\": \"romance\",\n      \"cliffhanger\": \"Agnes\u2019s shocked gasp as she discovers the secret affair, ending on her horrified retreat.\",\n      \"why\": \"Sensual tension followed by a sudden, terrifying interruption hooks both romance and drama fans.\",\n      \"context_needed\": \"none\",\n      \"scores\": { \"hook\": 7, \"cliffhanger\": 8, \"standalone\": 7 }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:16.80\",\n      \"end\": \"00:18.50\",\n      \"kind\": \"hook\",\n      \"desc\": \"Catherine demands \u201cName your price,\u201d a sharp power play that grabs attention.\"\n    },\n    {\n      \"start\": \"00:31.00\",\n      \"end\": \"00:35.00\",\n      \"kind\": \"setup\",\n      \"desc\": \"Father Thomas declares \u201cAbsolution is free. Discretion has a price,\u201d establishing the blackmail premise.\"\n    },\n    {\n      \"start\": \"00:54.80\",\n      \"end\": \"00:59.20\",\n      \"kind\": \"setup\",\n      \"desc\": \"Intimate whispering and a kiss\u2011like close\u2011up heighten the forbidden romance.\"\n    },\n    {\n      \"start\": \"01:14.00\",\n      \"end\": \"01:18.60\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Agnes discovers the affair, gasps, and retreats\u2014leaving the secret exposed and unresolved.\"\n    }\n  ]\n}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

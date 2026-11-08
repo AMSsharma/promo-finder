@@ -1,0 +1,10 @@
+{
+  "what_happens": "Alexander interrogates Juliana about a secret involving the dying Dowager Duchess, only to learn she was poisoned, shocking him.",
+  "confusing": "The rapid back\u2011and\u2011forth of close\u2011ups and overlapping timestamps makes the visual flow hard to picture.",
+  "first_3s_stop": 7,
+  "need_to_know_next": 8,
+  "understandable": 6,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"Alexander interrogates Juliana about a secret involving the dying Dowager Duchess, only to learn she was poisoned, shocking him.\",\"confusing\":\"The rapid back\u2011and\u2011forth of close\u2011ups and overlapping timestamps makes the visual flow hard to picture.\",\"first_3s_stop\":7,\"need_to_know_next\":8,\"understandable\":6,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

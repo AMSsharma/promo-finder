@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:54.00",
+      "end": "01:42.50",
+      "hook_time": "00:56.50",
+      "hook": "Juliana looks up at Alexander by the firelight and confesses: \"I was frightened.\" Alexander: \"Of them?\" Juliana: \"Of losing you.\"",
+      "hook_type": "romance",
+      "cliffhanger": "Alexander suddenly catches Juliana's wrist mid-air as she reaches for his face, arresting her movement and telling her solemnly, \"Not yet.\"",
+      "why": "It delivers high-stakes romantic intimacy before halting on an abrupt boundary, making viewers desperate to know what secret Alexander is hiding.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 8,
+        "standalone": 9
+      }
+    },
+    {
+      "start": "01:17.00",
+      "end": "01:52.00",
+      "hook_time": "01:18.50",
+      "hook": "Nestled against Alexander's broad chest before the hearth, Juliana whispers, \"Your heart is racing.\" Alexander responds: \"So is yours.\"",
+      "hook_type": "romance",
+      "cliffhanger": "Juliana's voiceover states the haunting mystery: \"I know almost nothing about the man I married,\" cutting just before her reassurance.",
+      "why": "A seductive, intimate embrace flips into suspicion and mystery with a voiceover reveal questioning the hero's hidden identity.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 7,
+        "cliffhanger": 8,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "00:16.20",
+      "end": "00:39.00",
+      "hook_time": "00:18.20",
+      "hook": "Juliana looks up at scarred Alexander in the ruins: \"For standing between me and those men.\" Alexander replies: \"I would do it again.\"",
+      "hook_type": "rescue",
+      "cliffhanger": "Alexander kneels in the mud, clasping her bandaged hands and delivering an absolute vow: \"No one will hurt you again.\" / \"You cannot promise that.\" / \"I just did.\"",
+      "why": "Quickly establishes the dynamic of the stoic protector and traumatized heroine, paying off with a fierce, swoon-worthy vow of protection.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 7,
+        "cliffhanger": 6,
+        "standalone": 8
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:21.00",
+      "end": "00:36.50",
+      "kind": "hook",
+      "desc": "Alexander drops to one knee and firmly vows that as long as he draws breath, no one will ever hurt Juliana again."
+    },
+    {
+      "start": "00:56.00",
+      "end": "01:06.00",
+      "kind": "hook",
+      "desc": "Juliana confesses she wasn't scared of the thugs, but of losing Alexander, visibly shaking him with emotion."
+    },
+    {
+      "start": "01:36.00",
+      "end": "01:45.00",
+      "kind": "cliffhanger",
+      "desc": "Juliana reaches toward Alexander's face, but he stops her wrist mid-air with a solemn 'Not yet.'"
+    },
+    {
+      "start": "01:48.00",
+      "end": "01:52.00",
+      "kind": "cliffhanger",
+      "desc": "Juliana's voiceover reflects while resting on his chest: 'I know almost nothing about the man I married.'"
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:54.00\",\n      \"end\": \"01:42.50\",\n      \"hook_time\": \"00:56.50\",\n      \"hook\": \"Juliana looks up at Alexander by the firelight and confesses: \\\"I was frightened.\\\" Alexander: \\\"Of them?\\\" Juliana: \\\"Of losing you.\\\"\",\n      \"hook_type\": \"romance\",\n      \"cliffhanger\": \"Alexander suddenly catches Juliana's wrist mid-air as she reaches for his face, arresting her movement and telling her solemnly, \\\"Not yet.\\\"\",\n      \"why\": \"It delivers high-stakes romantic intimacy before halting on an abrupt boundary, making viewers desperate to know what secret Alexander is hiding.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 8,\n        \"standalone\": 9\n      }\n    },\n    {\n      \"start\": \"01:17.00\",\n      \"end\": \"01:52.00\",\n      \"hook_time\": \"01:18.50\",\n      \"hook\": \"Nestled against Alexander's broad chest before the hearth, Juliana whispers, \\\"Your heart is racing.\\\" Alexander responds: \\\"So is yours.\\\"\",\n      \"hook_type\": \"romance\",\n      \"cliffhanger\": \"Juliana's voiceover states the haunting mystery: \\\"I know almost nothing about the man I married,\\\" cutting just before her reassurance.\",\n      \"why\": \"A seductive, intimate embrace flips into suspicion and mystery with a voiceover reveal questioning the hero's hidden identity.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 7,\n        \"cliffhanger\": 8,\n        \"standalone\": 8\n      }\n    },\n    {\n      \"start\": \"00:16.20\",\n      \"end\": \"00:39.00\",\n      \"hook_time\": \"00:18.20\",\n      \"hook\": \"Juliana looks up at scarred Alexander in the ruins: \\\"For standing between me and those men.\\\" Alexander replies: \\\"I would do it again.\\\"\",\n      \"hook_type\": \"rescue\",\n      \"cliffhanger\": \"Alexander kneels in the mud, clasping her bandaged hands and delivering an absolute vow: \\\"No one will hurt you again.\\\" / \\\"You cannot promise that.\\\" / \\\"I just did.\\\"\",\n      \"why\": \"Quickly establishes the dynamic of the stoic protector and traumatized heroine, paying off with a fierce, swoon-worthy vow of protection.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 7,\n        \"cliffhanger\": 6,\n        \"standalone\": 8\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:21.00\",\n      \"end\": \"00:36.50\",\n      \"kind\": \"hook\",\n      \"desc\": \"Alexander drops to one knee and firmly vows that as long as he draws breath, no one will ever hurt Juliana again.\"\n    },\n    {\n      \"start\": \"00:56.00\",\n      \"end\": \"01:06.00\",\n      \"kind\": \"hook\",\n      \"desc\": \"Juliana confesses she wasn't scared of the thugs, but of losing Alexander, visibly shaking him with emotion.\"\n    },\n    {\n      \"start\": \"01:36.00\",\n      \"end\": \"01:45.00\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Juliana reaches toward Alexander's face, but he stops her wrist mid-air with a solemn 'Not yet.'\"\n    },\n    {\n      \"start\": \"01:48.00\",\n      \"end\": \"01:52.00\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Juliana's voiceover reflects while resting on his chest: 'I know almost nothing about the man I married.'\"\n    }\n  ]\n}",
+  "_model": "gemini:gemini-3.7-flash"
+}

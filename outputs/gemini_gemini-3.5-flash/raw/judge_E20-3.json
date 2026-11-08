@@ -1,0 +1,10 @@
+{
+  "what_happens": "Catherine plots to seize power with Rupert\u2019s support, boasting about the old Duchess\u2019s downfall as she gazes from a grand window.",
+  "confusing": "nothing",
+  "first_3s_stop": 3,
+  "need_to_know_next": 7,
+  "understandable": 6,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"Catherine plots to seize power with Rupert\u2019s support, boasting about the old Duchess\u2019s downfall as she gazes from a grand window.\",\"confusing\":\"nothing\",\"first_3s_stop\":3,\"need_to_know_next\":7,\"understandable\":6,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

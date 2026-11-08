@@ -1,0 +1,10 @@
+{
+  "what_happens": "Juliana, bruised but defiant, faces off in a cathedral as an explosion erupts, revealing armed figures and leaving her hopeful amid chaos.",
+  "confusing": "The relationships and motivations of Juliana, Catherine, Rupert, and the armed figures are unclear.",
+  "first_3s_stop": 3,
+  "need_to_know_next": 8,
+  "understandable": 5,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"Juliana, bruised but defiant, faces off in a cathedral as an explosion erupts, revealing armed figures and leaving her hopeful amid chaos.\",\"confusing\":\"The relationships and motivations of Juliana, Catherine, Rupert, and the armed figures are unclear.\",\"first_3s_stop\":3,\"need_to_know_next\":8,\"understandable\":5,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

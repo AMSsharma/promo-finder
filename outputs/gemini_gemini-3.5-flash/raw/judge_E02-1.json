@@ -1,0 +1,10 @@
+{
+  "what_happens": "A jilted bride watches her fianc\u00e9 abandon her at the altar for a gold\u2011gowned rival, while her family refuses to help.",
+  "confusing": "nothing",
+  "first_3s_stop": 4,
+  "need_to_know_next": 7,
+  "understandable": 8,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"A jilted bride watches her fianc\u00e9 abandon her at the altar for a gold\u2011gowned rival, while her family refuses to help.\",\"confusing\":\"nothing\",\"first_3s_stop\":4,\"need_to_know_next\":7,\"understandable\":8,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

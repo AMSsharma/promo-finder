@@ -1,0 +1,56 @@
+{
+  "candidates": [
+    {
+      "start": "00:26.10",
+      "end": "01:14.30",
+      "hook_time": "00:26.50",
+      "hook": "Juliana stares at the rustic, run-down cottage in disbelief, asking 'That is it?'",
+      "hook_type": "reveal",
+      "cliffhanger": "Juliana frantically scrubs the dirty table as her voice trembles with suppressed grief: 'If I stop now, I will think about everything I lost.'",
+      "why": "It contrasts her former aristocratic life with her harsh new reality, ending on a powerful emotional breakdown that demands empathy.",
+      "context_needed": "Viewers need to know she was just disowned and banished by her aristocratic family.",
+      "scores": {
+        "hook": 7,
+        "cliffhanger": 8,
+        "standalone": 7
+      }
+    },
+    {
+      "start": "00:58.20",
+      "end": "01:44.80",
+      "hook_time": "00:58.40",
+      "hook": "The mysterious scarred husband asks 'You are not disappointed?' and Juliana plainly answers 'I am.'",
+      "hook_type": "shocking line",
+      "cliffhanger": "Juliana's voiceover mourns her lost life ('Everything I thought my life would be'), cutting right before she finds comfort in her husband's presence.",
+      "why": "Highlights the poignant romantic tension and grief of a ruined heiress starting over with a mysterious protector.",
+      "context_needed": "Understanding that she just lost her noble status and wealth in previous episodes.",
+      "scores": {
+        "hook": 7,
+        "cliffhanger": 7,
+        "standalone": 6
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:26.10",
+      "end": "00:33.15",
+      "kind": "setup",
+      "desc": "Juliana sees the dark woodland cottage and defiantly declares that at least no one inside will humiliate her."
+    },
+    {
+      "start": "00:40.00",
+      "end": "00:47.30",
+      "kind": "hook",
+      "desc": "The mysterious warrior apologizes for his humble dwelling: 'This is all I can give you now.'"
+    },
+    {
+      "start": "01:04.10",
+      "end": "01:14.30",
+      "kind": "cliffhanger",
+      "desc": "Juliana scrubs the tabletop frantically to suppress her grief: 'If I stop now, I will think about everything I lost.'"
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:26.10\",\n      \"end\": \"01:14.30\",\n      \"hook_time\": \"00:26.50\",\n      \"hook\": \"Juliana stares at the rustic, run-down cottage in disbelief, asking 'That is it?'\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"Juliana frantically scrubs the dirty table as her voice trembles with suppressed grief: 'If I stop now, I will think about everything I lost.'\",\n      \"why\": \"It contrasts her former aristocratic life with her harsh new reality, ending on a powerful emotional breakdown that demands empathy.\",\n      \"context_needed\": \"Viewers need to know she was just disowned and banished by her aristocratic family.\",\n      \"scores\": {\n        \"hook\": 7,\n        \"cliffhanger\": 8,\n        \"standalone\": 7\n      }\n    },\n    {\n      \"start\": \"00:58.20\",\n      \"end\": \"01:44.80\",\n      \"hook_time\": \"00:58.40\",\n      \"hook\": \"The mysterious scarred husband asks 'You are not disappointed?' and Juliana plainly answers 'I am.'\",\n      \"hook_type\": \"shocking line\",\n      \"cliffhanger\": \"Juliana's voiceover mourns her lost life ('Everything I thought my life would be'), cutting right before she finds comfort in her husband's presence.\",\n      \"why\": \"Highlights the poignant romantic tension and grief of a ruined heiress starting over with a mysterious protector.\",\n      \"context_needed\": \"Understanding that she just lost her noble status and wealth in previous episodes.\",\n      \"scores\": {\n        \"hook\": 7,\n        \"cliffhanger\": 7,\n        \"standalone\": 6\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:26.10\",\n      \"end\": \"00:33.15\",\n      \"kind\": \"setup\",\n      \"desc\": \"Juliana sees the dark woodland cottage and defiantly declares that at least no one inside will humiliate her.\"\n    },\n    {\n      \"start\": \"00:40.00\",\n      \"end\": \"00:47.30\",\n      \"kind\": \"hook\",\n      \"desc\": \"The mysterious warrior apologizes for his humble dwelling: 'This is all I can give you now.'\"\n    },\n    {\n      \"start\": \"01:04.10\",\n      \"end\": \"01:14.30\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Juliana scrubs the tabletop frantically to suppress her grief: 'If I stop now, I will think about everything I lost.'\"\n    }\n  ]\n}",
+  "_model": "gemini:gemini-3.5-flash"
+}

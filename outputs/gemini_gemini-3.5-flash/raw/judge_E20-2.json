@@ -1,0 +1,10 @@
+{
+  "what_happens": "Rupert and Catherine discuss a scheming plan to inherit a title by waiting for the Dowager's death, revealing cold, conspiratorial motives.",
+  "confusing": "References to \"cousin Alexander\" and the exact nature of the title are unclear without prior context",
+  "first_3s_stop": 5,
+  "need_to_know_next": 7,
+  "understandable": 6,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"Rupert and Catherine discuss a scheming plan to inherit a title by waiting for the Dowager's death, revealing cold, conspiratorial motives.\",\"confusing\":\"References to \\\"cousin Alexander\\\" and the exact nature of the title are unclear without prior context\",\"first_3s_stop\":5,\"need_to_know_next\":7,\"understandable\":6,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

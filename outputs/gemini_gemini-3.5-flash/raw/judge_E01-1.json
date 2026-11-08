@@ -1,0 +1,10 @@
+{
+  "what_happens": "Juliana discovers her fianc\u00e9 is about to marry her sister, leading to a dramatic confrontation and betrayal.",
+  "confusing": "nothing",
+  "first_3s_stop": 2,
+  "need_to_know_next": 8,
+  "understandable": 7,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"Juliana discovers her fianc\u00e9 is about to marry her sister, leading to a dramatic confrontation and betrayal.\",\"confusing\":\"nothing\",\"first_3s_stop\":2,\"need_to_know_next\":8,\"understandable\":7,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

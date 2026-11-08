@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:23.20",
+      "end": "00:48.30",
+      "hook_time": "00:23.20",
+      "hook": "Lady Harrington whispers, \"Imagine Juliana seeing this.\"",
+      "hook_type": "threat",
+      "cliffhanger": "Lady Harrington adds, \"And everything that comes after it,\" leaving the audience wondering what fate awaits Juliana.",
+      "why": "A chilling threat followed by an ominous promise creates instant tension and a question that forces viewers to watch the next episode.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 8,
+        "standalone": 7
+      }
+    },
+    {
+      "start": "01:18.50",
+      "end": "01:42.80",
+      "hook_time": "01:18.50",
+      "hook": "The massive cathedral doors swing open, flooding the nave with brilliant golden daylight.",
+      "hook_type": "reveal",
+      "cliffhanger": "Rupert declares, \"You look more queen than bride,\" and the clip cuts before the couple clasp hands, leaving the wedding\u2019s outcome in suspense.",
+      "why": "A dramatic visual hook and a romantic line set up a high\u2011stakes moment that stops scrolling and begs for resolution.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 7,
+        "standalone": 6
+      }
+    },
+    {
+      "start": "00:26.20",
+      "end": "00:48.30",
+      "hook_time": "00:26.20",
+      "hook": "Lord Harrington coldly says, \"She won't be seeing anything for long.\"",
+      "hook_type": "threat",
+      "cliffhanger": "Lady Harrington follows with, \"And everything that comes after it,\" cutting before any action reveals the plan\u2019s execution.",
+      "why": "A direct threat to the heroine paired with a vague promise creates intrigue and a clear villain\u2011hero dynamic.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 7,
+        "standalone": 7
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:23.20",
+      "end": "00:26.00",
+      "kind": "hook",
+      "desc": "Lady Harrington whispers, \"Imagine Juliana seeing this,\" a sharp threat to the condemned."
+    },
+    {
+      "start": "01:14.80",
+      "end": "01:17.40",
+      "kind": "hook",
+      "desc": "Elder Nobleman declares, \"And its witch will be dead,\" a chilling promise of execution."
+    },
+    {
+      "start": "01:05.00",
+      "end": "01:09.50",
+      "kind": "setup",
+      "desc": "Elder Nobleman confirms, \"All entrances are covered?\" and guard replies, \"Every one, my Lord,\" establishing the sealed trap."
+    },
+    {
+      "start": "01:18.50",
+      "end": "01:21.00",
+      "kind": "cliffhanger",
+      "desc": "Cathedral doors burst open, flooding light into the nave, pausing just before the bride appears."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:23.20\",\n      \"end\": \"00:48.30\",\n      \"hook_time\": \"00:23.20\",\n      \"hook\": \"Lady Harrington whispers, \\\"Imagine Juliana seeing this.\\\"\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"Lady Harrington adds, \\\"And everything that comes after it,\\\" leaving the audience wondering what fate awaits Juliana.\",\n      \"why\": \"A chilling threat followed by an ominous promise creates instant tension and a question that forces viewers to watch the next episode.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 8, \"cliffhanger\": 8, \"standalone\": 7}\n    },\n    {\n      \"start\": \"01:18.50\",\n      \"end\": \"01:42.80\",\n      \"hook_time\": \"01:18.50\",\n      \"hook\": \"The massive cathedral doors swing open, flooding the nave with brilliant golden daylight.\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"Rupert declares, \\\"You look more queen than bride,\\\" and the clip cuts before the couple clasp hands, leaving the wedding\u2019s outcome in suspense.\",\n      \"why\": \"A dramatic visual hook and a romantic line set up a high\u2011stakes moment that stops scrolling and begs for resolution.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 9, \"cliffhanger\": 7, \"standalone\": 6}\n    },\n    {\n      \"start\": \"00:26.20\",\n      \"end\": \"00:48.30\",\n      \"hook_time\": \"00:26.20\",\n      \"hook\": \"Lord Harrington coldly says, \\\"She won't be seeing anything for long.\\\"\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"Lady Harrington follows with, \\\"And everything that comes after it,\\\" cutting before any action reveals the plan\u2019s execution.\",\n      \"why\": \"A direct threat to the heroine paired with a vague promise creates intrigue and a clear villain\u2011hero dynamic.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 8, \"cliffhanger\": 7, \"standalone\": 7}\n    }\n  ],\n  \"moments\": [\n    {\"start\": \"00:23.20\", \"end\": \"00:26.00\", \"kind\": \"hook\", \"desc\": \"Lady Harrington whispers, \\\"Imagine Juliana seeing this,\\\" a sharp threat to the condemned.\"},\n    {\"start\": \"01:14.80\", \"end\": \"01:17.40\", \"kind\": \"hook\", \"desc\": \"Elder Nobleman declares, \\\"And its witch will be dead,\\\" a chilling promise of execution.\"},\n    {\"start\": \"01:05.00\", \"end\": \"01:09.50\", \"kind\": \"setup\", \"desc\": \"Elder Nobleman confirms, \\\"All entrances are covered?\\\" and guard replies, \\\"Every one, my Lord,\\\" establishing the sealed trap.\"},\n    {\"start\": \"01:18.50\", \"end\": \"01:21.00\", \"kind\": \"cliffhanger\", \"desc\": \"Cathedral doors burst open, flooding light into the nave, pausing just before the bride appears.\"}\n  ]\n}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

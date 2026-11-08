@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "02:03.00",
+      "end": "02:25.80",
+      "hook_time": "02:03.80",
+      "hook": "Juliana... is in a cell?",
+      "hook_type": "reveal",
+      "cliffhanger": "Alexander demands \u201cWhat wedding?\u201d and the clip cuts before his mother reveals the wedding details, leaving the fate of Juliana and the upcoming ceremony unknown.",
+      "why": "A shocking revelation about Juliana\u2019s imprisonment grabs attention, then a tense question about the wedding leaves viewers desperate to know what happens next.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 9,
+        "standalone": 7
+      }
+    },
+    {
+      "start": "00:17.50",
+      "end": "00:38.70",
+      "hook_time": "00:17.60",
+      "hook": "Mother gasps \u201cRupert?\u201d",
+      "hook_type": "reveal",
+      "cliffhanger": "Alexander\u2019s mother asks \u201cAnd when you disappeared\u2026?\u201d \u2013 the clip ends before her question is answered, creating a mystery about the timeline and Juliana\u2019s fate.",
+      "why": "The sudden gasp names a key antagonist, then a lingering unanswered question forces viewers to click for the answer.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 8,
+        "standalone": 6
+      }
+    },
+    {
+      "start": "01:07.50",
+      "end": "01:33.20",
+      "hook_time": "01:07.80",
+      "hook": "Alexander: \u201cThey used that trust against you.\u201d",
+      "hook_type": "reveal",
+      "cliffhanger": "Mother whispers \u201cNo...\u201d after Alexander asks if Juliana is still at Ashbourne, leaving her whereabouts and the impending execution unresolved.",
+      "why": "A bitter accusation hooks the viewer, and the abrupt \u201cNo...\u201d denial creates a tense cliffhanger about Juliana\u2019s survival.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 7,
+        "cliffhanger": 7,
+        "standalone": 6
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "02:03.80",
+      "end": "02:07.50",
+      "kind": "hook",
+      "desc": "Alexander discovers Juliana is imprisoned: \u201cJuliana\u2026 is in a cell?\u201d"
+    },
+    {
+      "start": "00:41.60",
+      "end": "00:44.80",
+      "kind": "setup",
+      "desc": "Alexander declares \u201cThey declared me dead.\u201d establishing his presumed death."
+    },
+    {
+      "start": "03:04.50",
+      "end": "03:07.80",
+      "kind": "cliffhanger",
+      "desc": "Alexander vows vengeance: \u201cThen they have two days to celebrate.\u201d \u2013 cuts before the outcome of the wedding is shown."
+    },
+    {
+      "start": "00:17.60",
+      "end": "00:19.80",
+      "kind": "hook",
+      "desc": "Mother\u2019s shocked gasp \u201cRupert?\u201d revealing a conspirator."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"02:03.00\",\n      \"end\": \"02:25.80\",\n      \"hook_time\": \"02:03.80\",\n      \"hook\": \"Juliana... is in a cell?\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"Alexander demands \u201cWhat wedding?\u201d and the clip cuts before his mother reveals the wedding details, leaving the fate of Juliana and the upcoming ceremony unknown.\",\n      \"why\": \"A shocking revelation about Juliana\u2019s imprisonment grabs attention, then a tense question about the wedding leaves viewers desperate to know what happens next.\",\n      \"context_needed\": \"none\",\n      \"scores\": { \"hook\": 9, \"cliffhanger\": 9, \"standalone\": 7 }\n    },\n    {\n      \"start\": \"00:17.50\",\n      \"end\": \"00:38.70\",\n      \"hook_time\": \"00:17.60\",\n      \"hook\": \"Mother gasps \u201cRupert?\u201d\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"Alexander\u2019s mother asks \u201cAnd when you disappeared\u2026?\u201d \u2013 the clip ends before her question is answered, creating a mystery about the timeline and Juliana\u2019s fate.\",\n      \"why\": \"The sudden gasp names a key antagonist, then a lingering unanswered question forces viewers to click for the answer.\",\n      \"context_needed\": \"none\",\n      \"scores\": { \"hook\": 8, \"cliffhanger\": 8, \"standalone\": 6 }\n    },\n    {\n      \"start\": \"01:07.50\",\n      \"end\": \"01:33.20\",\n      \"hook_time\": \"01:07.80\",\n      \"hook\": \"Alexander: \u201cThey used that trust against you.\u201d\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"Mother whispers \u201cNo...\u201d after Alexander asks if Juliana is still at Ashbourne, leaving her whereabouts and the impending execution unresolved.\",\n      \"why\": \"A bitter accusation hooks the viewer, and the abrupt \u201cNo...\u201d denial creates a tense cliffhanger about Juliana\u2019s survival.\",\n      \"context_needed\": \"none\",\n      \"scores\": { \"hook\": 7, \"cliffhanger\": 7, \"standalone\": 6 }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"02:03.80\",\n      \"end\": \"02:07.50\",\n      \"kind\": \"hook\",\n      \"desc\": \"Alexander discovers Juliana is imprisoned: \u201cJuliana\u2026 is in a cell?\u201d\"\n    },\n    {\n      \"start\": \"00:41.60\",\n      \"end\": \"00:44.80\",\n      \"kind\": \"setup\",\n      \"desc\": \"Alexander declares \u201cThey declared me dead.\u201d establishing his presumed death.\"\n    },\n    {\n      \"start\": \"03:04.50\",\n      \"end\": \"03:07.80\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Alexander vows vengeance: \u201cThen they have two days to celebrate.\u201d \u2013 cuts before the outcome of the wedding is shown.\"\n    },\n    {\n      \"start\": \"00:17.60\",\n      \"end\": \"00:19.80\",\n      \"kind\": \"hook\",\n      \"desc\": \"Mother\u2019s shocked gasp \u201cRupert?\u201d revealing a conspirator.\"\n    }\n  ]\n}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

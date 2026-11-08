@@ -1,0 +1,71 @@
+{
+  "candidates": [
+    {
+      "start": "00:46.50",
+      "end": "01:26.00",
+      "hook_time": "00:47.40",
+      "hook": "The thug violently shoves Juliana to the ground; she cries out as she hits the wet stone path and blood bleeds through her bandages.",
+      "hook_type": "violence",
+      "cliffhanger": "Alexander steps between Juliana and the thugs, cut right as the thug mockingly asks, 'What? You want to fight us, veteran?'",
+      "why": "Opens immediately with sudden physical violence and bleeding hands, leading into a thrilling hero rescue cut on the brink of combat.",
+      "context_needed": "Juliana's hands are bandaged from an earlier ordeal.",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "00:22.50",
+      "end": "01:03.50",
+      "hook_time": "00:22.80",
+      "hook": "Juliana drops to her knees in cold mud, begging 'Please! Those plants took months to grow!' while frantically gathering torn stems with bandaged hands.",
+      "hook_type": "humiliation",
+      "cliffhanger": "Juliana screams 'Stop!' as a thug raises his club, cutting right as Alexander charges furiously out of the misty dark night.",
+      "why": "Delivers intense emotional distress and cruel villainy before paying off with a dramatic hero arrival cliffhanger.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "00:07.50",
+      "end": "00:56.50",
+      "hook_time": "00:08.50",
+      "hook": "Juliana bursts through the cottage doorway with bandaged hands, crying out 'Stop! What are you doing?!'",
+      "hook_type": "threat",
+      "cliffhanger": "Juliana is shoved hard onto the stone path, weeping 'My mother's plants...' while fresh blood seeps through her bandages.",
+      "why": "Establishes clear conflict from the start and cuts at the absolute peak of Juliana's emotional and physical suffering.",
+      "context_needed": "Why her hands are heavily bandaged.",
+      "scores": {
+        "hook": 7,
+        "cliffhanger": 8,
+        "standalone": 8
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:46.50",
+      "end": "00:53.50",
+      "kind": "hook",
+      "desc": "Thug shoves Juliana to the stone path; blood seeps through her bandages as she reaches for crushed plants."
+    },
+    {
+      "start": "01:02.00",
+      "end": "01:07.50",
+      "kind": "setup",
+      "desc": "Alexander charges into the misty moonlight with lethal intensity, dark coat billowing."
+    },
+    {
+      "start": "01:15.50",
+      "end": "01:26.00",
+      "kind": "cliffhanger",
+      "desc": "Alexander places himself between Juliana and the thugs as the leader provocatively challenges him."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:46.50\",\n      \"end\": \"01:26.00\",\n      \"hook_time\": \"00:47.40\",\n      \"hook\": \"The thug violently shoves Juliana to the ground; she cries out as she hits the wet stone path and blood bleeds through her bandages.\",\n      \"hook_type\": \"violence\",\n      \"cliffhanger\": \"Alexander steps between Juliana and the thugs, cut right as the thug mockingly asks, 'What? You want to fight us, veteran?'\",\n      \"why\": \"Opens immediately with sudden physical violence and bleeding hands, leading into a thrilling hero rescue cut on the brink of combat.\",\n      \"context_needed\": \"Juliana's hands are bandaged from an earlier ordeal.\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 9,\n        \"standalone\": 8\n      }\n    },\n    {\n      \"start\": \"00:22.50\",\n      \"end\": \"01:03.50\",\n      \"hook_time\": \"00:22.80\",\n      \"hook\": \"Juliana drops to her knees in cold mud, begging 'Please! Those plants took months to grow!' while frantically gathering torn stems with bandaged hands.\",\n      \"hook_type\": \"humiliation\",\n      \"cliffhanger\": \"Juliana screams 'Stop!' as a thug raises his club, cutting right as Alexander charges furiously out of the misty dark night.\",\n      \"why\": \"Delivers intense emotional distress and cruel villainy before paying off with a dramatic hero arrival cliffhanger.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 9,\n        \"standalone\": 8\n      }\n    },\n    {\n      \"start\": \"00:07.50\",\n      \"end\": \"00:56.50\",\n      \"hook_time\": \"00:08.50\",\n      \"hook\": \"Juliana bursts through the cottage doorway with bandaged hands, crying out 'Stop! What are you doing?!'\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"Juliana is shoved hard onto the stone path, weeping 'My mother's plants...' while fresh blood seeps through her bandages.\",\n      \"why\": \"Establishes clear conflict from the start and cuts at the absolute peak of Juliana's emotional and physical suffering.\",\n      \"context_needed\": \"Why her hands are heavily bandaged.\",\n      \"scores\": {\n        \"hook\": 7,\n        \"cliffhanger\": 8,\n        \"standalone\": 8\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:46.50\",\n      \"end\": \"00:53.50\",\n      \"kind\": \"hook\",\n      \"desc\": \"Thug shoves Juliana to the stone path; blood seeps through her bandages as she reaches for crushed plants.\"\n    },\n    {\n      \"start\": \"01:02.00\",\n      \"end\": \"01:07.50\",\n      \"kind\": \"setup\",\n      \"desc\": \"Alexander charges into the misty moonlight with lethal intensity, dark coat billowing.\"\n    },\n    {\n      \"start\": \"01:15.50\",\n      \"end\": \"01:26.00\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Alexander places himself between Juliana and the thugs as the leader provocatively challenges him.\"\n    }\n  ]\n}",
+  "_model": "gemini:gemini-3.5-flash"
+}

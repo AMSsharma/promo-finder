@@ -1,0 +1,10 @@
+{
+  "what_happens": "Alexander tends to Juliana's wounded hands by the fire, they share an emotional, intimate moment, and the scene ends with a dark, vengeful promise as blood\u2011soaked water is shown.",
+  "confusing": "The relationship between the characters and why there\u2019s blood\u2011soaked water isn\u2019t explained, making the shift to vengeance feel abrupt.",
+  "first_3s_stop": 6,
+  "need_to_know_next": 8,
+  "understandable": 5,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"Alexander tends to Juliana's wounded hands by the fire, they share an emotional, intimate moment, and the scene ends with a dark, vengeful promise as blood\u2011soaked water is shown.\",\"confusing\":\"The relationship between the characters and why there\u2019s blood\u2011soaked water isn\u2019t explained, making the shift to vengeance feel abrupt.\",\"first_3s_stop\":6,\"need_to_know_next\":8,\"understandable\":5,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

@@ -1,0 +1,10 @@
+{
+  "what_happens": "Catherine halts a wedding to publicly shame Juliana, a disgraced former bride, by dragging her into the cathedral in front of aristocratic onlookers.",
+  "confusing": "nothing",
+  "first_3s_stop": 7,
+  "need_to_know_next": 8,
+  "understandable": 6,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"Catherine halts a wedding to publicly shame Juliana, a disgraced former bride, by dragging her into the cathedral in front of aristocratic onlookers.\",\"confusing\":\"nothing\",\"first_3s_stop\":7,\"need_to_know_next\":8,\"understandable\":6,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

@@ -1,0 +1,10 @@
+{
+  "what_happens": "Lady Juliana rushes to a dying duchess, discovers a mysterious illness, and the scene ends on a tense cliffhanger.",
+  "confusing": "The many titles and rapid setting changes make it hard to follow who is who and why they\u2019re in danger.",
+  "first_3s_stop": 3,
+  "need_to_know_next": 7,
+  "understandable": 5,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"Lady Juliana rushes to a dying duchess, discovers a mysterious illness, and the scene ends on a tense cliffhanger.\",\"confusing\":\"The many titles and rapid setting changes make it hard to follow who is who and why they\u2019re in danger.\",\"first_3s_stop\":3,\"need_to_know_next\":7,\"understandable\":5,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

@@ -1,0 +1,10 @@
+{
+  "what_happens": "In a tense courtroom, Lady Juliana defiantly refuses to renounce witchcraft, prompting the stern judge to condemn her while others react emotionally.",
+  "confusing": "The sudden appearance of Prudence and her actions are unclear, and some overlapping timestamps make the sequence hard to follow.",
+  "first_3s_stop": 4,
+  "need_to_know_next": 7,
+  "understandable": 6,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"In a tense courtroom, Lady Juliana defiantly refuses to renounce witchcraft, prompting the stern judge to condemn her while others react emotionally.\",\"confusing\":\"The sudden appearance of Prudence and her actions are unclear, and some overlapping timestamps make the sequence hard to follow.\",\"first_3s_stop\":4,\"need_to_know_next\":7,\"understandable\":6,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

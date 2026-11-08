@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:27.50",
+      "end": "01:18.00",
+      "hook_time": "00:30.80",
+      "hook": "Mother bursts into the cabin holding a lantern and screams \"Alexander!\" as the camera reveals Alexander alive.",
+      "hook_type": "reveal",
+      "cliffhanger": "Alexander says \"I wasn't supposed to,\" leaving the reason for his survival unanswered.",
+      "why": "A dramatic reunion hook grabs attention, then a mystery about his survival forces viewers to watch the full episode.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 8,
+        "standalone": 9
+      }
+    },
+    {
+      "start": "02:05.50",
+      "end": "02:30.00",
+      "hook_time": "02:05.50",
+      "hook": "Alexander whispers \"Because someone wanted you to believe I was dead,\" a shocking revelation about a hidden conspiracy.",
+      "hook_type": "shocking line",
+      "cliffhanger": "He drops the bombshell \"The men behind it... are the same men ruling Ashwood now,\" cutting before his mother's horrified gasp.",
+      "why": "A concise, high\u2011stakes conspiracy reveal hooks viewers and ends on a chilling unanswered question.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "00:00.00",
+      "end": "00:21.00",
+      "hook_time": "00:05.50",
+      "hook": "Alexander's mother, breathless, declares \"I will not die in that house,\" as she struggles through the dark tunnel.",
+      "hook_type": "threat",
+      "cliffhanger": "She reaches the frozen cabin door and whispers \"This must be the place,\" cutting before the door is opened.",
+      "why": "A desperate escape hook pulls the thumb, and the unknown of what lies behind the cabin door creates tension.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 7,
+        "standalone": 7
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:05.50",
+      "end": "00:08.50",
+      "kind": "hook",
+      "desc": "Mother declares \"I will not die in that house,\" establishing her resolve."
+    },
+    {
+      "start": "00:30.80",
+      "end": "00:36.50",
+      "kind": "setup",
+      "desc": "Mother steps into the cabin, lantern raised, and sees Alexander for the first time."
+    },
+    {
+      "start": "02:05.50",
+      "end": "02:09.50",
+      "kind": "hook",
+      "desc": "Alexander reveals the lie: \"Because someone wanted you to believe I was dead.\""
+    },
+    {
+      "start": "02:25.50",
+      "end": "02:30.00",
+      "kind": "cliffhanger",
+      "desc": "He names the conspirators: \"The men behind it... are the same men ruling Ashwood now,\" before the mother's reaction."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:27.50\",\n      \"end\": \"01:18.00\",\n      \"hook_time\": \"00:30.80\",\n      \"hook\": \"Mother bursts into the cabin holding a lantern and screams \\\"Alexander!\\\" as the camera reveals Alexander alive.\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"Alexander says \\\"I wasn't supposed to,\\\" leaving the reason for his survival unanswered.\",\n      \"why\": \"A dramatic reunion hook grabs attention, then a mystery about his survival forces viewers to watch the full episode.\",\n      \"context_needed\": \"none\",\n      \"scores\": { \"hook\": 9, \"cliffhanger\": 8, \"standalone\": 9 }\n    },\n    {\n      \"start\": \"02:05.50\",\n      \"end\": \"02:30.00\",\n      \"hook_time\": \"02:05.50\",\n      \"hook\": \"Alexander whispers \\\"Because someone wanted you to believe I was dead,\\\" a shocking revelation about a hidden conspiracy.\",\n      \"hook_type\": \"shocking line\",\n      \"cliffhanger\": \"He drops the bombshell \\\"The men behind it... are the same men ruling Ashwood now,\\\" cutting before his mother's horrified gasp.\",\n      \"why\": \"A concise, high\u2011stakes conspiracy reveal hooks viewers and ends on a chilling unanswered question.\",\n      \"context_needed\": \"none\",\n      \"scores\": { \"hook\": 9, \"cliffhanger\": 9, \"standalone\": 8 }\n    },\n    {\n      \"start\": \"00:00.00\",\n      \"end\": \"00:21.00\",\n      \"hook_time\": \"00:05.50\",\n      \"hook\": \"Alexander's mother, breathless, declares \\\"I will not die in that house,\\\" as she struggles through the dark tunnel.\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"She reaches the frozen cabin door and whispers \\\"This must be the place,\\\" cutting before the door is opened.\",\n      \"why\": \"A desperate escape hook pulls the thumb, and the unknown of what lies behind the cabin door creates tension.\",\n      \"context_needed\": \"none\",\n      \"scores\": { \"hook\": 8, \"cliffhanger\": 7, \"standalone\": 7 }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:05.50\",\n      \"end\": \"00:08.50\",\n      \"kind\": \"hook\",\n      \"desc\": \"Mother declares \\\"I will not die in that house,\\\" establishing her resolve.\"\n    },\n    {\n      \"start\": \"00:30.80\",\n      \"end\": \"00:36.50\",\n      \"kind\": \"setup\",\n      \"desc\": \"Mother steps into the cabin, lantern raised, and sees Alexander for the first time.\"\n    },\n    {\n      \"start\": \"02:05.50\",\n      \"end\": \"02:09.50\",\n      \"kind\": \"hook\",\n      \"desc\": \"Alexander reveals the lie: \\\"Because someone wanted you to believe I was dead.\\\"\"\n    },\n    {\n      \"start\": \"02:25.50\",\n      \"end\": \"02:30.00\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"He names the conspirators: \\\"The men behind it... are the same men ruling Ashwood now,\\\" before the mother's reaction.\"\n    }\n  ]\n}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

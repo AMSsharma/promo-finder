@@ -1,0 +1,10 @@
+{
+  "what_happens": "Juliana defiantly rejects the aristocrats, and a scarred bearded man arrives to confront Gerald.",
+  "confusing": "nothing major, but the sudden jump to the forest and the scarred man's entrance feels abrupt",
+  "first_3s_stop": 3,
+  "need_to_know_next": 8,
+  "understandable": 7,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"Juliana defiantly rejects the aristocrats, and a scarred bearded man arrives to confront Gerald.\",\"confusing\":\"nothing major, but the sudden jump to the forest and the scarred man's entrance feels abrupt\",\"first_3s_stop\":3,\"need_to_know_next\":8,\"understandable\":7,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

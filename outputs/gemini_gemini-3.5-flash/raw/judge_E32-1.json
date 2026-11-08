@@ -1,0 +1,10 @@
+{
+  "what_happens": "Juliana, shackled in a dungeon, defiantly confronts the cruel Catherine and declares her freedom and worth.",
+  "confusing": "The rapid overlapping timestamps and lack of visual context make it hard to follow who is doing what.",
+  "first_3s_stop": 2,
+  "need_to_know_next": 3,
+  "understandable": 4,
+  "verdict": "skip",
+  "_raw": "{\"what_happens\":\"Juliana, shackled in a dungeon, defiantly confronts the cruel Catherine and declares her freedom and worth.\",\"confusing\":\"The rapid overlapping timestamps and lack of visual context make it hard to follow who is doing what.\",\"first_3s_stop\":2,\"need_to_know_next\":3,\"understandable\":4,\"verdict\":\"skip\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

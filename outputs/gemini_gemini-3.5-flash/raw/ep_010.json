@@ -1,0 +1,71 @@
+{
+  "candidates": [
+    {
+      "start": "00:02.10",
+      "end": "00:58.00",
+      "hook_time": "00:02.10",
+      "hook": "A wooden door bangs open to reveal Alexander panting in the doorway, clutching his blood-soaked chest.",
+      "hook_type": "threat",
+      "cliffhanger": "Juliana applies salve to his wound while Alexander ignores the pain and stares intently into her eyes.",
+      "why": "Starts with an immediate life-or-death visual hook and transitions into intense romantic tension between the leads.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 7,
+        "standalone": 9
+      }
+    },
+    {
+      "start": "00:31.80",
+      "end": "01:26.50",
+      "hook_time": "00:33.20",
+      "hook": "Alexander strips off his shirt, revealing a torso covered in fresh bleeding lacerations and battle scars as Juliana gasps 'Dear God.'",
+      "hook_type": "reveal",
+      "cliffhanger": "Alexander pulls Juliana's hands to his bare chest, confessing 'Your touch is the only medicine that has ever eased my pain,' cutting on her stunned reaction.",
+      "why": "Delivers a visual body reveal hook followed by a high-stakes emotional confession that leaves the viewer dying to see if they kiss.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 9
+      }
+    },
+    {
+      "start": "00:23.00",
+      "end": "01:19.00",
+      "hook_time": "00:25.50",
+      "hook": "Juliana challenges her stubborn injured husband: 'Then removing your shirt should not trouble you.'",
+      "hook_type": "shocking line",
+      "cliffhanger": "Alexander reaches up and suddenly pulls Juliana's hands onto his bare chest over his racing heart.",
+      "why": "Establishes a strong female lead challenging a stubborn warrior, escalating quickly into intense physical proximity.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 7,
+        "cliffhanger": 8,
+        "standalone": 8
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:02.10",
+      "end": "00:09.10",
+      "kind": "hook",
+      "desc": "Door bangs open; Alexander appears bloodied and panting at the threshold."
+    },
+    {
+      "start": "00:31.80",
+      "end": "00:39.20",
+      "kind": "reveal",
+      "desc": "Alexander pulls off his shirt, revealing severe wounds and scars to Juliana's horror."
+    },
+    {
+      "start": "01:14.50",
+      "end": "01:26.50",
+      "kind": "cliffhanger",
+      "desc": "Alexander places Juliana's hands over his bare heart and confesses she is his only medicine."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:02.10\",\n      \"end\": \"00:58.00\",\n      \"hook_time\": \"00:02.10\",\n      \"hook\": \"A wooden door bangs open to reveal Alexander panting in the doorway, clutching his blood-soaked chest.\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"Juliana applies salve to his wound while Alexander ignores the pain and stares intently into her eyes.\",\n      \"why\": \"Starts with an immediate life-or-death visual hook and transitions into intense romantic tension between the leads.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 7,\n        \"standalone\": 9\n      }\n    },\n    {\n      \"start\": \"00:31.80\",\n      \"end\": \"01:26.50\",\n      \"hook_time\": \"00:33.20\",\n      \"hook\": \"Alexander strips off his shirt, revealing a torso covered in fresh bleeding lacerations and battle scars as Juliana gasps 'Dear God.'\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"Alexander pulls Juliana's hands to his bare chest, confessing 'Your touch is the only medicine that has ever eased my pain,' cutting on her stunned reaction.\",\n      \"why\": \"Delivers a visual body reveal hook followed by a high-stakes emotional confession that leaves the viewer dying to see if they kiss.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 9,\n        \"standalone\": 9\n      }\n    },\n    {\n      \"start\": \"00:23.00\",\n      \"end\": \"01:19.00\",\n      \"hook_time\": \"00:25.50\",\n      \"hook\": \"Juliana challenges her stubborn injured husband: 'Then removing your shirt should not trouble you.'\",\n      \"hook_type\": \"shocking line\",\n      \"cliffhanger\": \"Alexander reaches up and suddenly pulls Juliana's hands onto his bare chest over his racing heart.\",\n      \"why\": \"Establishes a strong female lead challenging a stubborn warrior, escalating quickly into intense physical proximity.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 7,\n        \"cliffhanger\": 8,\n        \"standalone\": 8\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:02.10\",\n      \"end\": \"00:09.10\",\n      \"kind\": \"hook\",\n      \"desc\": \"Door bangs open; Alexander appears bloodied and panting at the threshold.\"\n    },\n    {\n      \"start\": \"00:31.80\",\n      \"end\": \"00:39.20\",\n      \"kind\": \"reveal\",\n      \"desc\": \"Alexander pulls off his shirt, revealing severe wounds and scars to Juliana's horror.\"\n    },\n    {\n      \"start\": \"01:14.50\",\n      \"end\": \"01:26.50\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Alexander places Juliana's hands over his bare heart and confesses she is his only medicine.\"\n    }\n  ]\n}",
+  "_model": "gemini:gemini-3.5-flash"
+}

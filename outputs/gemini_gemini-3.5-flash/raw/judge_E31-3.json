@@ -1,0 +1,10 @@
+{
+  "what_happens": "Catherine burns a cherished book and threatens Juliana with a hot iron, causing intense grief and terror",
+  "confusing": "nothing",
+  "first_3s_stop": 3,
+  "need_to_know_next": 2,
+  "understandable": 7,
+  "verdict": "skip",
+  "_raw": "{\"what_happens\":\"Catherine burns a cherished book and threatens Juliana with a hot iron, causing intense grief and terror\",\"confusing\":\"nothing\",\"first_3s_stop\":3,\"need_to_know_next\":2,\"understandable\":7,\"verdict\":\"skip\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:02.00",
+      "end": "00:56.00",
+      "hook_time": "00:02.00",
+      "hook": "Heavy frantic pounding echoes at the door as a weeping mother screams, 'Please! They told me there was a woman here who knows herbs. My boy is burning with fever!'",
+      "hook_type": "rescue",
+      "cliffhanger": "Juliana administers the remedy, but the mother panics when there is no instant reaction ('Why isn't it working?'), and Juliana instructs her to 'Wait'\u2014cutting right before the child's fever breaks.",
+      "why": "High-stakes life-or-death urgency grabs attention immediately, while cutting before the remedy works keeps viewers hooked on whether the child survives.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 9,
+        "standalone": 9
+      }
+    },
+    {
+      "start": "01:26.50",
+      "end": "01:55.50",
+      "hook_time": "01:28.00",
+      "hook": "The Former Groom enters the noble study to report: 'There is a rumor going around, my Lord... About a war veteran. Some say he resembles the late Duke.'",
+      "hook_type": "reveal",
+      "cliffhanger": "The Blond Nobleman realizes the Duke he thought dead might be alive, whispering 'Impossible' in creeping panic as flames reflect in his eye.",
+      "why": "Establishes a classic secret-identity trope and delivers a thrilling villain realization cut right on his peak paranoia.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "01:14.80",
+      "end": "01:42.00",
+      "hook_time": "01:15.10",
+      "hook": "Alexander grimly warns Juliana: 'You cannot let the whole village start talking about you.'",
+      "hook_type": "threat",
+      "cliffhanger": "The Blond Nobleman hears the rumor that the veteran bears the Duke's war scar and snaps 'Where?' in sudden alarm.",
+      "why": "Ties Juliana's heroic action directly to the dangerous villain learning about her husband's secret identity.",
+      "context_needed": "Alexander is actually the presumed-dead Duke living in hiding.",
+      "scores": {
+        "hook": 7,
+        "cliffhanger": 8,
+        "standalone": 7
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:02.00",
+      "end": "00:11.20",
+      "kind": "hook",
+      "desc": "Frantic pounding at the cottage door breaks the quiet, revealing a weeping mother begging for help for her feverish son."
+    },
+    {
+      "start": "01:14.80",
+      "end": "01:23.80",
+      "kind": "setup",
+      "desc": "Alexander warns Juliana that village gossip is dangerous, but she steadfastly replies they will face it together."
+    },
+    {
+      "start": "01:28.00",
+      "end": "01:42.00",
+      "kind": "cliffhanger",
+      "desc": "The Former Groom tells the Blond Nobleman that a local veteran bears the late Duke's scar, prompting a sharp 'Where?'"
+    },
+    {
+      "start": "01:37.50",
+      "end": "01:55.50",
+      "kind": "cliffhanger",
+      "desc": "Upon learning of the scar, the Blond Nobleman is paralyzed by paranoia, whispering 'Impossible' into the fireplace flames."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:02.00\",\n      \"end\": \"00:56.00\",\n      \"hook_time\": \"00:02.00\",\n      \"hook\": \"Heavy frantic pounding echoes at the door as a weeping mother screams, 'Please! They told me there was a woman here who knows herbs. My boy is burning with fever!'\",\n      \"hook_type\": \"rescue\",\n      \"cliffhanger\": \"Juliana administers the remedy, but the mother panics when there is no instant reaction ('Why isn't it working?'), and Juliana instructs her to 'Wait'\u2014cutting right before the child's fever breaks.\",\n      \"why\": \"High-stakes life-or-death urgency grabs attention immediately, while cutting before the remedy works keeps viewers hooked on whether the child survives.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 9,\n        \"standalone\": 9\n      }\n    },\n    {\n      \"start\": \"01:26.50\",\n      \"end\": \"01:55.50\",\n      \"hook_time\": \"01:28.00\",\n      \"hook\": \"The Former Groom enters the noble study to report: 'There is a rumor going around, my Lord... About a war veteran. Some say he resembles the late Duke.'\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"The Blond Nobleman realizes the Duke he thought dead might be alive, whispering 'Impossible' in creeping panic as flames reflect in his eye.\",\n      \"why\": \"Establishes a classic secret-identity trope and delivers a thrilling villain realization cut right on his peak paranoia.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 9,\n        \"standalone\": 8\n      }\n    },\n    {\n      \"start\": \"01:14.80\",\n      \"end\": \"01:42.00\",\n      \"hook_time\": \"01:15.10\",\n      \"hook\": \"Alexander grimly warns Juliana: 'You cannot let the whole village start talking about you.'\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"The Blond Nobleman hears the rumor that the veteran bears the Duke's war scar and snaps 'Where?' in sudden alarm.\",\n      \"why\": \"Ties Juliana's heroic action directly to the dangerous villain learning about her husband's secret identity.\",\n      \"context_needed\": \"Alexander is actually the presumed-dead Duke living in hiding.\",\n      \"scores\": {\n        \"hook\": 7,\n        \"cliffhanger\": 8,\n        \"standalone\": 7\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:02.00\",\n      \"end\": \"00:11.20\",\n      \"kind\": \"hook\",\n      \"desc\": \"Frantic pounding at the cottage door breaks the quiet, revealing a weeping mother begging for help for her feverish son.\"\n    },\n    {\n      \"start\": \"01:14.80\",\n      \"end\": \"01:23.80\",\n      \"kind\": \"setup\",\n      \"desc\": \"Alexander warns Juliana that village gossip is dangerous, but she steadfastly replies they will face it together.\"\n    },\n    {\n      \"start\": \"01:28.00\",\n      \"end\": \"01:42.00\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"The Former Groom tells the Blond Nobleman that a local veteran bears the late Duke's scar, prompting a sharp 'Where?'\"\n    },\n    {\n      \"start\": \"01:37.50\",\n      \"end\": \"01:55.50\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Upon learning of the scar, the Blond Nobleman is paralyzed by paranoia, whispering 'Impossible' into the fireplace flames.\"\n    }\n  ]\n}",
+  "_model": "gemini:gemini-3.5-flash"
+}

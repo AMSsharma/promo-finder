@@ -1,0 +1,10 @@
+{
+  "what_happens": "A wounded, blood\u2011soaked Alexander is forced by the concerned Juliana to sit by the fire while she tends his injuries, revealing his hidden scars and stubborn pride.",
+  "confusing": "nothing",
+  "first_3s_stop": 7,
+  "need_to_know_next": 6,
+  "understandable": 7,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"A wounded, blood\u2011soaked Alexander is forced by the concerned Juliana to sit by the fire while she tends his injuries, revealing his hidden scars and stubborn pride.\",\"confusing\":\"nothing\",\"first_3s_stop\":7,\"need_to_know_next\":6,\"understandable\":7,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

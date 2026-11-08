@@ -1,0 +1,10 @@
+{
+  "what_happens": "Juliana is taunted by Catherine, shoved by a guard, and thrown into a dark prison cell where she cries out for help.",
+  "confusing": "The backstory (who Ashbrook is, why Juliana\u2019s husband matters) isn\u2019t explained, and the setting feels vague.",
+  "first_3s_stop": 4,
+  "need_to_know_next": 7,
+  "understandable": 6,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"Juliana is taunted by Catherine, shoved by a guard, and thrown into a dark prison cell where she cries out for help.\",\"confusing\":\"The backstory (who Ashbrook is, why Juliana\u2019s husband matters) isn\u2019t explained, and the setting feels vague.\",\"first_3s_stop\":4,\"need_to_know_next\":7,\"understandable\":6,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

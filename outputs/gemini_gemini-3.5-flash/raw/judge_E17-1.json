@@ -1,0 +1,10 @@
+{
+  "what_happens": "Juliana and Alexander share an intimate, tender moment by a fireplace, expressing love and playful affection",
+  "confusing": "nothing",
+  "first_3s_stop": 7,
+  "need_to_know_next": 8,
+  "understandable": 8,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"Juliana and Alexander share an intimate, tender moment by a fireplace, expressing love and playful affection\",\"confusing\":\"nothing\",\"first_3s_stop\":7,\"need_to_know_next\":8,\"understandable\":8,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

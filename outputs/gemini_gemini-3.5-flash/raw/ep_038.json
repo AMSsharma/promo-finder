@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:07.50",
+      "end": "00:34.50",
+      "hook_time": "00:11.00",
+      "hook": "Guard kneels and slips a small loaf of bread through the bars, then whispers, \u201cBecause no one should die hungry.\u201d",
+      "hook_type": "rescue",
+      "cliffhanger": "Juliana bites the bread and whispers \u201cAlexander\u2026\u201d, leaving us wondering if she\u2019ll be saved before her execution.",
+      "why": "Shows a compassionate act that instantly grabs attention and raises the stakes of her fate.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 8,
+        "standalone": 9
+      }
+    },
+    {
+      "start": "00:55.50",
+      "end": "01:18.50",
+      "hook_time": "00:57.50",
+      "hook": "Juliana declares defiantly, \u201cI will not give them my husband.\u201d",
+      "hook_type": "defiance",
+      "cliffhanger": "She hears distant wedding bells and whispers \u201cThen I suppose I\u2019m next,\u201d cutting just before her hopeful smile, leaving her fate unknown.",
+      "why": "Combines bold defiance with an ominous wedding bell, pulling viewers into the looming execution.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "00:20.50",
+      "end": "00:45.50",
+      "hook_time": "00:20.50",
+      "hook": "Guard urgently whispers, \u201cEat it before they see,\u201d as he slips the bread.",
+      "hook_type": "urgent",
+      "cliffhanger": "Juliana, starving, asks \u201cWhat if I die here?\u201d and we cut before she decides to act.",
+      "why": "Urgent whisper creates tension; her desperate question leaves the outcome hanging.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 7,
+        "cliffhanger": 7,
+        "standalone": 7
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:11.00",
+      "end": "00:15.50",
+      "kind": "hook",
+      "desc": "Guard kneels, slips a loaf of bread through the cell bars and whispers, \u201cBecause no one should die hungry.\u201d"
+    },
+    {
+      "start": "01:09.00",
+      "end": "01:10.30",
+      "kind": "hook",
+      "desc": "Juliana, startled, whispers \u201cBells.\u201d as distant wedding bells begin tolling."
+    },
+    {
+      "start": "01:00.80",
+      "end": "01:02.50",
+      "kind": "hook",
+      "desc": "Juliana defiantly says, \u201cI will not give them my husband.\u201d"
+    },
+    {
+      "start": "00:51.50",
+      "end": "00:53.50",
+      "kind": "setup",
+      "desc": "Juliana prays quietly, \u201cKeep him safe,\u201d establishing her loyalty to Alexander."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:07.50\",\n      \"end\": \"00:34.50\",\n      \"hook_time\": \"00:11.00\",\n      \"hook\": \"Guard kneels and slips a small loaf of bread through the bars, then whispers, \u201cBecause no one should die hungry.\u201d\",\n      \"hook_type\": \"rescue\",\n      \"cliffhanger\": \"Juliana bites the bread and whispers \u201cAlexander\u2026\u201d, leaving us wondering if she\u2019ll be saved before her execution.\",\n      \"why\": \"Shows a compassionate act that instantly grabs attention and raises the stakes of her fate.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\":9,\"cliffhanger\":8,\"standalone\":9}\n    },\n    {\n      \"start\": \"00:55.50\",\n      \"end\": \"01:18.50\",\n      \"hook_time\": \"00:57.50\",\n      \"hook\": \"Juliana declares defiantly, \u201cI will not give them my husband.\u201d\",\n      \"hook_type\": \"defiance\",\n      \"cliffhanger\": \"She hears distant wedding bells and whispers \u201cThen I suppose I\u2019m next,\u201d cutting just before her hopeful smile, leaving her fate unknown.\",\n      \"why\": \"Combines bold defiance with an ominous wedding bell, pulling viewers into the looming execution.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\":8,\"cliffhanger\":9,\"standalone\":8}\n    },\n    {\n      \"start\": \"00:20.50\",\n      \"end\": \"00:45.50\",\n      \"hook_time\": \"00:20.50\",\n      \"hook\": \"Guard urgently whispers, \u201cEat it before they see,\u201d as he slips the bread.\",\n      \"hook_type\": \"urgent\",\n      \"cliffhanger\": \"Juliana, starving, asks \u201cWhat if I die here?\u201d and we cut before she decides to act.\",\n      \"why\": \"Urgent whisper creates tension; her desperate question leaves the outcome hanging.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\":7,\"cliffhanger\":7,\"standalone\":7}\n    }\n  ],\n  \"moments\": [\n    {\"start\":\"00:11.00\",\"end\":\"00:15.50\",\"kind\":\"hook\",\"desc\":\"Guard kneels, slips a loaf of bread through the cell bars and whispers, \u201cBecause no one should die hungry.\u201d\"},\n    {\"start\":\"01:09.00\",\"end\":\"01:10.30\",\"kind\":\"hook\",\"desc\":\"Juliana, startled, whispers \u201cBells.\u201d as distant wedding bells begin tolling.\"},\n    {\"start\":\"01:00.80\",\"end\":\"01:02.50\",\"kind\":\"hook\",\"desc\":\"Juliana defiantly says, \u201cI will not give them my husband.\u201d\"},\n    {\"start\":\"00:51.50\",\"end\":\"00:53.50\",\"kind\":\"setup\",\"desc\":\"Juliana prays quietly, \u201cKeep him safe,\u201d establishing her loyalty to Alexander.\"}\n  ]\n}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

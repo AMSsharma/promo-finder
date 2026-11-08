@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:11.00",
+      "end": "00:31.80",
+      "hook_time": "00:11.50",
+      "hook": "High Priest breaks a wax seal and declares: 'By Royal command, this sanctuary is placed under immediate Crown seizure.'",
+      "hook_type": "threat",
+      "cliffhanger": "The High Priest brandishes the letter and states: 'Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him.'",
+      "why": "Immediate legal threat and public humiliation of the 'Duke' status creates high stakes; the viewer needs to know if the marriage is valid.",
+      "context_needed": "None. The conflict is clear: Priest vs. Couple, marriage validity at stake.",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 8,
+        "standalone": 9
+      }
+    },
+    {
+      "start": "00:52.20",
+      "end": "01:10.50",
+      "hook_time": "00:52.20",
+      "hook": "High Priest thrusts document at camera: '...because as far as the Crown knew, Alexander Ashburton was already dead.'",
+      "hook_type": "shocking line",
+      "cliffhanger": "High Priest smirks and delivers the final blow: 'Love doesn't make a Duchess, girl. Paper does.'",
+      "why": "The reveal that the Duke was 'dead' is a massive plot twist that invalidates the marriage, followed by a cruel dismissal that leaves the audience angry and wanting a comeback.",
+      "context_needed": "Viewer needs to know Alexander is the Duke and Juliana is his bride, which is established in the first few seconds of the clip via the Priest's dialogue.",
+      "scores": {
+        "hook": 10,
+        "cliffhanger": 7,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "01:51.80",
+      "end": "02:13.50",
+      "hook_time": "01:52.00",
+      "hook": "Alexander glares with icy authority: 'Then let it prove that in ten days, before witnesses. Not with six halberds pointed at me in my own chapel.'",
+      "hook_type": "threat",
+      "cliffhanger": "Guards surround Alexander with halberds pointed at his chest as he roars: 'Lower them! Or explain to the Crown why its own bailiffs raised iron on the Duke it just confirmed!'",
+      "why": "High tension standoff. The Duke stands his ground against armed guards, creating a 'will he win?' cliffhanger that demands the next episode to see the outcome of the confrontation.",
+      "context_needed": "Viewer needs to know the marriage is being challenged, which is implied by the 'Duke' title and the aggressive guards.",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 7
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:11.50",
+      "end": "00:16.80",
+      "kind": "hook",
+      "desc": "High Priest breaks wax seal and declares the sanctuary under Crown seizure."
+    },
+    {
+      "start": "00:52.20",
+      "end": "00:58.00",
+      "kind": "hook",
+      "desc": "High Priest reveals Alexander was considered dead by the Crown, invalidating the marriage."
+    },
+    {
+      "start": "01:06.80",
+      "end": "01:10.50",
+      "kind": "cliffhanger",
+      "desc": "High Priest dismisses Juliana's love, stating 'Love doesn't make a Duchess, girl. Paper does.'"
+    },
+    {
+      "start": "02:07.20",
+      "end": "02:13.20",
+      "kind": "cliffhanger",
+      "desc": "Guards point halberds at Alexander's chest as he threatens to explain to the Crown why they raised iron on the Duke."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:11.00\",\n      \"end\": \"00:31.80\",\n      \"hook_time\": \"00:11.50\",\n      \"hook\": \"High Priest breaks a wax seal and declares: 'By Royal command, this sanctuary is placed under immediate Crown seizure.'\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"The High Priest brandishes the letter and states: 'Three years later, the beggar is revealed to be a Duke. The marriage does not rise with him.'\",\n      \"why\": \"Immediate legal threat and public humiliation of the 'Duke' status creates high stakes; the viewer needs to know if the marriage is valid.\",\n      \"context_needed\": \"None. The conflict is clear: Priest vs. Couple, marriage validity at stake.\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 8,\n        \"standalone\": 9\n      }\n    },\n    {\n      \"start\": \"00:52.20\",\n      \"end\": \"01:10.50\",\n      \"hook_time\": \"00:52.20\",\n      \"hook\": \"High Priest thrusts document at camera: '...because as far as the Crown knew, Alexander Ashburton was already dead.'\",\n      \"hook_type\": \"shocking line\",\n      \"cliffhanger\": \"High Priest smirks and delivers the final blow: 'Love doesn't make a Duchess, girl. Paper does.'\",\n      \"why\": \"The reveal that the Duke was 'dead' is a massive plot twist that invalidates the marriage, followed by a cruel dismissal that leaves the audience angry and wanting a comeback.\",\n      \"context_needed\": \"Viewer needs to know Alexander is the Duke and Juliana is his bride, which is established in the first few seconds of the clip via the Priest's dialogue.\",\n      \"scores\": {\n        \"hook\": 10,\n        \"cliffhanger\": 7,\n        \"standalone\": 8\n      }\n    },\n    {\n      \"start\": \"01:51.80\",\n      \"end\": \"02:13.50\",\n      \"hook_time\": \"01:52.00\",\n      \"hook\": \"Alexander glares with icy authority: 'Then let it prove that in ten days, before witnesses. Not with six halberds pointed at me in my own chapel.'\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"Guards surround Alexander with halberds pointed at his chest as he roars: 'Lower them! Or explain to the Crown why its own bailiffs raised iron on the Duke it just confirmed!'\",\n      \"why\": \"High tension standoff. The Duke stands his ground against armed guards, creating a 'will he win?' cliffhanger that demands the next episode to see the outcome of the confrontation.\",\n      \"context_needed\": \"Viewer needs to know the marriage is being challenged, which is implied by the 'Duke' title and the aggressive guards.\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 9,\n        \"standalone\": 7\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:11.50\",\n      \"end\": \"00:16.80\",\n      \"kind\": \"hook\",\n      \"desc\": \"High Priest breaks wax seal and declares the sanctuary under Crown seizure.\"\n    },\n    {\n      \"start\": \"00:52.20\",\n      \"end\": \"00:58.00\",\n      \"kind\": \"hook\",\n      \"desc\": \"High Priest reveals Alexander was considered dead by the Crown, invalidating the marriage.\"\n    },\n    {\n      \"start\": \"01:06.80\",\n      \"end\": \"01:10.50\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"High Priest dismisses Juliana's love, stating 'Love doesn't make a Duchess, girl. Paper does.'\"\n    },\n    {\n      \"start\": \"02:07.20\",\n      \"end\": \"02:13.20\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Guards point halberds at Alexander's chest as he threatens to explain to the Crown why they raised iron on the Duke.\"\n    }\n  ]\n}",
+  "_model": "groq:qwen/qwen3.8-27b"
+}

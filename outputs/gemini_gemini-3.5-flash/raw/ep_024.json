@@ -1,0 +1,71 @@
+{
+  "candidates": [
+    {
+      "start": "00:27.00",
+      "end": "01:10.50",
+      "hook_time": "00:29.00",
+      "hook": "The noblewoman's vicious line: \"Then let her suffer.\"",
+      "hook_type": "shocking line",
+      "cliffhanger": "The noblewoman thrusts her crop into Prudence's face, asking if she wants the same punishment.",
+      "why": "It combines a shocking lack of empathy for a dying woman with physical violence and a high-stakes threat to an innocent sidekick.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 10,
+        "standalone": 9
+      }
+    },
+    {
+      "start": "00:03.50",
+      "end": "00:33.80",
+      "hook_time": "00:06.80",
+      "hook": "The noblewoman demands \"Who are you?\" while tapping a riding crop against her palm.",
+      "hook_type": "threat",
+      "cliffhanger": "The riding crop makes harsh contact with Juliana's torso.",
+      "why": "This is a classic 'hidden identity' beat where the protagonist is humiliated by someone who doesn't know her true status.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "00:51.50",
+      "end": "01:25.00",
+      "hook_time": "00:53.60",
+      "hook": "The harsh command to \"Clean it\" as Juliana is forced into a soot-stained hearth.",
+      "hook_type": "humiliation",
+      "cliffhanger": "Juliana touches the hidden antidote vial in her pocket while being mocked.",
+      "why": "It establishes a 'Cinderella' dynamic of extreme humiliation while revealing the protagonist has a secret weapon to save the day.",
+      "context_needed": "The viewer needs to understand Juliana is a secret healer, which is implied by her touching the vial.",
+      "scores": {
+        "hook": 7,
+        "cliffhanger": 8,
+        "standalone": 7
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:29.00",
+      "end": "00:34.50",
+      "kind": "hook",
+      "desc": "The noblewoman says 'Then let her suffer' and strikes Juliana with the riding crop."
+    },
+    {
+      "start": "00:57.80",
+      "end": "01:03.80",
+      "kind": "setup",
+      "desc": "The noblewoman whispers that Juliana should remember she is a servant while her hands are black with soot."
+    },
+    {
+      "start": "01:21.20",
+      "end": "01:32.00",
+      "kind": "cliffhanger",
+      "desc": "Juliana reveals the hidden antidote in her pocket and vows that the healer cannot be stopped."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:27.00\",\n      \"end\": \"01:10.50\",\n      \"hook_time\": \"00:29.00\",\n      \"hook\": \"The noblewoman's vicious line: \\\"Then let her suffer.\\\"\",\n      \"hook_type\": \"shocking line\",\n      \"cliffhanger\": \"The noblewoman thrusts her crop into Prudence's face, asking if she wants the same punishment.\",\n      \"why\": \"It combines a shocking lack of empathy for a dying woman with physical violence and a high-stakes threat to an innocent sidekick.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 10,\n        \"standalone\": 9\n      }\n    },\n    {\n      \"start\": \"00:03.50\",\n      \"end\": \"00:33.80\",\n      \"hook_time\": \"00:06.80\",\n      \"hook\": \"The noblewoman demands \\\"Who are you?\\\" while tapping a riding crop against her palm.\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"The riding crop makes harsh contact with Juliana's torso.\",\n      \"why\": \"This is a classic 'hidden identity' beat where the protagonist is humiliated by someone who doesn't know her true status.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 9,\n        \"standalone\": 8\n      }\n    },\n    {\n      \"start\": \"00:51.50\",\n      \"end\": \"01:25.00\",\n      \"hook_time\": \"00:53.60\",\n      \"hook\": \"The harsh command to \\\"Clean it\\\" as Juliana is forced into a soot-stained hearth.\",\n      \"hook_type\": \"humiliation\",\n      \"cliffhanger\": \"Juliana touches the hidden antidote vial in her pocket while being mocked.\",\n      \"why\": \"It establishes a 'Cinderella' dynamic of extreme humiliation while revealing the protagonist has a secret weapon to save the day.\",\n      \"context_needed\": \"The viewer needs to understand Juliana is a secret healer, which is implied by her touching the vial.\",\n      \"scores\": {\n        \"hook\": 7,\n        \"cliffhanger\": 8,\n        \"standalone\": 7\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:29.00\",\n      \"end\": \"00:34.50\",\n      \"kind\": \"hook\",\n      \"desc\": \"The noblewoman says 'Then let her suffer' and strikes Juliana with the riding crop.\"\n    },\n    {\n      \"start\": \"00:57.80\",\n      \"end\": \"01:03.80\",\n      \"kind\": \"setup\",\n      \"desc\": \"The noblewoman whispers that Juliana should remember she is a servant while her hands are black with soot.\"\n    },\n    {\n      \"start\": \"01:21.20\",\n      \"end\": \"01:32.00\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Juliana reveals the hidden antidote in her pocket and vows that the healer cannot be stopped.\"\n    }\n  ]\n}",
+  "_model": "gemini:gemini-3-flash-preview"
+}

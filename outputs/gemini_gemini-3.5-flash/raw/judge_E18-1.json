@@ -1,0 +1,10 @@
+{
+  "what_happens": "Juliana's home burns down, she mourns with Alexander who vows revenge, ending on his determined stare into the flames",
+  "confusing": "nothing",
+  "first_3s_stop": 7,
+  "need_to_know_next": 8,
+  "understandable": 8,
+  "verdict": "post",
+  "_raw": "{\"what_happens\":\"Juliana's home burns down, she mourns with Alexander who vows revenge, ending on his determined stare into the flames\",\"confusing\":\"nothing\",\"first_3s_stop\":7,\"need_to_know_next\":8,\"understandable\":8,\"verdict\":\"post\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

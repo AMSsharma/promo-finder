@@ -1,0 +1,10 @@
+{
+  "what_happens": "A proud lord disowns his daughter\u2011in\u2011law, revokes her dowry, and a cruel aunt snatches a family ledger, sparking a tense showdown in a rain\u2011soaked gothic courtyard.",
+  "confusing": "The sudden appearance of the \"Mysterious Bearded Man\" and the quick shift to Lady Ashcroft\u2019s aggression are a bit abrupt.",
+  "first_3s_stop": 7,
+  "need_to_know_next": 8,
+  "understandable": 6,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"A proud lord disowns his daughter\u2011in\u2011law, revokes her dowry, and a cruel aunt snatches a family ledger, sparking a tense showdown in a rain\u2011soaked gothic courtyard.\",\"confusing\":\"The sudden appearance of the \\\"Mysterious Bearded Man\\\" and the quick shift to Lady Ashcroft\u2019s aggression are a bit abrupt.\",\"first_3s_stop\":7,\"need_to_know_next\":8,\"understandable\":6,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

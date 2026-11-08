@@ -1,0 +1,89 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Promo Finder: Solution Doc</title>
+<style>
+  @page { size: A4; margin: 13mm 14mm; }
+  body { font: 9.6pt/1.38 -apple-system, "Helvetica Neue", Arial, sans-serif; color: #1a1a1a; margin: 0; }
+  h1 { font-size: 15pt; margin: 0 0 2px; }
+  .sub { color: #555; margin: 0 0 8px; font-size: 9pt; }
+  h2 { font-size: 11pt; margin: 9px 0 3px; border-bottom: 1px solid #ccc; padding-bottom: 1px; }
+  p { margin: 3px 0; }
+  ul { margin: 2px 0 4px 16px; padding: 0; }
+  li { margin: 1px 0; }
+  table { border-collapse: collapse; width: 100%; margin: 3px 0 5px; font-size: 8.8pt; }
+  th, td { border: 1px solid #ccc; padding: 2px 5px; text-align: left; vertical-align: top; }
+  th { background: #f2f2f2; }
+  code { font-size: 8.6pt; background: #f4f4f4; padding: 0 2px; }
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+</style></head><body>
+
+<h1>Promo Finder: finding ad clips in microdrama screenplays</h1>
+<p class="sub">Problem 1 · Aditya Kumar Sharma · 230107009 · Chemical Engineering · Prototype: <a href="https://github.com/AMSsharma/promo-finder">GitHub</a> · Raw outputs: <a href="https://drive.google.com/drive/folders/1hauGMUAjFT1FfHRqa4Z8K9_OIHZbu29H?usp=drive_link">Drive</a></p>
+
+<h2>Why this problem</h2>
+<p>It's the most direct of the three: one person (a promo editor), one step (picking clips), and an output anyone can check by watching the clip.
+The screenplays already give a timestamp for every shot and line, so the tool can return exact cut points rather than vague suggestions. That makes the output usable for an editor and easy to measure.</p>
+
+<h2>Assumptions (where the brief was silent)</h2>
+<ul>
+<li>The timestamps in the screenplay match the final video closely enough to cut on. Every cut is snapped to a camera-shot boundary, which is where an editor would cut anyway.</li>
+<li>A promo's first 3 seconds count from the clip's first frame. The hook beat must start within 3 seconds of it.</li>
+<li>New viewers who tap a promo land on Episode 1. So the ranking gives a small bonus to promos from early episodes: they pay off sooner and spoil less. The title already gives away the duke reveal, so that isn't treated as a spoiler.</li>
+<li>Multi-segment promos (from one episode or several) are joined in story order, with no editing beyond the cuts.</li>
+<li>A human editor makes the final call. The tool produces a ranked shortlist, not finished posts.</li>
+</ul>
+
+<h2>How it works</h2>
+<table>
+<tr><th>Step</th><th>Done by</th><th>Why that split</th></tr>
+<tr><td>1. Parse each script into 3,727 timed beats (shot / action / sound / line)</td><td>code</td><td>Exact and free. The model never has to invent timestamps from scratch.</td></tr>
+<tr><td>2. Propose up to 3 promos per episode, plus 2–4 "moments" for stitching</td><td>LLM, 1 call per episode</td><td>Judging what is dramatic needs language understanding.</td></tr>
+<tr><td>3. Snap cuts to shot boundaries, never cut mid-line, force 20–60s</td><td>code</td><td>Models get timestamps slightly wrong. Rules here are cheap and certain.</td></tr>
+<tr><td>4. Flag <code>hook_late</code>, <code>slow_open</code>, <code>soft_ending</code>, <code>many_characters</code></td><td>code</td><td>Explainable checks that catch the model's typical mistakes.</td></tr>
+<tr><td>5. Stitch moments from different episodes into premise promos</td><td>LLM, 1 call</td><td>For example "jilted at the altar → stranger proposes", the way ReelShort-style ads compress a show.</td></tr>
+<tr><td>6. Cold-viewer judge: a fresh call sees <i>only the clip</i> and rates hook, need-to-know-next and clarity</td><td>LLM, 1 call per top clip</td><td>The proposer has read the whole show and over-rates clips that need context.</td></tr>
+<tr><td>7. Rank: 0.40·hook + 0.35·cliffhanger + 0.25·standalone − flag penalties + early-episode bonus. Drop near-duplicates, max 2 per episode</td><td>code</td><td>Weights are visible and easy to argue with, not hidden in a prompt.</td></tr>
+</table>
+<p>The model is swapped with one flag (<code>--provider gemini|groq|openai|anthropic</code>, <code>--model …</code>); <code>openai</code> covers any compatible gateway. <code>--provider rules</code> runs fully offline and doubles as the baseline the model must beat. Responses are cached, so re-runs are free. The tool uses only the Python standard library.</p>
+
+<h2>Results on the full input pack (50 episodes, ~103 min of show)</h2>
+<p>About 100 model calls over ~20 minutes of wall time on free tiers produced 144 candidates: 138 single-episode and 6 stitched across episodes. Free quotas ran out mid-run, so the answers came from several models: Groq <code>gpt-oss-120b</code> 67, Gemini 3.5/3.7/3 Flash 26, Groq <code>qwen3.8-27b</code> 7. That's one flag to change, and <code>report.md</code> records which model answered each call. The "post these first" list:</p>
+<table>
+<tr><th>#</th><th>Cut</th><th>Hook (first 3s)</th><th>Cliffhanger</th><th>Why post it here</th></tr>
+<tr><td>1</td><td>Ep 12 00:43.70–01:27.21 (44s)</td><td>"I want to see you crawl, sister."</td><td>Juliana accepts the cruel trial; it cuts before she reaches into the thorns</td><td>Clear villain, impossible choice, stakes a stranger gets in seconds</td></tr>
+<tr><td>2</td><td>Ep 18 02:14.50–03:12.00 (58s)</td><td>Cottage in flames: "Everything we had is gone."</td><td>"What are you going to do?" as he stares into the fire</td><td>The only clip the cold viewer marked "post"; promises revenge</td></tr>
+<tr><td>3</td><td>Ep 15 00:46.50–01:26.00 (40s)</td><td>Thug shoves her down; her bandages bleed</td><td>"You want to fight us, veteran?"</td><td>Cuts the instant before the fight; matches my reference pick (overlap 0.96)</td></tr>
+<tr><td>4</td><td>Ep 25 00:22.80–01:22.50 (60s)</td><td>"Who did this?" over a bloody welt</td><td>She whispers: "Poison."</td><td>One-word reveal ending; mystery plus protector</td></tr>
+<tr><td>5</td><td>Ep 41 00:00.00–00:57.80 (58s)</td><td>"Wait." Heroine paraded in chains at a wedding</td><td>The cathedral doors explode; armed figures in the smoke</td><td>Peak spectacle. Late in the show, so it's posted after the early-episode clips</td></tr>
+</table>
+
+<h2>How I know it's good, and where it picks badly</h2>
+<div class="two"><div>
+<table>
+<tr><th>Check (7 reference picks I made by reading 6 episodes)</th><th>Rules only</th><th>LLM pipeline</th></tr>
+<tr><td>Reference picks found among candidates (overlap ≥ 0.5)</td><td>5/7</td><td><b>6/7</b></td></tr>
+<tr><td>Reference picks in the top 10</td><td>1/7</td><td>1/7</td></tr>
+<tr><td>Cuts needing a snap / moved &gt;3s / still mid-line</td><td>n/a</td><td>91 / 12 / 3 of 144</td></tr>
+<tr><td>Cold viewer on 49 clips: post / maybe / skip</td><td>n/a</td><td>1 / 40 / 8</td></tr>
+</table>
+<p>The model beats the rules at <i>finding</i> moments. The rules ranked "a guard kneels to pass bread" #4 because "kneels" is a hook word. Neither ranks them well yet. 7 picks by one person is a small yardstick; a Kuku editor's own labels go in <code>gold.json</code>.</p>
+</div><div>
+<ul>
+<li><b>Misses the premise.</b> The altar betrayal (Ep 1) and the proposal (Ep 3) sell the title, but neither made the top 10. The Ep 1 clip started 23s late, after the reveal line. Self-scores bunch at 8–10, so tiny differences decide the order. Next fix: ask "which of these two would you post?" instead of 1–10 scores.</li>
+<li><b>Grades its own work too kindly.</b> For 24 of 49 judged clips, the proposer's "makes sense alone" score was 3+ points above the cold viewer's. At first all 10 top picks were unjudged clips, because judging only ever lowered scores. Fixed: everything in the final top 10 is judged.</li>
+<li><b>The judge is too lenient</b> (40 of 49 "maybe") and complains about "overlapping timestamps": it reads a script, not a video.</li>
+<li><b>The ending rule is noisy.</b> 82 of 144 flagged <code>soft_ending</code>; a silent stare into flames can be a fine ending. The model also called a "villain left speechless" a cliffhanger until I tightened the prompt.</li>
+<li><b>Stitched promos are weak:</b> all 6 flagged, none in the top 10. A tender romance clip (#6) ranks high with no conflict in it.</li>
+</ul>
+</div></div>
+
+<h2>Scale, cost and the human in the loop</h2>
+<ul>
+<li><b>Per show:</b> ~100 calls, ~230k input and ~40k output tokens. At paid Flash-class rates that is well under $1 per 50-episode show (estimate). Calls per episode are independent, so a paid tier can run them in parallel and finish in minutes. A new show is a new folder, with no code changes.</li>
+<li><b>Free tiers</b> cap requests per model per day (20 for gemini-2.5-flash, which stopped my first run at episode 10) and tokens per minute (8k on Groq). The tool retries busy calls, moves to backup models, drops models whose daily quota is gone, and caches every answer, so a re-run costs nothing.</li>
+<li><b>Editor's job:</b> review a ranked shortlist with hooks, cliffhangers and flags instead of watching 100 minutes. Their keep/reject decisions become labels to tune the weights. Real success is measured on posted promos: thumb-stop rate, click-through and cost per install vs editor-picked promos.</li>
+</ul>
+
+<h2>AI tools used, and where they got it wrong</h2>
+<p>Claude Code and Antigravity helped structure the pipeline and author this documentation; Gemini and Groq models served as the inference engine. <b>Where they got it wrong:</b> Gemini's internal reasoning tokens exhausted its output window, causing cold-viewer evaluation responses to truncate mid-JSON. Additionally, early AI-generated rate-limit handlers conflated transient 429/busy responses with complete quota exhaustion, stalling the 50-episode run until custom exponential backoff and model rotation were introduced.</p>
+
+</body></html>

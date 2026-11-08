@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:20.10",
+      "end": "00:48.00",
+      "hook_time": "00:21.00",
+      "hook": "Catherine mocks, \"Your mother's little book of weeds?\"",
+      "hook_type": "humiliation",
+      "cliffhanger": "Catherine leans in and whispers, \"I can burn it,\" leaving the fate of the herbarium hanging.",
+      "why": "A villain\u2019s cruel threat to destroy the heroine\u2019s only legacy creates instant tension and makes viewers want to see if she can stop it.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "01:26.50",
+      "end": "01:49.00",
+      "hook_time": "01:26.50",
+      "hook": "The heavy iron door slams shut with a deafening thud as Juliana cries, \"Please!\"",
+      "hook_type": "threat",
+      "cliffhanger": "The clip ends on Juliana kneeling in the dark cell, her desperate pleas unheard, leaving her fate unknown.",
+      "why": "The visceral confinement and raw pleading hook viewers emotionally and leave the outcome unresolved.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 8,
+        "standalone": 7
+      }
+    },
+    {
+      "start": "01:04.50",
+      "end": "01:26.50",
+      "hook_time": "01:04.50",
+      "hook": "Catherine coldly says, \"You were cast out once.\"",
+      "hook_type": "humiliation",
+      "cliffhanger": "Just as the massive iron door swings open and guards prepare to shove Juliana inside, the clip cuts before she is forced in.",
+      "why": "A chilling reminder of Juliana\u2019s past combined with the imminent physical danger builds suspense that compels viewers to watch more.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 8,
+        "standalone": 8
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:21.00",
+      "end": "00:24.80",
+      "kind": "hook",
+      "desc": "Catherine mocks, \"Your mother's little book of weeds?\""
+    },
+    {
+      "start": "00:46.90",
+      "end": "00:49.10",
+      "kind": "cliffhanger",
+      "desc": "Catherine whispers, \"I can burn it,\" threatening the herbarium."
+    },
+    {
+      "start": "01:33.70",
+      "end": "01:35.50",
+      "kind": "setup",
+      "desc": "Juliana sobbing, \"Mother...\" showing her deep grief."
+    },
+    {
+      "start": "01:49.00",
+      "end": "01:52.60",
+      "kind": "cliffhanger",
+      "desc": "Juliana V.O. declares, \"They took her locket. But they will not take Alexander from me.\""
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:20.10\",\n      \"end\": \"00:48.00\",\n      \"hook_time\": \"00:21.00\",\n      \"hook\": \"Catherine mocks, \\\"Your mother's little book of weeds?\\\"\",\n      \"hook_type\": \"humiliation\",\n      \"cliffhanger\": \"Catherine leans in and whispers, \\\"I can burn it,\\\" leaving the fate of the herbarium hanging.\",\n      \"why\": \"A villain\u2019s cruel threat to destroy the heroine\u2019s only legacy creates instant tension and makes viewers want to see if she can stop it.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 9, \"cliffhanger\": 9, \"standalone\": 8}\n    },\n    {\n      \"start\": \"01:26.50\",\n      \"end\": \"01:49.00\",\n      \"hook_time\": \"01:26.50\",\n      \"hook\": \"The heavy iron door slams shut with a deafening thud as Juliana cries, \\\"Please!\\\"\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"The clip ends on Juliana kneeling in the dark cell, her desperate pleas unheard, leaving her fate unknown.\",\n      \"why\": \"The visceral confinement and raw pleading hook viewers emotionally and leave the outcome unresolved.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 8, \"cliffhanger\": 8, \"standalone\": 7}\n    },\n    {\n      \"start\": \"01:04.50\",\n      \"end\": \"01:26.50\",\n      \"hook_time\": \"01:04.50\",\n      \"hook\": \"Catherine coldly says, \\\"You were cast out once.\\\"\",\n      \"hook_type\": \"humiliation\",\n      \"cliffhanger\": \"Just as the massive iron door swings open and guards prepare to shove Juliana inside, the clip cuts before she is forced in.\",\n      \"why\": \"A chilling reminder of Juliana\u2019s past combined with the imminent physical danger builds suspense that compels viewers to watch more.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\"hook\": 8, \"cliffhanger\": 8, \"standalone\": 8}\n    }\n  ],\n  \"moments\": [\n    {\"start\": \"00:21.00\", \"end\": \"00:24.80\", \"kind\": \"hook\", \"desc\": \"Catherine mocks, \\\"Your mother's little book of weeds?\\\"\"},\n    {\"start\": \"00:46.90\", \"end\": \"00:49.10\", \"kind\": \"cliffhanger\", \"desc\": \"Catherine whispers, \\\"I can burn it,\\\" threatening the herbarium.\"},\n    {\"start\": \"01:33.70\", \"end\": \"01:35.50\", \"kind\": \"setup\", \"desc\": \"Juliana sobbing, \\\"Mother...\\\" showing her deep grief.\"},\n    {\"start\": \"01:49.00\", \"end\": \"01:52.60\", \"kind\": \"cliffhanger\", \"desc\": \"Juliana V.O. declares, \\\"They took her locket. But they will not take Alexander from me.\\\"\"}\n  ]\n}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

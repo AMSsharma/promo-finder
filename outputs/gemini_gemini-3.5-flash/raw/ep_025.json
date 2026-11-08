@@ -1,0 +1,71 @@
+{
+  "candidates": [
+    {
+      "start": "00:13.20",
+      "end": "00:57.20",
+      "hook_time": "00:13.20",
+      "hook": "Alexander firmly grasps Juliana's shoulder and she gasps in sudden pain.",
+      "hook_type": "violence",
+      "cliffhanger": "Juliana reveals she was inside the manor to help 'The Dowager Duchess.'",
+      "why": "It establishes immediate physical stakes with the injury and ends on a high-status character reveal.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 8,
+        "standalone": 10
+      }
+    },
+    {
+      "start": "00:24.00",
+      "end": "01:21.80",
+      "hook_time": "00:24.00",
+      "hook": "Alexander demands 'Who did this?' while staring at a raw, bloody welt on Juliana's shoulder.",
+      "hook_type": "shocking line",
+      "cliffhanger": "Juliana whispers the word 'Poison.'",
+      "why": "This covers the full arc from the physical abuse to the discovery of the murder plot.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 10,
+        "cliffhanger": 9,
+        "standalone": 9
+      }
+    },
+    {
+      "start": "01:40.40",
+      "end": "02:22.40",
+      "hook_time": "01:45.60",
+      "hook": "Alexander's incredulous reaction to Juliana treating the Dowager: 'You treated her?'",
+      "hook_type": "reveal",
+      "cliffhanger": "Alexander's terrified warning: 'They could have killed you.'",
+      "why": "Focuses on the romantic tension and the high stakes of Juliana's secret medical skills.",
+      "context_needed": "A new viewer needs to know Juliana is secretly skilled in medicine.",
+      "scores": {
+        "hook": 7,
+        "cliffhanger": 8,
+        "standalone": 8
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:18.80",
+      "end": "00:25.50",
+      "kind": "hook",
+      "desc": "Visual reveal of the riding-crop laceration and Alexander's dangerous fury."
+    },
+    {
+      "start": "01:14.20",
+      "end": "01:25.00",
+      "kind": "reveal",
+      "desc": "Juliana reveals the Dowager is being systematically poisoned with arsenic."
+    },
+    {
+      "start": "02:08.20",
+      "end": "02:13.80",
+      "kind": "cliffhanger",
+      "desc": "Alexander's fierce reproach about the danger Juliana is in at the house."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:13.20\",\n      \"end\": \"00:57.20\",\n      \"hook_time\": \"00:13.20\",\n      \"hook\": \"Alexander firmly grasps Juliana's shoulder and she gasps in sudden pain.\",\n      \"hook_type\": \"violence\",\n      \"cliffhanger\": \"Juliana reveals she was inside the manor to help 'The Dowager Duchess.'\",\n      \"why\": \"It establishes immediate physical stakes with the injury and ends on a high-status character reveal.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 8,\n        \"standalone\": 10\n      }\n    },\n    {\n      \"start\": \"00:24.00\",\n      \"end\": \"01:21.80\",\n      \"hook_time\": \"00:24.00\",\n      \"hook\": \"Alexander demands 'Who did this?' while staring at a raw, bloody welt on Juliana's shoulder.\",\n      \"hook_type\": \"shocking line\",\n      \"cliffhanger\": \"Juliana whispers the word 'Poison.'\",\n      \"why\": \"This covers the full arc from the physical abuse to the discovery of the murder plot.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 10,\n        \"cliffhanger\": 9,\n        \"standalone\": 9\n      }\n    },\n    {\n      \"start\": \"01:40.40\",\n      \"end\": \"02:22.40\",\n      \"hook_time\": \"01:45.60\",\n      \"hook\": \"Alexander's incredulous reaction to Juliana treating the Dowager: 'You treated her?'\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"Alexander's terrified warning: 'They could have killed you.'\",\n      \"why\": \"Focuses on the romantic tension and the high stakes of Juliana's secret medical skills.\",\n      \"context_needed\": \"A new viewer needs to know Juliana is secretly skilled in medicine.\",\n      \"scores\": {\n        \"hook\": 7,\n        \"cliffhanger\": 8,\n        \"standalone\": 8\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:18.80\",\n      \"end\": \"00:25.50\",\n      \"kind\": \"hook\",\n      \"desc\": \"Visual reveal of the riding-crop laceration and Alexander's dangerous fury.\"\n    },\n    {\n      \"start\": \"01:14.20\",\n      \"end\": \"01:25.00\",\n      \"kind\": \"reveal\",\n      \"desc\": \"Juliana reveals the Dowager is being systematically poisoned with arsenic.\"\n    },\n    {\n      \"start\": \"02:08.20\",\n      \"end\": \"02:13.80\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Alexander's fierce reproach about the danger Juliana is in at the house.\"\n    }\n  ]\n}",
+  "_model": "gemini:gemini-3-flash-preview"
+}

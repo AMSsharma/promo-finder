@@ -1,0 +1,10 @@
+{
+  "what_happens": "Juliana is forced to crawl through frozen, blood\u2011soaked thorns while Alexander and cruel onlookers taunt and restrain her husband.",
+  "confusing": "The roles of the Constable, Clarissa, and Gerald and why they are tormenting Juliana aren\u2019t clear, nor the reason for the garden search.",
+  "first_3s_stop": 7,
+  "need_to_know_next": 8,
+  "understandable": 5,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"Juliana is forced to crawl through frozen, blood\u2011soaked thorns while Alexander and cruel onlookers taunt and restrain her husband.\",\"confusing\":\"The roles of the Constable, Clarissa, and Gerald and why they are tormenting Juliana aren\u2019t clear, nor the reason for the garden search.\",\"first_3s_stop\":7,\"need_to_know_next\":8,\"understandable\":5,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

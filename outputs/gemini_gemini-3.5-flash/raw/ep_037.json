@@ -1,0 +1,77 @@
+{
+  "candidates": [
+    {
+      "start": "00:18.80",
+      "end": "00:34.50",
+      "hook_time": "00:19.00",
+      "hook": "Rupert leans in with venomous malice and says, 'And no one will question what happened to the woman who tried to stop us.'",
+      "hook_type": "threat",
+      "cliffhanger": "Catherine adds, 'Especially to the Ashcrofts,' implying a specific target for the terror, just before the scene cuts to the invitation being delivered.",
+      "why": "It establishes the villains' cold calculation and the dual threat of a wedding and an execution, creating immediate high stakes.",
+      "context_needed": "The viewer doesn't know who 'the woman' is or who the Ashcrofts are, but the tone clearly signals a conspiracy against a specific victim.",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 7,
+        "standalone": 6
+      }
+    },
+    {
+      "start": "01:32.00",
+      "end": "01:56.50",
+      "hook_time": "01:32.00",
+      "hook": "A close-up of a bruised, shackled hand trembling inches from a dirty bowl of murky liquid, then pulling away in defiance.",
+      "hook_type": "violence",
+      "cliffhanger": "Juliana grips the iron ring and declares, 'They cannot take who I am!' leaving the viewer to wonder if her defiance will save her or hasten her death.",
+      "why": "The visual of starvation and chains is visceral and instantly sympathetic, while the defiant speech provides a strong emotional hook for the hero.",
+      "context_needed": "The viewer doesn't know Juliana's name or why she is there, but the visual language of 'wronged heroine in prison' is universally understood.",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 8,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "00:53.00",
+      "end": "01:12.50",
+      "hook_time": "00:54.00",
+      "hook": "Lady Clarissa unfolds a second page of the invitation and says, 'And after the ceremony...' with intrigue.",
+      "hook_type": "reveal",
+      "cliffhanger": "Clarissa states, 'Not just an execution. A warning,' leaving the specific nature of the warning and the target ambiguous.",
+      "why": "It reveals the shocking detail that the wedding invitation includes an execution clause, turning a social event into a public spectacle of violence.",
+      "context_needed": "The viewer needs to infer that the 'condemned' is the same woman the villains are targeting, which is implied by the tone.",
+      "scores": {
+        "hook": 7,
+        "cliffhanger": 7,
+        "standalone": 6
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:19.00",
+      "end": "00:26.40",
+      "kind": "hook",
+      "desc": "Rupert and Catherine plot the execution of the woman who tried to stop them, stating it will be a 'feast for our guests' after the wedding."
+    },
+    {
+      "start": "01:36.00",
+      "end": "01:47.80",
+      "kind": "hook",
+      "desc": "Juliana, starving and shackled, whispers that they think hunger will make her surrender, then snaps open her eyes and gasps, 'I will not!'"
+    },
+    {
+      "start": "00:58.50",
+      "end": "01:01.80",
+      "kind": "reveal",
+      "desc": "The nobleman reads the invitation and realizes in awe, 'The sentencing of the condemned,' revealing the execution clause attached to the wedding invite."
+    },
+    {
+      "start": "02:22.50",
+      "end": "02:26.50",
+      "kind": "cliffhanger",
+      "desc": "Lady Clarissa drinks wine and proclaims, 'Let them see what happens when a woman forgets her place,' ending on a chilling threat."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:18.80\",\n      \"end\": \"00:34.50\",\n      \"hook_time\": \"00:19.00\",\n      \"hook\": \"Rupert leans in with venomous malice and says, 'And no one will question what happened to the woman who tried to stop us.'\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"Catherine adds, 'Especially to the Ashcrofts,' implying a specific target for the terror, just before the scene cuts to the invitation being delivered.\",\n      \"why\": \"It establishes the villains' cold calculation and the dual threat of a wedding and an execution, creating immediate high stakes.\",\n      \"context_needed\": \"The viewer doesn't know who 'the woman' is or who the Ashcrofts are, but the tone clearly signals a conspiracy against a specific victim.\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 7,\n        \"standalone\": 6\n      }\n    },\n    {\n      \"start\": \"01:32.00\",\n      \"end\": \"01:56.50\",\n      \"hook_time\": \"01:32.00\",\n      \"hook\": \"A close-up of a bruised, shackled hand trembling inches from a dirty bowl of murky liquid, then pulling away in defiance.\",\n      \"hook_type\": \"violence\",\n      \"cliffhanger\": \"Juliana grips the iron ring and declares, 'They cannot take who I am!' leaving the viewer to wonder if her defiance will save her or hasten her death.\",\n      \"why\": \"The visual of starvation and chains is visceral and instantly sympathetic, while the defiant speech provides a strong emotional hook for the hero.\",\n      \"context_needed\": \"The viewer doesn't know Juliana's name or why she is there, but the visual language of 'wronged heroine in prison' is universally understood.\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 8,\n        \"standalone\": 8\n      }\n    },\n    {\n      \"start\": \"00:53.00\",\n      \"end\": \"01:12.50\",\n      \"hook_time\": \"00:54.00\",\n      \"hook\": \"Lady Clarissa unfolds a second page of the invitation and says, 'And after the ceremony...' with intrigue.\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"Clarissa states, 'Not just an execution. A warning,' leaving the specific nature of the warning and the target ambiguous.\",\n      \"why\": \"It reveals the shocking detail that the wedding invitation includes an execution clause, turning a social event into a public spectacle of violence.\",\n      \"context_needed\": \"The viewer needs to infer that the 'condemned' is the same woman the villains are targeting, which is implied by the tone.\",\n      \"scores\": {\n        \"hook\": 7,\n        \"cliffhanger\": 7,\n        \"standalone\": 6\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:19.00\",\n      \"end\": \"00:26.40\",\n      \"kind\": \"hook\",\n      \"desc\": \"Rupert and Catherine plot the execution of the woman who tried to stop them, stating it will be a 'feast for our guests' after the wedding.\"\n    },\n    {\n      \"start\": \"01:36.00\",\n      \"end\": \"01:47.80\",\n      \"kind\": \"hook\",\n      \"desc\": \"Juliana, starving and shackled, whispers that they think hunger will make her surrender, then snaps open her eyes and gasps, 'I will not!'\"\n    },\n    {\n      \"start\": \"00:58.50\",\n      \"end\": \"01:01.80\",\n      \"kind\": \"reveal\",\n      \"desc\": \"The nobleman reads the invitation and realizes in awe, 'The sentencing of the condemned,' revealing the execution clause attached to the wedding invite.\"\n    },\n    {\n      \"start\": \"02:22.50\",\n      \"end\": \"02:26.50\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Lady Clarissa drinks wine and proclaims, 'Let them see what happens when a woman forgets her place,' ending on a chilling threat.\"\n    }\n  ]\n}",
+  "_model": "groq:qwen/qwen3.8-27b"
+}

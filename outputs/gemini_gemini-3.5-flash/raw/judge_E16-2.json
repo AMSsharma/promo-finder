@@ -1,0 +1,10 @@
+{
+  "what_happens": "Alexander overpowers a thug, learns the thug was hired by Gerald Harrington, and shares a tense, bloodied moment with Juliana in a ruined garden.",
+  "confusing": "The relationship between Alexander, Juliana, and the garden, and why Gerald hired the thug are unclear.",
+  "first_3s_stop": 7,
+  "need_to_know_next": 6,
+  "understandable": 5,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"Alexander overpowers a thug, learns the thug was hired by Gerald Harrington, and shares a tense, bloodied moment with Juliana in a ruined garden.\",\"confusing\":\"The relationship between Alexander, Juliana, and the garden, and why Gerald hired the thug are unclear.\",\"first_3s_stop\":7,\"need_to_know_next\":6,\"understandable\":5,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

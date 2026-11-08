@@ -1,0 +1,10 @@
+{
+  "what_happens": "Catherine violently snatches a family locket from a crying Juliana, tosses it aside, and then discovers a mysterious herbarium bearing Juliana's name.",
+  "confusing": "The relationship between Catherine and Juliana and why Catherine is so cruel isn\u2019t explained; also the sudden shift to a book feels abrupt.",
+  "first_3s_stop": 4,
+  "need_to_know_next": 7,
+  "understandable": 6,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"Catherine violently snatches a family locket from a crying Juliana, tosses it aside, and then discovers a mysterious herbarium bearing Juliana's name.\",\"confusing\":\"The relationship between Catherine and Juliana and why Catherine is so cruel isn\u2019t explained; also the sudden shift to a book feels abrupt.\",\"first_3s_stop\":4,\"need_to_know_next\":7,\"understandable\":6,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

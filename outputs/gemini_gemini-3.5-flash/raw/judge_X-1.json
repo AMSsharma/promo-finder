@@ -1,0 +1,10 @@
+{
+  "what_happens": "A groom publicly rejects Juliana at a wedding, choosing another woman, while her father coldly tells her to accept it.",
+  "confusing": "The timestamps jump around (00:39, then 00:00, then 00:30) and characters are labeled inconsistently, making the sequence hard to follow.",
+  "first_3s_stop": 7,
+  "need_to_know_next": 8,
+  "understandable": 5,
+  "verdict": "skip",
+  "_raw": "{\"what_happens\":\"A groom publicly rejects Juliana at a wedding, choosing another woman, while her father coldly tells her to accept it.\",\"confusing\":\"The timestamps jump around (00:39, then 00:00, then 00:30) and characters are labeled inconsistently, making the sequence hard to follow.\",\"first_3s_stop\":7,\"need_to_know_next\":8,\"understandable\":5,\"verdict\":\"skip\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

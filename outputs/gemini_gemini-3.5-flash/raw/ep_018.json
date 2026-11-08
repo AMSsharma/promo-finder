@@ -1,0 +1,71 @@
+{
+  "candidates": [
+    {
+      "start": "02:14.50",
+      "end": "03:06.50",
+      "hook_time": "02:14.50",
+      "hook": "Towering flames consume the cottage as a soot-covered Juliana weeps, 'Our home... Everything we had is gone.'",
+      "hook_type": "shocking line",
+      "cliffhanger": "Juliana asks in apprehension, 'What are you going to do?' as Alexander stares into the fire with cold, lethal fury.",
+      "why": "It delivers high emotional devastation followed by the irresistible promise of dark, protective vengeance from an elite soldier.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 9
+      }
+    },
+    {
+      "start": "00:19.50",
+      "end": "01:15.00",
+      "hook_time": "00:19.50",
+      "hook": "The bedroom door crashes open violently and Alexander bursts through the roaring blaze yelling, 'Juliana! Get up!'",
+      "hook_type": "rescue",
+      "cliffhanger": "A massive burning crossbeam collapses in a fiery explosion, cutting right as Alexander roars in terror: 'Juliana!'",
+      "why": "Non-stop physical peril that immediately grips the audience and cuts at the exact split second Juliana is about to be crushed by falling fire.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    },
+    {
+      "start": "00:56.20",
+      "end": "01:26.50",
+      "hook_time": "00:56.20",
+      "hook": "Juliana spots her keepsake in the inferno and screams 'The ledger!', fighting Alexander as he orders 'Leave it!'",
+      "hook_type": "threat",
+      "cliffhanger": "A burning rafter violently splits overhead and Juliana lets out a blood-curdling scream of 'Alexander!' as danger falls.",
+      "why": "A rapid 30-second burst of adrenaline highlighting her emotional attachment to her mother's ledger and an immediate life-or-death crisis.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 9,
+        "standalone": 8
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:19.50",
+      "end": "00:28.90",
+      "kind": "hook",
+      "desc": "Alexander kicks the burning bedroom door down and rushes through smoke to hoist Juliana out of bed."
+    },
+    {
+      "start": "01:21.50",
+      "end": "01:30.00",
+      "kind": "cliffhanger",
+      "desc": "A flaming rafter splits above Juliana and Alexander dives across the room to tackle her before it crushes her."
+    },
+    {
+      "start": "02:51.00",
+      "end": "03:06.50",
+      "kind": "cliffhanger",
+      "desc": "Alexander coldly vows vengeance against those who burned their home, leaving Juliana to ask what he plans to do."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"02:14.50\",\n      \"end\": \"03:06.50\",\n      \"hook_time\": \"02:14.50\",\n      \"hook\": \"Towering flames consume the cottage as a soot-covered Juliana weeps, 'Our home... Everything we had is gone.'\",\n      \"hook_type\": \"shocking line\",\n      \"cliffhanger\": \"Juliana asks in apprehension, 'What are you going to do?' as Alexander stares into the fire with cold, lethal fury.\",\n      \"why\": \"It delivers high emotional devastation followed by the irresistible promise of dark, protective vengeance from an elite soldier.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 9,\n        \"standalone\": 9\n      }\n    },\n    {\n      \"start\": \"00:19.50\",\n      \"end\": \"01:15.00\",\n      \"hook_time\": \"00:19.50\",\n      \"hook\": \"The bedroom door crashes open violently and Alexander bursts through the roaring blaze yelling, 'Juliana! Get up!'\",\n      \"hook_type\": \"rescue\",\n      \"cliffhanger\": \"A massive burning crossbeam collapses in a fiery explosion, cutting right as Alexander roars in terror: 'Juliana!'\",\n      \"why\": \"Non-stop physical peril that immediately grips the audience and cuts at the exact split second Juliana is about to be crushed by falling fire.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 9,\n        \"standalone\": 8\n      }\n    },\n    {\n      \"start\": \"00:56.20\",\n      \"end\": \"01:26.50\",\n      \"hook_time\": \"00:56.20\",\n      \"hook\": \"Juliana spots her keepsake in the inferno and screams 'The ledger!', fighting Alexander as he orders 'Leave it!'\",\n      \"hook_type\": \"threat\",\n      \"cliffhanger\": \"A burning rafter violently splits overhead and Juliana lets out a blood-curdling scream of 'Alexander!' as danger falls.\",\n      \"why\": \"A rapid 30-second burst of adrenaline highlighting her emotional attachment to her mother's ledger and an immediate life-or-death crisis.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 9,\n        \"standalone\": 8\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:19.50\",\n      \"end\": \"00:28.90\",\n      \"kind\": \"hook\",\n      \"desc\": \"Alexander kicks the burning bedroom door down and rushes through smoke to hoist Juliana out of bed.\"\n    },\n    {\n      \"start\": \"01:21.50\",\n      \"end\": \"01:30.00\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"A flaming rafter splits above Juliana and Alexander dives across the room to tackle her before it crushes her.\"\n    },\n    {\n      \"start\": \"02:51.00\",\n      \"end\": \"03:06.50\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Alexander coldly vows vengeance against those who burned their home, leaving Juliana to ask what he plans to do.\"\n    }\n  ]\n}",
+  "_model": "gemini:gemini-3.7-flash"
+}

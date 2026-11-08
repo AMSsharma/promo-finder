@@ -1,0 +1,10 @@
+{
+  "what_happens": "A priest and a woman engage in a secret, sensual encounter that is discovered by a terrified nun.",
+  "confusing": "nothing",
+  "first_3s_stop": 7,
+  "need_to_know_next": 8,
+  "understandable": 9,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"A priest and a woman engage in a secret, sensual encounter that is discovered by a terrified nun.\",\"confusing\":\"nothing\",\"first_3s_stop\":7,\"need_to_know_next\":8,\"understandable\":9,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

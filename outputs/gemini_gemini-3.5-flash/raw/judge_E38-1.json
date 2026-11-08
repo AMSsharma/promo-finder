@@ -1,0 +1,10 @@
+{
+  "what_happens": "A compassionate guard slips a loaf of bread to a starving, shackled prisoner who gratefully eats it while thinking of a loved one.",
+  "confusing": "nothing",
+  "first_3s_stop": 3,
+  "need_to_know_next": 7,
+  "understandable": 8,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"A compassionate guard slips a loaf of bread to a starving, shackled prisoner who gratefully eats it while thinking of a loved one.\",\"confusing\":\"nothing\",\"first_3s_stop\":3,\"need_to_know_next\":7,\"understandable\":8,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

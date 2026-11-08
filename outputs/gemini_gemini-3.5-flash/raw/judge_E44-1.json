@@ -1,0 +1,10 @@
+{
+  "what_happens": "A police constable arrests Lord Sterling in a ruined cathedral, sparking a dramatic, tear\u2011filled confrontation between Catherine and Alexander.",
+  "confusing": "It\u2019s unclear who Rupert is, why Catherine is in a wedding aisle, and why Alexander is so detached; the setting and relationships are vague.",
+  "first_3s_stop": 3,
+  "need_to_know_next": 7,
+  "understandable": 5,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"A police constable arrests Lord Sterling in a ruined cathedral, sparking a dramatic, tear\u2011filled confrontation between Catherine and Alexander.\",\"confusing\":\"It\u2019s unclear who Rupert is, why Catherine is in a wedding aisle, and why Alexander is so detached; the setting and relationships are vague.\",\"first_3s_stop\":3,\"need_to_know_next\":7,\"understandable\":5,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

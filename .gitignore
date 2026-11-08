@@ -1,0 +1,7 @@
+.env
+__pycache__/
+outputs/.cache/
+# Kuku's screenplays are confidential: never commit them.
+*.txt
+~$*
+.DS_Store

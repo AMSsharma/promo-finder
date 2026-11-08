@@ -1,0 +1,10 @@
+{
+  "what_happens": "Alexander single\u2011handedly defeats three thugs while protecting a wounded Juliana in a moonlit garden.",
+  "confusing": "The clip starts mid\u2011action with no intro, so the relationship between Alexander, Juliana and the thugs is unclear.",
+  "first_3s_stop": 4,
+  "need_to_know_next": 7,
+  "understandable": 5,
+  "verdict": "maybe",
+  "_raw": "{\"what_happens\":\"Alexander single\u2011handedly defeats three thugs while protecting a wounded Juliana in a moonlit garden.\",\"confusing\":\"The clip starts mid\u2011action with no intro, so the relationship between Alexander, Juliana and the thugs is unclear.\",\"first_3s_stop\":4,\"need_to_know_next\":7,\"understandable\":5,\"verdict\":\"maybe\"}",
+  "_model": "groq:openai/gpt-oss-120b"
+}

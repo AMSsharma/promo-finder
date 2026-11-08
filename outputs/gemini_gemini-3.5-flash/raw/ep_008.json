@@ -1,0 +1,35 @@
+{
+  "candidates": [
+    {
+      "start": "00:25.00",
+      "end": "01:04.30",
+      "hook_time": "00:28.10",
+      "hook": "Juliana reaches out to touch Alexander's face offering 'I could trim them for you,' but he catches her wrist midair and murmurs 'Not yet.'",
+      "hook_type": "romance",
+      "cliffhanger": "Juliana asks about his facial scars ('were they from the war?'), and Alexander cryptically answers 'Some were,' leaving the dark origin of his other scars unexplained.",
+      "why": "It opens with immediate physical touch and boundary tension between the lead couple, moving into cozy banter before ending on a compelling mystery about the hero's past trauma.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 8,
+        "cliffhanger": 7,
+        "standalone": 8
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:28.10",
+      "end": "00:35.50",
+      "kind": "hook",
+      "desc": "Juliana reaches out to trim Alexander's beard, but he catches her wrist in midair."
+    },
+    {
+      "start": "00:59.80",
+      "end": "01:04.30",
+      "kind": "cliffhanger",
+      "desc": "Juliana asks if his facial scars are from the war, and Alexander cryptically answers 'Some were.'"
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:25.00\",\n      \"end\": \"01:04.30\",\n      \"hook_time\": \"00:28.10\",\n      \"hook\": \"Juliana reaches out to touch Alexander's face offering 'I could trim them for you,' but he catches her wrist midair and murmurs 'Not yet.'\",\n      \"hook_type\": \"romance\",\n      \"cliffhanger\": \"Juliana asks about his facial scars ('were they from the war?'), and Alexander cryptically answers 'Some were,' leaving the dark origin of his other scars unexplained.\",\n      \"why\": \"It opens with immediate physical touch and boundary tension between the lead couple, moving into cozy banter before ending on a compelling mystery about the hero's past trauma.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 8,\n        \"cliffhanger\": 7,\n        \"standalone\": 8\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:28.10\",\n      \"end\": \"00:35.50\",\n      \"kind\": \"hook\",\n      \"desc\": \"Juliana reaches out to trim Alexander's beard, but he catches her wrist in midair.\"\n    },\n    {\n      \"start\": \"00:59.80\",\n      \"end\": \"01:04.30\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Juliana asks if his facial scars are from the war, and Alexander cryptically answers 'Some were.'\"\n    }\n  ]\n}",
+  "_model": "gemini:gemini-3.5-flash"
+}

@@ -1,0 +1,47 @@
+{
+  "candidates": [
+    {
+      "start": "00:43.00",
+      "end": "01:25.50",
+      "hook_time": "00:44.30",
+      "hook": "An operative steps from the misty forest and bows deferentially to Alexander, addressing him: \"Your Grace.\"",
+      "hook_type": "reveal",
+      "cliffhanger": "Alexander clenches his fist in fury upon hearing his mother is captive and rivals stole his seat, but the clip cuts right when his informant asks: \"And when we have the proof?\"",
+      "why": "It delivers the explosive identity reveal that this scarred common soldier is actually a Duke, followed immediately by high-stakes usurpation drama.",
+      "context_needed": "none",
+      "scores": {
+        "hook": 9,
+        "cliffhanger": 8,
+        "standalone": 9
+      }
+    }
+  ],
+  "moments": [
+    {
+      "start": "00:43.00",
+      "end": "00:49.20",
+      "kind": "hook",
+      "desc": "A mysterious agent bows in the fog, addressing Alexander as 'Your Grace' before Alexander demands an update on Ashburg."
+    },
+    {
+      "start": "01:13.30",
+      "end": "01:23.80",
+      "kind": "setup",
+      "desc": "Alexander learns his mother is a prisoner and that everyone believes he is dead, resolving to let them believe it."
+    },
+    {
+      "start": "01:21.20",
+      "end": "01:29.50",
+      "kind": "cliffhanger",
+      "desc": "Alexander delivers a cold promise of vengeance: 'Then Ashburg will remember who it belongs to.'"
+    },
+    {
+      "start": "00:00.00",
+      "end": "00:09.50",
+      "kind": "setup",
+      "desc": "Juliana clutches her scorched herbal ledger amidst the smoking ruins of their home, mourning its destruction."
+    }
+  ],
+  "_raw": "{\n  \"candidates\": [\n    {\n      \"start\": \"00:43.00\",\n      \"end\": \"01:25.50\",\n      \"hook_time\": \"00:44.30\",\n      \"hook\": \"An operative steps from the misty forest and bows deferentially to Alexander, addressing him: \\\"Your Grace.\\\"\",\n      \"hook_type\": \"reveal\",\n      \"cliffhanger\": \"Alexander clenches his fist in fury upon hearing his mother is captive and rivals stole his seat, but the clip cuts right when his informant asks: \\\"And when we have the proof?\\\"\",\n      \"why\": \"It delivers the explosive identity reveal that this scarred common soldier is actually a Duke, followed immediately by high-stakes usurpation drama.\",\n      \"context_needed\": \"none\",\n      \"scores\": {\n        \"hook\": 9,\n        \"cliffhanger\": 8,\n        \"standalone\": 9\n      }\n    }\n  ],\n  \"moments\": [\n    {\n      \"start\": \"00:43.00\",\n      \"end\": \"00:49.20\",\n      \"kind\": \"hook\",\n      \"desc\": \"A mysterious agent bows in the fog, addressing Alexander as 'Your Grace' before Alexander demands an update on Ashburg.\"\n    },\n    {\n      \"start\": \"01:13.30\",\n      \"end\": \"01:23.80\",\n      \"kind\": \"setup\",\n      \"desc\": \"Alexander learns his mother is a prisoner and that everyone believes he is dead, resolving to let them believe it.\"\n    },\n    {\n      \"start\": \"01:21.20\",\n      \"end\": \"01:29.50\",\n      \"kind\": \"cliffhanger\",\n      \"desc\": \"Alexander delivers a cold promise of vengeance: 'Then Ashburg will remember who it belongs to.'\"\n    },\n    {\n      \"start\": \"00:00.00\",\n      \"end\": \"00:09.50\",\n      \"kind\": \"setup\",\n      \"desc\": \"Juliana clutches her scorched herbal ledger amidst the smoking ruins of their home, mourning its destruction.\"\n    }\n  ]\n}",
+  "_model": "gemini:gemini-3.7-flash"
+}
